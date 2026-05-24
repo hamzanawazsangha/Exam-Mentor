@@ -1,0 +1,41 @@
+{
+  "subject": "Constitutional Law",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What do you know about Judicial Review? Explain in detail the landmark cases of judicial review.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain in detail the Constitutional Law Remedies/Public Law Remedies under Article 199 of the Constitution of Pakistan 1973, available to the aggrieved party. Is there any restriction on the exercise of writ jurisdiction?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Elaborate the concept of separation of powers in comparative perspective. i.e. UK, Pakistan and U.S. Critically analyze the system of checks and balances provided in the U.S Constitution.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Explain the concept of 'Supremacy of the Parliament' in UK. Write in detail the process of legislation in the British Parliament. Is there any accountability over the authority of the Parliament in UK?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What do you know about the Constitutional history of Pakistan? Discuss the judgments delivered in Begum Nusrat Bhutto V Chief of the Army Staff PLD 1977 SC 657 and Asma Jilani V Government of the Punjab PLD 1972 SC 139. What is the impact of these judgements on the various organs of the State?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "The Constitution of USSR 1936 is characterised with democratic centralism. Critically analyse the relevant provisions of the Constitution paving way to the said assumption.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "What do you know about the concept of 'Fundamental Rights' as provided in the Constitution of Pakistan, 1973? Discuss in detail the newly inserted Fundamental Rights under 18th Amendment in the Constitution of Pakistan, 1973. Do you think the procedure of Amendment in the Constitution is similar to the Act of Parliament. How?",
+      "marks": 20
+    }
+  ]
+}

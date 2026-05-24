@@ -1,0 +1,36 @@
+{
+  "subject": "Accountancy and Auditing, Paper-I",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Campus Theater adjusts its accounts every month. The company\u2019s unadjusted trial balance dated August 31, current year, appears as follows. Additional information is provided for use in preparing the company\u2019s adjusting entries for the month of August. Required: (a) For each of the numbered paragraphs, prepare the necessary adjusting entry (including an explanation). (b) Refer to the balances shown in the unadjusted trial balance at August 31. How many months of expense are included in each of the following account balances? (Remember, Campus Theater adjusts its accounts monthly. Thus, the accounts shown were last adjusted on July 31, current year.) 1. Utilities Expense 2. Depreciation Expense 3. Accumulated Depreciation: Building (c) Assume the theater has been operating profitably all year. Although the August 31 trial balance shows substantial income taxes expense, income taxes payable is a much smaller amount. This relationship is quite normal throughout much of the year. Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "During the current year, Hitchcock Developers disposed of plant assets in the following transactions. Required: (a) Prepare journal entries to record each of the disposal transactions. Assume that depreciation expense on each asset has been recorded up to the date of disposal. Thus, you need not update the accumulated depreciation figures stated in the problem. (b) Will the gains and losses recorded in part affect the gross profit reported in Hitchcock\u2019s income statement? Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "S, T and Q were partners sharing profits in the proportion of 3:2:1. Their capitals on 31st December 2021, stood at $45,000, $15,000 and $15,500 respectively after adjustments of net profit of $18,000 for the year ending that date and drawings of $6,000, $4,000 and $2,000 respectively. It was discovered that while ascertaining the profits, the accountant did not take into consideration the following matters: 1. Interest @ 6% p.a. on capital as on January 1, 2021. 2. Q was entitled to a salary of $2,000 p.a. of which $490 was unpaid. 3. Till December 31, 2020, partners were sharing profits equally. Land costing $12,000 was purchased on the date of reallocation of profit, but no entry has been passed in that respect for which each partner contributed equal capital. 4. A loan of $5,000 from T as brought-forward from 2020 carrying interest at 8% p.a. was merged into his capital on July 1, 2021. No interest on loan was, however, charged to Profit and Loss Account. Required: Work out a Profit and Loss Adjustment Account and show the Journal Entries necessary for readjustments of Capital Accounts and the revised Capital Accounts of partners, assuming that all their dues are to be adjusted in the Capital Accounts.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Listed below are five items that may\u2014or may not\u2014require disclosure in the notes that accompany financial statements. Required: For each case, explain what, if any, disclosure is required under generally accepted accounting principles. Explain your reasoning.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Juarez Inc. had the following inventories on March 1: Finished Goods $15,000, Work in Process $19,070, Materials $17,000... Required: (a) Prepare job order cost sheets to post beginning inventory data. (b) Journalize the March transactions with current postings to general ledger inventory accounts and to job order cost sheets. (c) Prepare a schedule of inventories on March 31.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Wheeler Company, a small supplier of computer parts, is currently producing a new computer sensory unit. The company has been producing 150 units per week and factory overhead (all fixed) was estimated to be $1,200 per week... Required: (a) Calculate the dollar amount of the 23.2% labour cost increase. (b) Give an opinion, supported by figures, as to whether the shop superintendent was correct in assuming that the incentive wage plan was too costly, and discuss other factors to be considered.",
+      "marks": 20
+    }
+  ]
+}

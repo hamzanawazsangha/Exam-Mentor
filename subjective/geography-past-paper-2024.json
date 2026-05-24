@@ -1,0 +1,41 @@
+{
+  "subject": "Geography",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Describe the role of endogenic and exogenic forces in shaping the surface of Earth.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write a comprehensive note on the Global Atmospheric Circulation pattern. Discuss its impact on regional climate and environment.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Write a detailed note on the composition, temperature and salinity distribution of Oceanic waters.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically analyze how climate change has intensified natural disasters over the globe particularly in the last 20 years.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Write a comprehensive note on the patterns of urbanization in Pakistan. Discuss the main challenges faced by the major cities of the country.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Critically examine the environmental and socio-cultural impacts of tourism activity on the tourist supply regions with special reference to Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write Short Notes on any TWO of the following: i. Global variations in health and disease patterns ii. Determinants of Industrial Location iii. World Population growth and food insecurity",
+      "marks": 20
+    }
+  ]
+}

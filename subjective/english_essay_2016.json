@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2016",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "World as a global village: Learning to live together.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "We have to learn to be our own best friends, because we fall too easily into the trap of being our own worst enemies.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Water crisis and national unity.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "The place of Urdu in Pakistan and Supreme Court\u2019s ruling on making Urdu the official language of the country.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Crisis of good governance in Pakistan: Need for reforms and institution building.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "Promotion of tax culture in Pakistan: Perspective, prospects and challenges.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Gender equality is a myth!",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "The creation of new provinces in Pakistan: Implications for an integrated country.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Does foreign aid help to achieve economic stability?",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Frailty, thy name is woman.",
+      "marks": 100
+    }
+  ]
+}

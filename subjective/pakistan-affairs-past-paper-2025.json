@@ -1,0 +1,56 @@
+{
+  "subject": "Pakistan Affairs",
+  "year": "2025",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Discuss the historical significance of the Lahore Resolution in the context of the Pakistan Movement.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Evaluate the impact of the 18th Amendment on the governance and political structure of Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Analyze the role of women in the socio-economic development of Pakistan since independence.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What are the key challenges faced by Pakistan in achieving its Sustainable Development Goals (SDGs)?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Examine the historical and contemporary relations between Pakistan and India, focusing on key issues.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Critically assess the role of the military in Pakistan's politics since 1947.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Discuss the significance of CPEC (China-Pakistan Economic Corridor) for Pakistan's economy and regional connectivity.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Analyze the impact of climate change on Pakistan’s agriculture and water resources.",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "What are the implications of youth population demographics on Pakistan's future development?",
+      "marks": 20
+    },
+    {
+      "question_number": "10",
+      "question_text": "Evaluate the state of human rights in Pakistan, considering various socio-political factors.",
+      "marks": 20
+    }
+  ]
+}

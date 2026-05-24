@@ -1,0 +1,56 @@
+{
+  "subject": "Pakistan Studies",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Discuss the impact of the Lahore Resolution of 1940 on the political landscape of South Asia.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Analyze the economic challenges faced by Pakistan since its independence and the measures taken to address them.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Evaluate the role of the military in the governance of Pakistan and its impact on democracy.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Examine the cultural diversity of Pakistan and how it contributes to the national identity.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically assess the foreign policy of Pakistan towards India since 1947 and its implications for regional security.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss the significance of the CPEC (China-Pakistan Economic Corridor) for Pakistan's economic development.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Analyze the role of women in Pakistan's socio-economic development and the barriers they face.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Evaluate the impact of educational reforms in Pakistan on national development since the 2000s.",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "Discuss the challenges of climate change for Pakistan and the strategies that can be implemented to mitigate its effects.",
+      "marks": 20
+    },
+    {
+      "question_number": "10",
+      "question_text": "Examine the historical relationship between Pakistan and the United States, highlighting key events and policies.",
+      "marks": 20
+    }
+  ]
+}

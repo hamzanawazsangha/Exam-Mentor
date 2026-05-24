@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Access ExamMentor AI Portal for CSS, PMS & PPSC preparation.">
+    <title>Authentication | ExamMentor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css?v=1.7">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --primary: #581c87;
+            --text-dark: #111827;
+            --text-muted: #64748b;
+            --bg-light: #f1f5f9;
+            --border-color: #e2e8f0;
+        }
+
+        body.auth-page {
+            background: var(--bg-light);
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .auth-container {
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            background: #ffffff;
+            width: 95%;
+            max-width: 820px;
+            max-height: 560px;
+            /* Reduced to ensure it fits completely */
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+        }
+
+        /* Brand Side */
+        .brand-side {
+            background: linear-gradient(135deg, #581c87 0%, #3b0764 100%);
+            padding: 30px;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .brand-logo {
+            width: 40px;
+            height: 40px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 15px;
+        }
+
+        .brand-side h2 {
+            font-family: 'Outfit';
+            font-size: 1.8rem;
+            font-weight: 800;
+            margin: 0 0 10px;
+            line-height: 1.1;
+        }
+
+        .brand-side p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            line-height: 1.4;
+            margin-bottom: 20px;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+
+        .feature-icon {
+            width: 18px;
+            height: 18px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Form Side */
+        .form-side {
+            padding: 30px;
+            /* Reduced padding */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: #ffffff;
+        }
+
+        .auth-header {
+            margin-bottom: 20px;
+        }
+
+        .auth-header h1 {
+            font-family: 'Outfit';
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin: 0;
+            color: var(--text-dark);
+        }
+
+        .auth-header p {
+            color: var(--text-muted);
+            margin-top: 4px;
+            font-size: 0.85rem;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            display: block;
+            font-weight: 600;
+            font-size: 0.8rem;
+            margin-bottom: 6px;
+            color: var(--text-dark);
+        }
+
+        .input-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .input-wrapper i {
+            position: absolute;
+            left: 12px;
+            color: var(--text-muted);
+            width: 16px;
+            height: 16px;
+        }
+
+        .input-wrapper input {
+            width: 100%;
+            padding: 10px 12px 10px 38px;
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+            background: #f8fafc;
+        }
+
+        .input-wrapper input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: #ffffff;
+            box-shadow: 0 0 0 3px rgba(88, 28, 135, 0.08);
+        }
+
+        .btn-submit {
+            width: 100%;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 5px;
+        }
+
+        .btn-submit:hover {
+            background: #3b0764;
+            box-shadow: 0 5px 15px rgba(88, 28, 135, 0.15);
+        }
+
+        .auth-toggle {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            background: #f8fafc;
+            padding: 10px;
+            border-radius: 10px;
+            border: 1px solid var(--border-color);
+        }
+
+        .auth-toggle a {
+            color: var(--primary);
+            font-weight: 700;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        /* Sections */
+        .auth-section {
+            display: none;
+        }
+
+        .auth-section.active {
+            display: block;
+        }
+
+        .password-grid {
+            background: #f1f5f9;
+            padding: 10px;
+            border-radius: 8px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+            margin-top: 8px;
+            font-size: 0.7rem;
+        }
+
+        .req-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            color: var(--text-muted);
+        }
+
+        .req-item.met {
+            color: #059669;
+            font-weight: 600;
+        }
+
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+        .spin { animation: spin 1s linear infinite; }
+
+        @media (max-width: 800px) {
+            .auth-container {
+                grid-template-columns: 1fr;
+                max-width: 380px;
+                max-height: none;
+            }
+
+            .brand-side {
+                display: none;
+            }
+
+            .auth-page {
+                overflow: auto;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body class="auth-page">
+    <div class="auth-container">
+        <!-- Left Side: Branding -->
+        <div class="brand-side">
+            <img src="/assets/img/logo12.jpg?v=2" alt="ExamMentor Logo" class="custom-logo-img" style="width:48px; height:48px; margin-bottom:15px; border-radius:12px;">
+            <h2>ExamMentor</h2>
+            <p>Master CSS, PMS, and PPSC with advanced AI-powered guidance tools.</p>
+
+            <div class="feature-item">
+                <div class="feature-icon"><i data-lucide="check" style="width:10px"></i></div> AI Essay Studio
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i data-lucide="check" style="width:10px"></i></div> Syllabus Tracker
+            </div>
+            <div class="feature-item">
+                <div class="feature-icon"><i data-lucide="check" style="width:10px"></i></div> Paper Archive
+            </div>
+        </div>
+
+        <!-- Right Side: Forms -->
+        <div class="form-side" style="padding-top: 0px;">
+            <!-- Login -->
+            <div id="auth-login" class="auth-section active">
+                <div class="auth-header">
+                    <h1>Welcome Back</h1>
+                    <p>Login to your account.</p>
+                </div>
+                <div class="input-group">
+                    <label>Email Address</label>
+                    <div class="input-wrapper"><i data-lucide="mail"></i><input type="email" id="login-email"
+                            placeholder="name@example.com" autocomplete="off" style="margin-left: 7px;"></div>
+                </div>
+                <div class="input-group">
+                    <div
+                        style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                        <label style="margin: 0;">Password</label>
+                        <span onclick="switchAuth('forgot')"
+                            style="font-size: 0.75rem; color: var(--primary); font-weight: 700; cursor: pointer;">Forgot
+                            Password?</span>
+                    </div>
+                    <div class="input-wrapper"><i data-lucide="lock"></i><input type="password" id="login-password"
+                            placeholder="••••••••" autocomplete="off" style="margin-left: 7px;"></div>
+                </div>
+                <button onclick="login()" class="btn-submit">Login Portal <i data-lucide="arrow-right"
+                        style="width: 16px;"></i></button>
+                <div class="auth-toggle">Don't have an account? <a href="#" onclick="switchAuth('register')">Join
+                        Now</a></div>
+            </div>
+
+            <!-- Register -->
+            <div id="auth-register" class="auth-section">
+                <div class="auth-header" style="margin-bottom: 12px;">
+                    <h1>Create Account</h1>
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px;">
+                    <div>
+                        <label style="display:block; font-weight:600; font-size:0.75rem; margin-bottom:4px;">First
+                            Name</label>
+                        <input type="text" id="reg-first-name" placeholder="First" autocomplete="off"
+                            style="width:100%; padding:8px; border-radius:8px; border:1px solid var(--border-color); background:#f8fafc; font-size: 0.85rem;">
+                    </div>
+                    <div>
+                        <label style="display:block; font-weight:600; font-size:0.75rem; margin-bottom:4px;">Last
+                            Name</label>
+                        <input type="text" id="reg-last-name" placeholder="Last" autocomplete="off"
+                            style="width:100%; padding:8px; border-radius:8px; border:1px solid var(--border-color); background:#f8fafc; font-size: 0.85rem;">
+                    </div>
+                </div>
+                <div class="input-group">
+                    <label>Email Address</label>
+                    <div class="input-wrapper"><i data-lucide="mail"></i><input type="email" id="reg-email"
+                            placeholder="aspirant@example.com" autocomplete="off" style="margin-left: 7px;"></div>
+                </div>
+                <div class="input-group" style="margin-bottom: 10px;">
+                    <label>Password</label>
+                    <div class="input-wrapper"><i data-lucide="lock"></i><input type="password" id="reg-password"
+                            placeholder="••••••••" autocomplete="off" oninput="validatePassword()"
+                            style="margin-left: 7px;"></div>
+                    <div class="password-grid">
+                        <div class="req-item" id="req-capital"><i data-lucide="check" style="width:10px"></i> Uppercase
+                        </div>
+                        <div class="req-item" id="req-number"><i data-lucide="check" style="width:10px"></i> Number
+                        </div>
+                        <div class="req-item" id="req-length" style="grid-column: span 2;"><i data-lucide="check"
+                                style="width:10px"></i> 8+ characters</div>
+                    </div>
+                </div>
+                <button onclick="register()" class="btn-submit">Register <i data-lucide="user-plus"
+                        style="width: 16px;"></i></button>
+                <div class="auth-toggle">Already a member? <a href="#" onclick="switchAuth('login')">Sign In here</a>
+                </div>
+            </div>
+
+            <!-- Verify -->
+            <div id="auth-verify" class="auth-section">
+                <div class="auth-header" style="text-align: center;">
+                    <h1>Verify Email</h1>
+                    <p>Enter the code from your inbox.</p>
+                </div>
+                <div class="input-group"><input type="text" id="verify-code" placeholder="000000"
+                        style="width:100%; padding:12px; text-align:center; font-size:1.8rem; letter-spacing:8px; font-weight:800; border-radius:12px; border:2px solid var(--primary); background:#f3e8ff;">
+                </div>
+                <button onclick="verifyEmail()" class="btn-submit">Confirm Identity</button>
+            </div>
+
+            <!-- Forgot -->
+            <div id="auth-forgot" class="auth-section">
+                <div class="auth-header">
+                    <h1>Reset Access</h1>
+                    <p>Enter email for recovery code.</p>
+                </div>
+                <div class="input-group"><label>Email</label>
+                    <div class="input-wrapper"><i data-lucide="mail"></i><input type="email" id="forgot-email"
+                            placeholder="name@example.com" autocomplete="off" style="margin-left: 7px;"></div>
+                </div>
+                <button onclick="forgotPassword()" class="btn-submit">Send Code</button>
+                <div class="auth-toggle"><a href="#" onclick="switchAuth('login')">Back to Login</a></div>
+            </div>
+
+            <div id="toast-container" class="toast-container"></div>
+            <div id="login-msg" class="auth-msg mt-2" style="font-size: 0.8rem;"></div>
+            <div id="reg-msg" class="auth-msg mt-2" style="font-size: 0.8rem;"></div>
+        </div>
+    </div>
+
+    <script src="/assets/js/layout.js"></script>
+    <script src="/assets/js/script.js?v=10"></script>
+    <script>
+        window.onload = () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const mode = urlParams.get('mode');
+            if (mode && typeof switchAuth === 'function') {
+                switchAuth(mode);
+            }
+            lucide.createIcons();
+        };
+    </script>
+</body>
+
+</html>

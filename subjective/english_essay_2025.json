@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2025",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Patriotism is supporting your country all the time, and your government when it deserves it.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Brains, like hearts, go where they are appreciated.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Reforestation as a Global Urgency.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Hamas-Israel Conflict: A Test Case for World Conscience.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Rich in politicians, we desperately need statesmen.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "True peace is not merely the absence of tension; it is the presence of justice.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "To reign is worth ambition though in Hell.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Frailty is no more the name of Woman.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Dynastic politics is the worst mockery of democracy.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "An investment in knowledge pays the best interest.",
+      "marks": 100
+    }
+  ]
+}

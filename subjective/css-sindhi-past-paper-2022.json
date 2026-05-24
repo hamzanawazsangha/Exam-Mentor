@@ -1,0 +1,51 @@
+{
+  "subject": "Sindhi",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain the theoretical perspectives of Sindhi folklore and provide your own analysis regarding its foundational basis.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What significance do folk tunes hold in Sindhi folk literature?",
+      "marks": 20
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Write a note on the characteristics of ballads.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write a note on the art and purpose of the novel 'Hamaust'.",
+      "marks": 10
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the fundamental importance of representation in the poetry of Shah Abdul Latif with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Debate on why Sindhi poetry did not progress much during Mir's era with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Illustrate the growth of Sindhi prose during the British period with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Translate the given Sindhi paragraph into English.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Translate the given English paragraph into Sindhi.",
+      "marks": 10
+    }
+  ]
+}

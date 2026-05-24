@@ -1,0 +1,46 @@
+{
+  "subject": "Criminology",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Discuss scope of Criminology as science dealing with study of criminal law, forensics and criminal investigation.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Suggest Measures to control robberies/dacoities and urban street criminality in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "How juvenile delinquency can be reduced through institutional role, professional counseling and increased care?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What challenges are faced by police in controlling crime and maintaining law and order in the country?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Why crime scene is important for investigators? What are the crime scene search patterns?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "How international policing and monitoring organizations control human trafficking?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "\u2018Terrorism and radicalization continue to pose threat to global peace, economy and stability\u2019. Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "What is the role of FIA in controlling organized criminality in Pakistan?",
+      "marks": 20
+    }
+  ]
+}

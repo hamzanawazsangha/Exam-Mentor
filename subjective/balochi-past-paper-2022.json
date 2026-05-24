@@ -1,0 +1,31 @@
+{
+  "subject": "Balochi",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Discuss the evolution and development of Balochi literature over the decades.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Analyze the impact of socio-political changes on modern Balochi poetry.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Evaluate the role of oral tradition in preserving Balochi culture.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe the influence of Persian and Arabic on the Balochi language and script.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically assess the themes and styles of contemporary Balochi short stories.",
+      "marks": 20
+    }
+  ]
+}

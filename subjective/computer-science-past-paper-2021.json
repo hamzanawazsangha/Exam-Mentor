@@ -1,0 +1,41 @@
+{
+  "subject": "Computer Science",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What are office productivity tools? Explain uses of any two productivity tools in your home or workplace. Write a detailed note on computer crimes and ethical challenges. What are the different types of computers? Explain the benefits of miniaturization.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe any two of the following briefly: ISP, HTML, SSD, Cloud Computing. Write a program that should output the factors of the number passed as input \u2013 one factor on each line. Factors of a number, say x, are those whole numbers which can be multiplied with other whole numbers to get x. What are IDEs? How do they help in software development? List the IDEs you have ever used. Write a program in C/C++ to convert a decimal number to hexadecimal.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain object oriented programming paradigm. Write a detailed note on any two of the principles of object oriented programming paradigm. Why do we need interfaces in OOP? How does it help in achieving abstraction? What do you mean by runtime and compile time errors?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is a tree in data structure? Describe its types with the help of examples. What is pass by value and pass by reference? Can we pass an object as a parameter to call a method in java? Convert following infix notation to prefix: (i) (30+23)*(43-21)/(84+7) (ii) 2*(1+(4*(2+1)+3))",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Convert following NFA to DFA: (Image missing) Differentiate between overloading and overriding with the help of an example. What is recursion in data structures? Explain three conditions of a recursive function with the help of an example.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Write detailed notes on any TWO of the following: i. PERT chart ii. Unified Modeling Language iii. AVL Trees. What is a Software Process Model? Explain the Spiral model in detail. What do you mean by software quality? List at least five quality attributes.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Consider the grammar: S \u2192 cAd, A \u2192 a b | a. Construct a top-down parse tree for the input string w = cad. Is the above given grammar ambiguous or unambiguous? Justify your answer. Write similarities and differences of CFG and regular expression. Design grammar for the following language: \u201cThe set of all strings of 0s and 1s such that every 0 is immediately followed by at least one 1\u201d. Write a note on Aspect Oriented Programming.",
+      "marks": 20
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "subject": "English (Precis & Composition)",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Write a pr\u00e9cis of the following passage and suggest a suitable title.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Read the following passage carefully and answer the questions given at the end.",
+      "marks": 20
+    },
+    {
+      "question_number": "3.1",
+      "question_text": "How important is happiness to most people, and what is the relationship between material wealth and happiness?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.2",
+      "question_text": "How does the author characterize the concept of \u2018Voluntary Simplicity\u2019 as a movement and as a philosophy?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.3",
+      "question_text": "What impact is feared by the growing consumerism of modern society?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.4",
+      "question_text": "What influences make it difficult for people to reduce their consumption patterns?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.5",
+      "question_text": "What are the challenges and rewards of voluntary simplicity?",
+      "marks": 4
+    },
+    {
+      "question_number": "4",
+      "question_text": "Correct only FIVE of the following:",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Punctuate the following text, where necessary.",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Re-write the following sentences (ONLY FIVE) after filling in the blanks with appropriate Prepositions.",
+      "marks": 5
+    },
+    {
+      "question_number": "6",
+      "question_text": "Use only FIVE pairs of words in sentences clearly illustrating their meanings.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "Translate the following into English by keeping in view figurative/idiomatic expressions.",
+      "marks": 10
+    }
+  ]
+}

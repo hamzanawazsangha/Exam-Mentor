@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | ExamMentor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}?v=1.7">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/landing.css') }}?v=1.7">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .page-hero {
+            background-image: linear-gradient(rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.8)), url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1471&q=80');
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 60px;
+        }
+
+        .tech-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .tech-tag {
+            background: var(--primary-light);
+            color: var(--primary);
+            padding: 8px 16px;
+            border-radius: 99px;
+            font-weight: 700;
+            font-size: 0.85rem;
+            border: 1px solid rgba(88, 28, 135, 0.15);
+        }
+
+        @media (max-width: 992px) {
+            .about-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="landing-nav">
+        <a href="/" class="logo" style="text-decoration: none; display: flex; align-items: center; gap: 12px;">
+            <img src="/assets/img/logo12.jpg?v=2" alt="ExamMentor Logo" class="custom-logo-img">
+            <h1 style="font-size: 1.5rem; color: var(--primary); margin: 0;">ExamMentor</h1>
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/about" class="active">About Us</a></li>
+            <li><a href="/past-papers">Past Papers</a></li>
+        </ul>
+        <div class="nav-actions">
+            <!-- Dynamic Content via landing-auth.js -->
+        </div>
+    </nav>
+
+    <header class="page-hero">
+        <div class="container-wide">
+            <h1>Our Mission</h1>
+            <p>Empowering the next generation of civil servants with artificial intelligence and precision mentorship.</p>
+        </div>
+    </header>
+
+    <div class="section-padding container-wide">
+        <div class="glass-card-premium mb-5">
+            <h2 style="color: var(--primary); font-family: 'Outfit'; font-weight: 800; margin-bottom: 20px;">Introduction</h2>
+            <p style="font-size: 1.1rem; line-height: 1.8;">ExamMentor is Pakistan's first RAG-driven preparation portal dedicated specifically to CSS, PMS, and PPSC aspirants. We believe that competitive examination preparation should be data-driven, personalized, and accessible to everyone regardless of their location.</p>
+        </div>
+
+        <div class="about-grid">
+            <div class="glass-card-premium">
+                <h3 style="margin-bottom: 15px; font-weight: 800;">The Problem Statement</h3>
+                <p>Aspirants often struggle with overwhelming syllabus volumes and the high cost of traditional coaching. More importantly, the lack of immediate feedback on subjective answers leads to "preparation blindness," where students repeat errors until the actual exam day.</p>
+            </div>
+            <div class="glass-card-premium">
+                <h3 style="margin-bottom: 15px; font-weight: 800;">The Proposed Solution</h3>
+                <p>By integrating Large Language Models (LLMs) with a curated knowledge base of exam patterns and examiner reports, ExamMentor provides instant evaluation and strategic guidance. We turn passive study into an interactive learning experience.</p>
+            </div>
+        </div>
+
+        <div class="glass-card-premium mt-5">
+            <h3 style="margin-bottom: 25px; font-weight: 800;">Technological Excellence</h3>
+            <p>Our platform is built on a sophisticated stack designed for speed and intelligence:</p>
+            <div class="tech-list">
+                <span class="tech-tag">Flask (Python)</span>
+                <span class="tech-tag">Ollama LLM Engine</span>
+                <span class="tech-tag">Mistral-7B</span>
+                <span class="tech-tag">ChromaDB Vector Store</span>
+                <span class="tech-tag">RAG Architecture</span>
+                <span class="tech-tag">Semantic Search</span>
+                <span class="tech-tag">Lucide UI Kit</span>
+                <span class="tech-tag">SQLite Persistence</span>
+                <span class="tech-tag">JWT Security</span>
+            </div>
+        </div>
+    </div>
+
+    <footer class="landing-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h2>ExamMentor</h2>
+                <p>The premium guidance portal for PPSC, PMS, and CSS preparation. Empowering future civil servants with technology.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/past-papers">Past Papers</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="/login">Login Portal</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Contact Support</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 ExamMentor: PPSC & CSS Preparation Portal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/landing-auth.js') }}"></script>
+    <script>lucide.createIcons();</script>
+</body>
+</html>

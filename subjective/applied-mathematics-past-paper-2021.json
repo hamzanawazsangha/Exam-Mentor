@@ -1,0 +1,86 @@
+{
+  "subject": "Applied Mathematics",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "1a",
+      "question_text": "Evaluate the surface integral \u222c\ud835\udc34\u20d1. \ud835\udc5b\u20d1\u20d1\ud835\udc51\ud835\udc46 where \ud835\udc34\u20d1= \ud835\udc67\ud835\udc56\u20d1+ \ud835\udc65\ud835\udc57\u20d1\u22123\ud835\udc662\ud835\udc67\ud835\udc58\u20d1\u20d1 and \ud835\udc46 is the portion of the cylinder \ud835\udc652 + \ud835\udc662 = 8 lying in the first octant between \ud835\udc67= 0 and \ud835\udc67= 4.",
+      "marks": 10
+    },
+    {
+      "question_number": "1b",
+      "question_text": "Prove that \u2207(\ud835\udc53(\ud835\udc5f)) = \ud835\udc53\u2032(\ud835\udc5f)/\ud835\udc5f \ud835\udc5f\u20d1, where \ud835\udc5f\u20d1= \ud835\udc65\ud835\udc56\u20d1+ \ud835\udc66\ud835\udc57\u20d1+ \ud835\udc67\ud835\udc58\u20d1\u20d1 and \ud835\udc5f= |\ud835\udc5f\u20d1|.",
+      "marks": 10
+    },
+    {
+      "question_number": "2a",
+      "question_text": "The greatest resultant that two forces can have is of magnitude \ud835\udc43 and the least is of magnitude \ud835\udc44. Show that, when they act at an angle \ud835\udefc, their resultant is of magnitude \u221a\ud835\udc432\ud835\udc50\ud835\udc5c\ud835\udc602 \ud835\udefc/2 + \ud835\udc442\ud835\udc60\ud835\udc56\ud835\udc5b2 \ud835\udefc/2.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "A sphere of weight \ud835\udc4a and radius \ud835\udc4e is suspended by a string of length \ud835\udc59 from a point \ud835\udc43 and a weight \ud835\udc64 is also suspended from \ud835\udc43 by a string sufficiently long for the weight to hang below the sphere. Show that the inclination of the first string to the vertical is sin\u22121(\ud835\udc64\ud835\udc4e/(\ud835\udc4a+ \ud835\udc64)(\ud835\udc4e+ \ud835\udc59)).",
+      "marks": 10
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Show that the law of force towards the pole, of a particle describing the curve \ud835\udc5f\ud835\udc5b= \ud835\udc4e\ud835\udc5bcos\ud835\udc5b\ud835\udf03 is given by \ud835\udc53= (\ud835\udc5b+ 1)\u210e2\ud835\udc4e2\ud835\udc5b/\ud835\udc5f2\ud835\udc5b+3.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "The maximum velocity that a particle executing simple harmonic motion of amplitude \ud835\udc4e attains, is \ud835\udc63. If it is disturbed in such a way that its maximum velocity becomes \ud835\udc5b\ud835\udc63. Find the change in the amplitude and the time-period of motion.",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Define ordinary and singular points of the differential equation \ud835\udc4e2(\ud835\udc65)\ud835\udc66\u2032\u2032 + \ud835\udc4e1(\ud835\udc65)\ud835\udc66\u2032 + \ud835\udc4e0(\ud835\udc65)\ud835\udc66= 0. When a singular point is said to be regular and irregular? Find regular and irregular singular points of the differential equation (\ud835\udc652 \u22124)2\ud835\udc66\u2032\u2032 + (\ud835\udc65\u22122)\ud835\udc66\u2032 + \ud835\udc66= 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Show that \ud835\udc3d3/2 = \u221a2/\ud835\udf0b\ud835\udc65[sin \ud835\udc65/\ud835\udc65 \u2212cos\ud835\udc65].",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Solve the equation \ud835\udc66\u2032\u2032 \u2212\ud835\udc66\u2032 + \ud835\udc66= 2 cos3\ud835\udc65 using the method of undetermined coefficients.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Use the method of Frobenius to find two linear independent series solutions in powers of \ud835\udc65 of the DE \ud835\udc652\ud835\udc66\u2032\u2032 \u2212(\ud835\udc652 + \ud835\udc65)\ud835\udc66\u2032 + \ud835\udc66= 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Classify general second order partial differential equation (PDE) into elliptic, parabolic and hyperbolic form. Discuss the nature of the PDE (1\u2212\ud835\udc652)\ud835\udc62\ud835\udc65\ud835\udc65\u22122\ud835\udc65\ud835\udc66\ud835\udc62\ud835\udc65\ud835\udc66+ (1\u2212\ud835\udc662)\ud835\udc62\ud835\udc66\ud835\udc66= 0 at each (\ud835\udc65, \ud835\udc66) \u2208\ud835\udc452.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Use the method of separation of variables to find the solution \ud835\udc62(\ud835\udc65, \ud835\udc61): [0, \ud835\udc47] \u00d7 [0,\ud835\udc3f] \u2192\ud835\udc45 to the initial/boundary value problem \ud835\udc62\ud835\udc61(\ud835\udc65, \ud835\udc61) = \ud835\udc62\ud835\udc65\ud835\udc65(\ud835\udc65,\ud835\udc61) for 0 < \ud835\udc61\u2264\ud835\udc47 \ud835\udc4e\ud835\udc5b\ud835\udc51 0 \u2264\ud835\udc65\u2264L, where \ud835\udc53: [0,\ud835\udc3f] \u2192\ud835\udc45 is a known function.",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Use Simpson\u2019s 3/8 rule to estimate the integral \u222b(\ud835\udc653 \u22122\ud835\udc652 + 7\ud835\udc65\u22125)\ud835\udc51\ud835\udc65 from 3 to 1. By comparing your answer with the exact value, find the error.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Solve the system of equations using the Jacobi iterative method: 10\ud835\udc65+ 3\ud835\udc66+ \ud835\udc67= 19, 3\ud835\udc65+ 10\ud835\udc66+ 2\ud835\udc67= 29, \ud835\udc65+ 2\ud835\udc66+ 10\ud835\udc67= 35.",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "In the following table values of \ud835\udc66= \ud835\udc65+ sin \ud835\udc652 are tabulated. Construct a difference table and estimate \ud835\udc53(1.04) and \ud835\udc53(1.57).",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Use trapezoidal and Simpson\u2019s 1/3 rules to approximate \u222b\ud835\udc60\ud835\udc56\ud835\udc5b2(\ud835\udc65)\ud835\udc51\ud835\udc65 from 0 to \ud835\udf0b/2. Find a maximum bound for the error in each case. Compare your approximations with the actual result.",
+      "marks": 10
+    }
+  ]
+}

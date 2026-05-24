@@ -1,0 +1,101 @@
+{
+  "subject": "Physics",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "What is Gradient of a scalar function? Give its physical significance and show that Grad \u1fdb \u03c6 = \u2207 \u1fe0 \u03c6",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Define the term \u2018acceleration\u2019 and find its Cartesian components.",
+      "marks": 6
+    },
+    {
+      "question_number": "2c",
+      "question_text": "If A\u20d7= xz^3 \ud835\udea4\u0302 \u22122x^2z \ud835\udea5\u0302 + 2yz^4 \ud835\udc58\u0de0, then find curl of A at the point (1,-1,1).",
+      "marks": 4
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Explain the rotational kinetic energy and determine its formula for a disc, hoop and sphere.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "What do you mean by the term \u2018inertia\u2019 in physics? Calculate respectively the rotational inertia of a solid cylinder and a hollow cylinder about an axis of symmetry.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Calculate the angular speed of the second\u2019s hand, minutes hand and hour\u2019s hand of a watch.",
+      "marks": 4
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What was Physics like before relativity and how did Einstein come up with his theory? Mathematically explain how mass and energy is interchangeable.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Discuss in detail the relativity of length using Einstein\u2019s special theory of relativity.",
+      "marks": 6
+    },
+    {
+      "question_number": "4c",
+      "question_text": "Calculate the mass equivalent of energy from an antenna radiating 10KW for 24 hours.",
+      "marks": 4
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Define capillarity and derive an expression for the rise of liquid in a capillary tube to show that the height of the liquid column supported is inversely proportional to the radius of the tube.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "What are fluids? Write their important characteristics.",
+      "marks": 6
+    },
+    {
+      "question_number": "5c",
+      "question_text": "A cylindrical swimming pool has radius 2m and depth 1.3m. It is filled completely with salt water. Given, density of salt water = 1.03x10^3 kgm^-3, volume of water = 16.34m^3, and the atmospheric pressure = 1.013x10^5 Pa. Calculate the pressure at the bottom of the pool.",
+      "marks": 4
+    },
+    {
+      "question_number": "6a",
+      "question_text": "For a wave travelling through a medium, demonstrate that the total energy per unit volume is always equal to one half the kinetic and one half the potential energy.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "The longitudinal waves can pass through solids. How is it possible and on what parameters the velocity of such waves will depend?",
+      "marks": 6
+    },
+    {
+      "question_number": "6c",
+      "question_text": "The angular vibrational frequency of CO molecule is 0.6x10^15 s^-1. Calculate the amount of work required for stretching it by 0.5\u00c5 from the equilibrium position.",
+      "marks": 4
+    },
+    {
+      "question_number": "7a",
+      "question_text": "An ideal gas is enclosed in a cylinder with a movable piston. Calculate the work done on such gas and show that pressure force is non-conservative.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "State and briefly explain the intermolecular forces.",
+      "marks": 6
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Oxygen gas having a volume of 1130 cm^3 at 42\u00b0C and a pressure of 101 kPa expanded until its volume is 1530 cm^3 and its pressure is 106 kPa. Find the number of moles of oxygen in the system and its final temperature.",
+      "marks": 4
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write short notes on any TWO of the following: a. Kepler\u2019s Law of Periods, b. Michelson interferometer, c. Young\u2019s double slit experiment.",
+      "marks": 20
+    }
+  ]
+}

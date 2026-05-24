@@ -1,0 +1,86 @@
+{
+  "subject": "General Knowledge-I (General Science & Ability)",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Define ceramic and nano-ceramic materials. Why the nano-ceramics show better properties than their ceramic counterparts? Write the applications of ceramic materials.",
+      "marks": 5
+    },
+    {
+      "question_number": "2b",
+      "question_text": "What is \u2018Black Hole\u2019? How black holes are formed and discovered?",
+      "marks": 5
+    },
+    {
+      "question_number": "2c",
+      "question_text": "Write two applications of each of the following electromagnetic radiations: (i) Ultraviolet (ii) Infra-red (iii) Microwaves (iv) Radio waves (v) X-rays.",
+      "marks": 5
+    },
+    {
+      "question_number": "2d",
+      "question_text": "What is Wildfire? Explain its types, causes, spread and preventions.",
+      "marks": 5
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Why the bat and whale are considered as mammals?",
+      "marks": 5
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write a note on liver juice \u2018Bile\u2019.",
+      "marks": 5
+    },
+    {
+      "question_number": "3c",
+      "question_text": "How the urine is formed? Describe the role of kidney in excretion.",
+      "marks": 5
+    },
+    {
+      "question_number": "3d",
+      "question_text": "(i) How a bacterial cell is different from a plant cell? (ii) What do you think cold-blooded animals are slowed down by low temperatures?",
+      "marks": 5
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What is the difference between fog and smog? What are the causes of smog and its effects on human health? Write short note on any one of the latest technologies to eliminate smog to avoid atmospheric pollution.",
+      "marks": 5
+    },
+    {
+      "question_number": "4b",
+      "question_text": "What is the role of oxygen-demanding wastes in water pollution? How it can be prevented?",
+      "marks": 5
+    },
+    {
+      "question_number": "4c",
+      "question_text": "What is the biosphere? Write a note on the \u2018Energy Resources\u2019 available in the biosphere.",
+      "marks": 5
+    },
+    {
+      "question_number": "4d",
+      "question_text": "What are the different layers of the atmosphere? On what basis these layers are classified? In which layer \u2018Auroras\u2019 are formed and where do satellites orbit?",
+      "marks": 5
+    },
+    {
+      "question_number": "5a",
+      "question_text": "What are antioxidants and why are they used in foods? Write a short note on natural and synthetic antioxidants.",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "How the carbohydrates, proteins, and fats are digested in humans?",
+      "marks": 5
+    },
+    {
+      "question_number": "5c",
+      "question_text": "How does the Navstar GPS system work for different applications?",
+      "marks": 5
+    },
+    {
+      "question_number": "5d",
+      "question_text": "(i) Differentiate between network and internet. (ii) What is the difference among application, program and software?",
+      "marks": 5
+    }
+  ]
+}

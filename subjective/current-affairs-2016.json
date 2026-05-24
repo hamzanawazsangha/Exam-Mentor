@@ -1,0 +1,41 @@
+{
+  "subject": "Current Affairs",
+  "year": "2016",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Discuss in detail the efficacy of counter terrorism measures adopted by the government, especially with reference to the National Action Plan.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What measures would you suggest to improve the economy of Pakistan particularly in the areas of debt reduction and enhancing export capacity?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the possibilities of progress under the recently agreed rubric of comprehensive dialogue between Pakistan and India. In your opinion what are the major constraints at present?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss the prospects and challenges to the construction of \u201cChina-Pakistan Economic Corridor\u201d. How will CPEC become a game changer for the region?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "How do you see recent developments in the Middle East, particularly with reference to deteriorating relations between Saudi Arabia and Iran? What role, if any, Pakistan could play in reducing the tensions between the two Muslim countries?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Examine the emerging strategic competition between China and the US and its impact on global order.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss the adverse impact of climate change on the world and the measures recently adopted by the Paris Conference to address this issue.",
+      "marks": 20
+    }
+  ]
+}

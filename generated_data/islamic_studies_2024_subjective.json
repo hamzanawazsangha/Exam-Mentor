@@ -1,0 +1,56 @@
+{
+  "subject": "Islamic Studies",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Discuss the significance of the concept of Tawheed in Islam and its implications for Muslim life.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Analyze the impact of the Prophet Muhammad's (PBUH) life and teachings on the development of Islamic civilization.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Evaluate the role of Hadith in shaping Islamic jurisprudence and ethics.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Examine the contributions of Islamic scholars during the Golden Age of Islam to various fields of knowledge.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss the concept of Jihad in Islam and differentiate between its various interpretations.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Reflect on the importance of community (Ummah) in Islamic teachings and its role in contemporary society.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Analyze the challenges faced by Islamic societies in the modern world and propose possible solutions.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Critically assess the impact of globalization on Islamic values and cultural identity.",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "Discuss the ethical teachings of the Quran and their relevance in today's world.",
+      "marks": 20
+    },
+    {
+      "question_number": "10",
+      "question_text": "Examine the relationship between Islam and politics, focusing on the concept of Shura (consultation) in governance.",
+      "marks": 20
+    }
+  ]
+}

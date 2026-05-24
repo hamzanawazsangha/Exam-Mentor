@@ -1,0 +1,41 @@
+{
+  "subject": "Gender Studies",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Write a note on status of gender studies in Pakistan. Give your views on the autonomy versus integration debate in gender studies.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Differentiate between gender studies and women\u2019s studies. Discuss in detail the multidisciplinary nature of gender studies.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Define the terms masculinity and femininity. In your opinion where do traditional gender roles come from?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Outline and explain the three major waves of feminist movements in the West. Discuss the influence of these waves on feminist movements in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Write a detailed note on the colonial and capitalistic perspectives of gender.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Elucidate the current health status of women in Pakistan. What measures could be taken to improve the women's status as a whole? Support your arguments with suitable examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Define gender based violence. Explain various forms of violence against women in Pakistan and devise some practical strategies which can be helpful in the eradication of gender based violence from our society.",
+      "marks": 20
+    }
+  ]
+}

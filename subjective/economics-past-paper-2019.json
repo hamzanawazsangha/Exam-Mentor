@@ -1,0 +1,86 @@
+{
+  "subjects": [
+    {
+      "subject": "ECONOMICS, PAPER-I",
+      "year": "2019",
+      "questions": [
+        {
+          "question_number": "2",
+          "question_text": "Use the IS-LM model to discuss the Neutral effect of monetary expansion in the case of open economy. Distinguish between Keynesian and Classical Views on neutrality of money.",
+          "marks": 20
+        },
+        {
+          "question_number": "3",
+          "question_text": "What do you understand by Monetary Transmission Mechanism (MTM)? Evaluate and explain at least three different channels of MTM.",
+          "marks": 20
+        },
+        {
+          "question_number": "4",
+          "question_text": "What do the slopes of an isoquant line and iso-cost line measure? Describe theoretically and graphically the conditions that are satisfied when a firm has chosen a least cost technique for producing a given output.",
+          "marks": 20
+        },
+        {
+          "question_number": "5",
+          "question_text": "What are tariff and nontariff barriers to international trade? Why do countries sometimes restrict international trade?",
+          "marks": 20
+        },
+        {
+          "question_number": "6",
+          "question_text": "Extricate among fixed, flexible and managed floating exchange rate regimes.",
+          "marks": 20
+        },
+        {
+          "question_number": "7",
+          "question_text": "Describe the underdevelopment trap. Highlight the main ways in which poor countries attempt to overcome their poverty.",
+          "marks": 20
+        },
+        {
+          "question_number": "8",
+          "question_text": "Distinguish between any FOUR: (a) Comparative advantage and Absolute advantage, (b) Consumer surplus and producer surplus, (c) Progressive and regressive taxes, (d) Economic growth and economic development, (e) Real GNP and nominal GNP, (f) Consumer price index and GDP deflator.",
+          "marks": 20
+        }
+      ]
+    },
+    {
+      "subject": "ECONOMICS, PAPER-II",
+      "year": "2019",
+      "questions": [
+        {
+          "question_number": "2",
+          "question_text": "Describe the salient features of Nurkse, Ropan and Hirchman theories. Comment on the relevancy of each with reference to Pakistan?",
+          "marks": 20
+        },
+        {
+          "question_number": "3",
+          "question_text": "Critically examine the surplus labor model presented by Arthur Lewis. Can this model be used to initiate industrial development in Pakistan?",
+          "marks": 20
+        },
+        {
+          "question_number": "4",
+          "question_text": "Differentiate between the concepts of poverty and income inequality. How can public policy help in alleviating poverty and reducing inequality in a developing country like Pakistan?",
+          "marks": 20
+        },
+        {
+          "question_number": "5",
+          "question_text": "Explain various types of inflation. To what extent should it be controlled? How can fiscal and monetary policy measures help control inflation in Pakistan?",
+          "marks": 20
+        },
+        {
+          "question_number": "6",
+          "question_text": "Analyze the role of international trade in the economic development of Pakistan. How might WTO affect the terms of trade in an otherwise free economy?",
+          "marks": 20
+        },
+        {
+          "question_number": "7",
+          "question_text": "Examine the role of Agriculture Sector in the economic development of Pakistan. Should the country continue investing in it or there exist better options as alternate plans?",
+          "marks": 20
+        },
+        {
+          "question_number": "8",
+          "question_text": "What are the reasons for the adverse balance of trade in Pakistan? Suggest the possible measures to improve the balance of trade scenario of Pakistan.",
+          "marks": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "English Essay",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Hope: the greatest driving force.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "CPEC and \u201cIndo \u2013 Middle East \u2013 Europe\u201d, new war fronts.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "The power of propaganda and Muslim World.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Phase out of fossil fuel and Arab Economies.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Pragmatism vs Passion in politics.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "BRICS and Pakistan: Prospects of Recovery.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Artificial Intelligence: The Death of Creativity.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Pathways to Pakistan\u2019s Prosperity.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Globalization and National Economies.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Political Polarization; Governance and Society",
+      "marks": 100
+    }
+  ]
+}

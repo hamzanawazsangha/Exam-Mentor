@@ -1,0 +1,41 @@
+{
+  "subject": "Business Administration",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Calculate payback period, required rate of return is 12% for net present value and profitability index.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "An international manufacturing concern has provided the income statement data. Give formulas to calculate the following ratios. Also explain how to interpret them. (i) Current ratio (ii) Quick ratio (iii) Average collection period (iv) Time interest earned (v) Inventory turnover",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the advantages and disadvantages of different methods a manager can adopt for effective performance appraisal of employees.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe competitive advantages and the competitive strategies the organizations use to achieve it with practical examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Define the major steps in designing a customer value driven marketing strategy, market segmentation, targeting, differentiation and positioning.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "The impact of different levels of decision phases of supply chain depends on timeframe. Explain the decision phases in supply chains with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Compare the advantages of mass marketing to those of market segmentation for a company. Discuss with relevant business examples.",
+      "marks": 20
+    }
+  ]
+}

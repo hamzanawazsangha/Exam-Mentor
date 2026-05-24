@@ -1,0 +1,51 @@
+{
+  "subject": "Economics, Paper-I",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Why do economists use the ceteris paribus assumption? Many changes are affecting the market for oil. Predict how each of the following events will affect the equilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply and demand diagram. Create a sketch of the diagram if necessary.\na. Cars are becoming more fuel efficient, and therefore get more miles to the gallon.\nb. Landlords install additional insulation in buildings.\nc. The price of solar energy falls dramatically.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What is the Consumer Price Index (CPI)? How is it constructed, and how does it measure inflation? Why is it so important to so many people in Pakistan today? What are some of its weaknesses?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "How does the existence of money simplify the process of buying and selling? What is the double-coincidence of wants? State and explain the concept of the money multiplier.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Which kind of monetary policy would you expect in response to high inflation: expansionary or contractionary? Why? How might each of the following factors complicate the implementation of monetary policy: long and variable lags, excess reserves, and movements in velocity?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "How can an unexpected fall in exchange rates injure the financial health of a nation\u2019s banks? What is the difference between a floating exchange rate, a soft peg, a hard peg, and dollarization?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What do you understand economic development to mean? Given the diversity of developing countries, do you think that there could ever be a single, unified theory of development? Explain your answer.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Possibilities of export promotion in developing nations.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Demographic transition.",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Environmental Sustainability with special reference to developing countries.",
+      "marks": 10
+    }
+  ]
+}

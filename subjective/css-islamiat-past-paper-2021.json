@@ -1,0 +1,46 @@
+{
+  "subject": "Islamic Studies",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is belief in the Day of Judgment? Explore its effects on individual and collective lives of human beings.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Islam provides better rights to men and women than all other religions. Explore with arguments.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Comment on the teachings of Islam regarding co-existence in a multi-faith society.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Islamophobia is a sign of extremism. Give suggestions for its remedy.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Express the principles of accountability of rulers according to the Holy Quarn and Sunnah.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Explore the importance of Sufism to spread out Islam. Is the amelioration of current deviation possible through Sufism?",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write a note on the Treaty of Hudaybiyya as a pact of peace.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write a note on the benefits acquired from the Battle of Khayber.",
+      "marks": 10
+    }
+  ]
+}

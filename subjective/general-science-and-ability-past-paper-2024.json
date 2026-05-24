@@ -1,0 +1,41 @@
+{
+  "subject": "General Science & Ability",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is the Tuberculosis and Hepatitis? Explain briefly. Explain the mechanism of Fiber Optic Cable for signal. Explain its construction. Explain the difference between Middle Latitude Cyclones and Tornadoes. What is difference between the Ionic and Covalent bonding? Give examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What is difference between Plastics and Elastics? Explain briefly. What is role of Remote sensing and GIS in environmental Science? Discuss briefly. What are Kepler laws related to the motion of planets? What is difference between preservatives and antioxidants? Discuss briefly with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What is role of Carbohydrates and Vitamins in the body? Discuss briefly. Discuss the functioning of Liver and Pancreas. What are the standards of drinking water? How Heavy Metals in the water affect the living organisms? What is radioactivity? Discuss the laws of radioactivity. Name two radioactive elements.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What are the Plant nutrition elements? Enumerate them. What is difference between software and hardware? Give five examples of each. What are the types of earthquake waves? Discuss them. What are longitudinal waves, electromagnetic and Gamma radiations? Discuss them.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "If the sum of four numbers is 105. When 03 is added to a number, twice of another number, five times of third number and fourth number become equal to each other. What are these numbers in ascending order? Find out the correct word from the given jumbled spellings: (i) UCTREUTRS (ii) LOVONAC (iii) CIHPROSTATAC (iv) YNTIAUMH (v) NNTHORER. Find the missing numbers in the series below: (i) 121, 11, 81, 9, ?, 7 (ii) 100, 50, 25, ?, 6.25 (iii) 4, 9, 64, 125, 1296, ? (iv) 2, 5, 12, 24, 48, ? (v) 44, 22, 66, 33, 132, ?. If the sum of three digit number is 15 and sum of 10th and unit digit is 12. The difference of unit digit from 10th digit is equal to 02. What is the three digit number?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "A man travels over the path of a right-angle triangle having base and hypotenuse 4 and 5 kilometers, respectively. After a complete round he continues in the same direction for 6 km and then turns at 90 degree and continues for another 8 km. How long he has travelled and how far he is from his starting point? Hassan, Ali, Akbar, Nasir and Shahbaz are classmates having different pocket money. Hassan\u2019s pocket money is one third as much as of Ali and Ali has five times as much as Akbar. Akbar has thrice as much as Nasir and Shahbaz gets equal to Nasir and that of Ali. If they get Rs. 8000 then find the pocket money of each. What will be the surface area and volume of a sphere if it has a radius of 7 m? Distribute Rs. 4320 among Zain, Aslam and Ashraf in such a way that if zain gets 2 parts then Aslam gets three parts, whereas Ashraf gets seven parts.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "A man purchases a car in an amount of Rs. 2400,000 in which he pays one-fourth extra as profit. Find the original amount of car and the amount of profit. Twelve men can complete a job in twenty-four days. After four days four person quit. In how many days this job will be completed by the remaining persons. The shadow of a 10 m tall tree is falling on a high rise building and its height is 100 m. If the tree is 20 m away from the wall, at what distance from the wall is the light source? There are three cars and start moving in such a way that car A and B are moving opposite with speed 60 and 100 km/h. Car C is moving perpendicularly to both with speed 80 km/h. What is distance after 15 minutes between (i) A and B (ii ) A and C (iii) B and C?",
+      "marks": 20
+    }
+  ]
+}

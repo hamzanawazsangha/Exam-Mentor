@@ -1,0 +1,51 @@
+{
+  "subject": "Law",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "When does a sale of property in execution of decree becomes absolute. Under what circumstances can it be set aside?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write a comprehensive note on Resjudicate and bring out its points of difference from res subjudice.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What formalities are to be observed in recording a confession and under which provision of law?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is secondary evidence and in which cases can it be given? Discuss in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "All facts in issue and Relevant Facts must be proved by evidence, either oral or documentary. Fully explain this rule and exceptions to it, if any, give illustrations.",
+      "marks": 20
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Under what circumstances right to self-defence extends to causing death of assailant? Describe as per provisions of PPC.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Amjad intending to cause a theft to be committed, instigates Saleem to take property belonging to Babar out of Babar\u2019s possession. Amjad induces Saleem to believe that the property belongs to Amjad. Saleem takes the property out of Babar\u2019s possession, in good faith, believing it to be Amjad\u2019s property. Elaborate the criminal responsibility of Amjad and Saleem. Discuss the relevant provisions of law.",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "What is the effect of insolvency of a party on an arbitration agreement and proceedings?",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "What are the circumstances under which a civil judge exercise the jurisdiction of District courts?",
+      "marks": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "Geology",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Describe the principal of plate tectonic with evidences. Explain the Wilson cycle in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain the vertical stacking pattern and parasequences set. How does the vertical stacking pattern of parasequences allow for the recognition of systems tracts?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain the tectonic framework of Pakistan with an example of Indian-Eurasian and Indian-African plate drifting.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe Polarized Light Microscopy along with optical properties of opaque and non-opaque mineral? How to identify the Gout crystal and Pseudo-Gout?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Explain different geophysical methods such as gravity, magnetic, electrical resistivity, electromagnetic and seismic. Explain the application of each method, its strength and its limitations.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are the merits and demerits of refraction seismology, magnetic surveying, resistivity surveying and gravity to probe the depth of bedrock, bedrock lithology and crustal thickness?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write short notes on any TWO of the following:\n(a) Radioactivity and types with reaction\n(b) Hadley cell, Ferrell cell and polar cell of air movement\n(c) Sedimentary Basin of Pakistan",
+      "marks": 20
+    }
+  ]
+}

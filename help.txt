@@ -1,0 +1,3 @@
+tinyllama
+phi3
+mistral:7b-instruct

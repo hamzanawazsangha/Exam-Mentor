@@ -1,0 +1,41 @@
+{
+  "subject": "Economics, Paper-I",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Differentiate among the own price elasticity, cross-price elasticity and income elasticity of demand. Explain the practical significance/uses of own price elasticity and income elasticity of demand.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What happens to interest rate if prices change along a given Aggregate Demand Schedule? Explain with the help of IS-LM model.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the significance of investment in human capital for economic development in Pakistan. How the brain drain from a developing country retards the process of economic development?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Differentiate among the tax, fee and price. Express your views about tax collection to GDP ratio in Pakistan. Suggest measures to enhance and rationalize tax revenue in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "State and explain the functions of a central bank. How successful the State bank of Pakistan has been in achieving its objectives over time? Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Specifically describe the types of inflation. Which type of inflation is the most disturbing in Pakistan? Suggest measures to address the identified inflation problem.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write short notes on any two of the followings. (i) Size distribution vs. functional distribution of income (ii) Privatization (iii) International trade and cartels",
+      "marks": 20
+    }
+  ]
+}

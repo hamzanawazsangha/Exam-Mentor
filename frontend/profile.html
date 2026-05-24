@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="profile">
+                <header class="page-header">
+                    <h2><i data-lucide="user" class="icon-inline"></i> User Profile</h2>
+                    <p>Manage your account settings, education, and security.</p>
+                </header>
+
+                <div class="grid" style="display: grid; grid-template-columns: 300px 1fr; gap: 24px;">
+                    <!-- Sidebar Style Profile -->
+                    <div class="card glass-card text-center">
+                        <div class="profile-photo-container mb-3" style="position: relative; width: 120px; height: 120px; margin: 0 auto;">
+                            <img id="profile-photo-img" src="https://ui-avatars.com/api/?name=User&background=random" alt="Profile" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 4px solid var(--primary-light);">
+                            <label for="profile-photo-upload" style="position: absolute; bottom: 0; right: 0; background: var(--primary); color: white; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer;">
+                                <i data-lucide="camera" style="width: 16px;"></i>
+                            </label>
+                            <input type="file" id="profile-photo-upload" class="hidden" accept="image/*" onchange="uploadProfilePhoto(this)">
+                        </div>
+                        <h3 id="profile-full-name">Full Name</h3>
+                        <p class="meta" id="profile-email-text">email@example.com</p>
+                        <hr class="my-4">
+                        <div class="text-left">
+                            <p class="mb-2"><i data-lucide="graduation-cap" class="icon-inline"></i> <span id="profile-degree-text">Not Set</span></p>
+                            <p><i data-lucide="award" class="icon-inline"></i> <span id="profile-exam-text">CSS Aspirant</span></p>
+                        </div>
+                    </div>
+
+                    <!-- Main Info -->
+                    <div class="card glass-card">
+                        <h4 class="mb-4">Account Information</h4>
+                        <div class="input-row mb-4">
+                            <div style="flex:1">
+                                <label>First Name</label>
+                                <input type="text" id="prof-edit-first" placeholder="First Name">
+                            </div>
+                            <div style="flex:1">
+                                <label>Last Name</label>
+                                <input type="text" id="prof-edit-last" placeholder="Last Name">
+                            </div>
+                        </div>
+                        <div class="input-col mb-4">
+                            <label>Educational Degree</label>
+                            <input type="text" id="prof-edit-degree" placeholder="e.g. BS Computer Science">
+                        </div>
+                        <button onclick="saveProfileChanges()" class="btn-compact"><i data-lucide="save"></i> Save Changes</button>
+
+                        <hr class="my-4">
+                        <h4 class="mb-4">Security & Password</h4>
+                        <div class="input-col">
+                            <label>New Password</label>
+                            <input type="password" id="prof-new-password" placeholder="Leave blank to keep current">
+                            <label class="mt-2">Confirm New Password</label>
+                            <input type="password" id="prof-confirm-password" placeholder="Confirm new password">
+                        </div>
+                        <button onclick="changePasswordFromProfile()" class="mt-4 btn-secondary"><i data-lucide="lock"></i> Update Security Credentials</button>
+                        <div id="profile-msg" class="auth-msg mt-3"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof loadProfileData === 'function') {
+                loadProfileData();
+            }
+        });
+    </script>
+</body>
+</html>

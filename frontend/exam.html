@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Hall | ElitePrep AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --primary: #581c87;
+            --primary-light: #f3e8ff;
+            --accent: #7e22ce;
+            --bg-page: #f1f5f9;
+            --text-dark: #111827;
+            --text-muted: #64748b;
+            --radius: 16px;
+            --glass: rgba(255, 255, 255, 0.8);
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top right, #e0e7ff, transparent),
+                        radial-gradient(circle at bottom left, #f1f5f9, transparent);
+            background-color: var(--bg-page);
+            color: var(--text-dark);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        .exam-header {
+            position: sticky;
+            top: 0;
+            background: var(--glass);
+            backdrop-filter: blur(12px);
+            padding: 20px 60px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(255,255,255,0.3);
+        }
+        .timer-box {
+            background: #fff1f2;
+            color: #e11d48;
+            padding: 10px 20px;
+            border-radius: 99px;
+            font-weight: 800;
+            font-family: 'Outfit', sans-serif;
+            border: 1px solid #fecdd3;
+            box-shadow: 0 4px 6px -1px rgba(225, 29, 72, 0.1);
+        }
+        .container {
+            max-width: 950px;
+            margin: 50px auto;
+            background: white;
+            padding: 60px;
+            border-radius: var(--radius);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+        }
+        .q-block {
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #f1f5f9;
+        }
+        .q-block:last-child { border-bottom: none; }
+
+        .section-title {
+            color: var(--primary);
+            border-bottom: 3px solid var(--primary);
+            display: inline-block;
+            padding-bottom: 4px;
+            margin-bottom: 35px;
+            font-family: 'Outfit', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 800;
+        }
+        textarea {
+            width: 100%;
+            padding: 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            font-family: inherit;
+            font-size: 1.05rem;
+            margin-top: 15px;
+            box-sizing: border-box;
+            transition: 0.3s;
+            background: #fcfdfe;
+        }
+        textarea:focus {
+            border-color: var(--accent);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(88, 28, 135, 0.1);
+            background: white;
+        }
+        .options-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .option-label {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 16px 20px;
+            background: #f8fafc;
+            border: 2px solid #f1f5f9;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: 0.2s;
+            font-weight: 500;
+        }
+        .option-label:hover { 
+            background: #eff6ff; 
+            border-color: #dbeafe;
+            color: var(--accent);
+        }
+        input[type="radio"]:checked + span { color: var(--accent); font-weight: 700; }
+
+        .submit-footer {
+            max-width: 950px;
+            margin: 0 auto 100px;
+            padding: 0 60px;
+        }
+        .submit-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 20px 40px;
+            border-radius: 12px;
+            font-weight: 800;
+            cursor: pointer;
+            width: 100%;
+            font-size: 1.2rem;
+            font-family: 'Outfit', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            transition: 0.3s;
+            box-shadow: 0 10px 15px -3px rgba(88, 28, 135, 0.3);
+        }
+        .submit-btn:hover {
+            background: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: 0 20px 25px -5px rgba(88, 28, 135, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="exam-header">
+        <div>
+            <h2 id="paper-title" style="margin:0; font-family:'Outfit';">Loading Paper...</h2>
+        </div>
+        <div class="timer-box">
+            ⏱ <span id="timer">--:--</span>
+        </div>
+    </div>
+
+    <div class="container" id="paper-container">
+        <p style="text-align:center;">Authenticating Paper Security...</p>
+    </div>
+
+    <script>
+        const API = "http://127.0.0.1:5000/api";
+        let activeTest = null;
+        let timeLeft = 0;
+
+        async function init() {
+            const data = JSON.parse(localStorage.getItem('activeExam'));
+            if(!data) {
+                document.body.innerHTML = "<h1>Unauthorized Access</h1>";
+                return;
+            }
+            activeTest = data;
+            document.getElementById('paper-title').innerText = activeTest.subject_name;
+            timeLeft = activeTest.total_time * 60;
+            startTimer();
+            renderPaper();
+        }
+
+        function startTimer() {
+            const timerDisplay = document.getElementById('timer');
+            const interval = setInterval(() => {
+                const mins = Math.floor(timeLeft / 60);
+                const secs = timeLeft % 60;
+                timerDisplay.innerText = `${mins}:${secs < 10 ? '0' : ''}${secs}`;
+                if(timeLeft <= 0) {
+                    clearInterval(interval);
+                    submitPaper();
+                }
+                timeLeft--;
+            }, 1000);
+        }
+
+        function renderPaper() {
+            let html = "";
+            activeTest.sections.forEach(section => {
+                html += `<div class="section-title"><h3>${section.title} (${section.marks} Marks)</h3></div>`;
+                section.questions.forEach((q, i) => {
+                    if(section.type === 'objective') {
+                        html += `<div class="q-block">
+                            <p><b>Q${i+1}:</b> ${q.text}</p>
+                            <div class="options-grid">
+                                ${q.options.map((opt) => `
+                                    <label class="option-label">
+                                        <input type="radio" name="q${q.id}" value="${opt}"> ${opt}
+                                    </label>
+                                `).join('')}
+                            </div>
+                        </div>`;
+                    } else {
+                        html += `<div class="q-block">
+                            <p><b>Q${i+1}:</b> ${q.text} <span style="color:#64748b;">(${q.marks} Marks)</span></p>
+                            <textarea id="sub-q-${q.id}" rows="8" placeholder="Type your detailed response here..."></textarea>
+                        </div>`;
+                    }
+                });
+            });
+            document.getElementById('paper-container').innerHTML = html;
+        }
+
+        async function submitPaper() {
+            const user_answers = {};
+            let score_objective = 0;
+
+            activeTest.sections.forEach(section => {
+                section.questions.forEach((q) => {
+                    if(section.type === 'objective') {
+                        const selected = document.querySelector(`input[name="q${q.id}"]:checked`);
+                        const val = selected ? selected.value : "";
+                        user_answers[q.id] = val;
+                        if(val === q.correct) score_objective += (section.marks / section.questions.length);
+                    } else {
+                        user_answers[q.id] = document.getElementById(`sub-q-${q.id}`).value;
+                    }
+                });
+            });
+
+            try {
+                const res = await fetch(`${API}/mocktest/submit`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${localStorage.getItem('token')}`
+                    },
+                    body: JSON.stringify({ 
+                        test_id: activeTest.test_id, 
+                        user_answers,
+                        score_objective: Math.round(score_objective)
+                    })
+                });
+                if(res.ok) {
+                    alert("Exam Submitted Successfully! You can now close this tab.");
+                    window.close();
+                }
+            } catch(e) { alert("Submission error."); }
+        }
+
+        document.body.insertAdjacentHTML('beforeend', `<div style="padding: 40px; max-width: 900px; margin: 0 auto;"><button onclick="submitPaper()" class="submit-btn">Finish and Submit Paper</button></div>`);
+        init();
+    </script>
+</body>
+</html>

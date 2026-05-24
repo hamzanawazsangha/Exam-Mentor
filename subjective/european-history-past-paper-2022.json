@@ -1,0 +1,51 @@
+{
+  "subject": "European History",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Critically evaluate the Phenomenon of the Napoleonic Regime. Whether it was \"military dictatorship\" or \"the victory of a state\"? Do comment.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "\"The Congress of Vienna does not walk, but it dances\". Elucidate the Quote.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What is the credit side and debit side of Eastern Questions?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Who, why, and what kept liberalism and nationalism suppressed in the German states?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "\"It is stated by the historians that France\u2019s hunt for security and England\u2019s desire for peace were responsible for the rise of Hitler.\" Do you agree or not? Come up with watertight arguments to prove your point.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Give a balanced critique on the role of Europe in War on Terror. How do you foresee its implications on the whole globe?",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write notes on the Balkan War, 1912-1913.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write notes on the Re-unification of Germany.",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write notes on the Concert of Europe.",
+      "marks": 10
+    }
+  ]
+}

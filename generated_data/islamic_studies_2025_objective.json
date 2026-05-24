@@ -1,0 +1,1458 @@
+[
+  {
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Quran",
+      "Hadith",
+      "Bible",
+      "Talmud"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the last prophet in Islam?",
+    "options": [
+      "Moses",
+      "Jesus",
+      "Muhammad",
+      "Abraham"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is considered the holiest in Islam?",
+    "options": [
+      "Medina",
+      "Jerusalem",
+      "Mecca",
+      "Kufa"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the concept of 'Shahada' in Islam?",
+    "options": [
+      "Prayer",
+      "Fasting",
+      "Faith",
+      "Charity"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is one of the Five Pillars of Islam?",
+    "options": [
+      "Charity",
+      "Pilgrimage",
+      "Both A and B",
+      "None of the Above"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term for the community of Muslims worldwide?",
+    "options": [
+      "Ummah",
+      "Sunnah",
+      "Sharia",
+      "Hadith"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which month is observed as Ramadan in the Islamic calendar?",
+    "options": [
+      "7th",
+      "9th",
+      "10th",
+      "12th"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the meaning of the word 'Islam'?",
+    "options": [
+      "Peace",
+      "Submission",
+      "Faith",
+      "Truth"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "114",
+      "100",
+      "84",
+      "73"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The practice of giving alms is known as what?",
+    "options": [
+      "Zakat",
+      "Sawm",
+      "Salat",
+      "Hajj"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the 'Hajj' refer to in Islam?",
+    "options": [
+      "Fast",
+      "Prayer",
+      "Pilgrimage",
+      "Charity"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary language of the Quran?",
+    "options": [
+      "Urdu",
+      "Arabic",
+      "Persian",
+      "English"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which Islamic law governs the actions of Muslims?",
+    "options": [
+      "Halal",
+      "Haram",
+      "Sharia",
+      "Tafsir"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The term 'Hadith' in Islam refers to what?",
+    "options": [
+      "Quranic verses",
+      "Sayings of the Prophet",
+      "Religious law",
+      "Traditions"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is considered the Night of Decree?",
+    "options": [
+      "Laylat al-Qadr",
+      "Eid al-Adha",
+      "Ramadan",
+      "Ashura"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which battle was fought in 624 AD and is a significant event in Islamic history?",
+    "options": [
+      "Battle of Uhud",
+      "Battle of Badr",
+      "Battle of Khandaq",
+      "Battle of Tabuk"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who compiled the Quran into book form?",
+    "options": [
+      "Abu Bakr",
+      "Uthman",
+      "Ali",
+      "Omar"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the significance of the 'Kaaba' in Islam?",
+    "options": [
+      "Place of prayer",
+      "Original mosque",
+      "Direction of prayer",
+      "All of the above"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, what is 'Ramadan' primarily known for?",
+    "options": [
+      "Fasting",
+      "Prayer",
+      "Charity",
+      "Pilgrimage"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is NOT one of the great prophets in Islam?",
+    "options": [
+      "Noah",
+      "Job",
+      "David",
+      "Aristotle"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The term 'Sunnah' refers to what in Islam?",
+    "options": [
+      "Practices of the prophets",
+      "Quranic injunctions",
+      "Religiosity",
+      "Salat"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which one of these pillars is not included in the Five Pillars of Islam?",
+    "options": [
+      "Prayer",
+      "Belief",
+      "Justice",
+      "Zakat"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'Zakat' mean in Arabic?",
+    "options": [
+      "Fasting",
+      "Purification",
+      "Prayer",
+      "Charity"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the significance of 'Ashura' in Islam?",
+    "options": [
+      "A day of fasting",
+      "Commemoration of a historical event",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following events is commemorated during the month of Muharram?",
+    "options": [
+      "Birth of the Prophet",
+      "Battle of Karbala",
+      "Night of Ascension",
+      "The Hijra"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, what is the term for intercession?",
+    "options": [
+      "Shafa'ah",
+      "Seerah",
+      "Shahadah",
+      "Sahih"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which Islamic month follows Ramadan?",
+    "options": [
+      "Shawwal",
+      "Muharram",
+      "Safar",
+      "Rabi al-Awwal"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the meaning of 'Halaal' in Islam?",
+    "options": [
+      "Forbidden",
+      "Permissible",
+      "Mandatory",
+      "Optional"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following best describes the term 'Jihad'?",
+    "options": [
+      "Struggle",
+      "Holy war",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who is primarily responsible for leading the prayers in a mosque?",
+    "options": [
+      "Imam",
+      "Muazzin",
+      "Sheikh",
+      "Muezzin"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the meaning of the term 'Tafsir'?",
+    "options": [
+      "Translation of the Quran",
+      "Commentary on the Quran",
+      "Recitation of the Quran",
+      "Memorization of the Quran"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The term 'Sawm' in Islamic practices refers to what?",
+    "options": [
+      "Charity",
+      "Praying",
+      "Fasting",
+      "Hajj"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main aim of fasting during Ramadan?",
+    "options": [
+      "To lose weight",
+      "To teach self-discipline",
+      "To show off",
+      "To eliminate sin"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, the concept of 'Tawhid' represents what?",
+    "options": [
+      "Prophethood",
+      "Sunnah",
+      "Oneness of God",
+      "Angels"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which Islamic term refers to the legal opinions derived from the Quran and Sunnah?",
+    "options": [
+      "Fiqh",
+      "Ilm",
+      "Hadith",
+      "Usul"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the Arabic term for the pilgrimage to Mecca?",
+    "options": [
+      "Hajj",
+      "Umrah",
+      "Zakat",
+      "Sawm"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is NOT an attribute of Allah as per Islamic teachings?",
+    "options": [
+      "Merciful",
+      "Wrathful",
+      "All-Knowing",
+      "Unchanging"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary focus of Islamic eschatology?",
+    "options": [
+      "Creation",
+      "Prophethood",
+      "End Times",
+      "Miracles"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The spiritual leader in a mosque who leads prayers and provides guidance is called what?",
+    "options": [
+      "Khalifa",
+      "Imam",
+      "Muezzin",
+      "Sheikh"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which term refers to unlawful or prohibited acts in Islam?",
+    "options": [
+      "Halal",
+      "Makruh",
+      "Haram",
+      "Mustahabb"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following mosques is located in Medina?",
+    "options": [
+      "Al-Aqsa",
+      "Kabah",
+      "Quba",
+      "Suleymaniye"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the significant event known as the Hijra?",
+    "options": [
+      "Migration to Mecca",
+      "Migration to Medina",
+      "Birth of the Prophet",
+      "Death of the Prophet"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which group is considered the rightful successors of Prophet Muhammad according to the Sunni tradition?",
+    "options": [
+      "Ali and his descendants",
+      "The first four caliphs",
+      "Ali only",
+      "None of the above"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The method of giving the call to prayer is called what?",
+    "options": [
+      "Iqama",
+      "Adhan",
+      "Salah",
+      "Tasbih"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Fiqh' mean?",
+    "options": [
+      "Understanding",
+      "Worship",
+      "Faith",
+      "God's law"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the first Muslim to accept Islam?",
+    "options": [
+      "Ali",
+      "Abu Bakr",
+      "Khadijah",
+      "Uthman"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islamic theology, which angel is responsible for revelation?",
+    "options": [
+      "Gabriel",
+      "Michael",
+      "Raphael",
+      "Azrael"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main focus of Tafsir studies?",
+    "options": [
+      "Understanding Hadith",
+      "Interpreting Quran",
+      "Islamic jurisprudence",
+      "Prophetic biography"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following events marks the beginning of the Islamic calendar?",
+    "options": [
+      "Battle of Badr",
+      "Migration to Medina",
+      "Birth of Muhammad",
+      "Death of Muhammad"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The significant covenant made between Allah and the Quran is known as what?",
+    "options": [
+      "Covenant of belief",
+      "Covenant of guidance",
+      "Covenant of mercy",
+      "Covenant of wisdom"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What language is predominantly used in Islamic rituals?",
+    "options": [
+      "Arabic",
+      "Persian",
+      "English",
+      "Urdu"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, what is 'Jannah' known for?",
+    "options": [
+      "Hell",
+      "Heaven",
+      "Life on Earth",
+      "Purification"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the Islamic term for those who oppose the teachings of Islam?",
+    "options": [
+      "Muslims",
+      "Kuffar",
+      "Believers",
+      "Mushrikeen"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following describes a Muslim who strictly adheres to Islamic purity laws?",
+    "options": [
+      "Sahih",
+      "Muttaqi",
+      "Abid",
+      "Halal"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The term 'Ilah' in Arabic means what?",
+    "options": [
+      "God",
+      "Prophet",
+      "Faith",
+      "Angel"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is meant by the term 'Al-Iman' in Islam?",
+    "options": [
+      "Charity",
+      "Faith",
+      "Prayer",
+      "Virtue"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which night is known as 'Laylat al-Miraj'?",
+    "options": [
+      "Night of Ascension",
+      "Night of Power",
+      "Night of Forgiveness",
+      "Night of Supplication"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The practice of ritual washing before prayers is known as what?",
+    "options": [
+      "Wudhu",
+      "Ghusl",
+      "Tayammum",
+      "Ihtiram"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the English translation of 'Al-Fatiha'?",
+    "options": [
+      "The Opening",
+      "The End",
+      "The Night",
+      "The Day"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which prophet is known for building the Kaaba?",
+    "options": [
+      "Abraham",
+      "Moses",
+      "Jesus",
+      "David"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary significance of Eid al-Fitr in Islam?",
+    "options": [
+      "Celebration at the end of Ramadan",
+      "Celebration of the birth of the Prophet",
+      "Beginning of Hajj",
+      "Commemoration of the Battle of Badr"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which phrase is commonly known as the Shahada?",
+    "options": [
+      "God is Great",
+      "There is no God but Allah, and Muhammad is His messenger",
+      "Praise be to Allah",
+      "Fast in the month of Ramadan"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In the context of Islamic rituals, what does 'Taharah' refer to?",
+    "options": [
+      "Ritual purification",
+      "Prayers",
+      "Fasting",
+      "Zakat"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which angel is known as the Angel of Death?",
+    "options": [
+      "Jibril",
+      "Mika'il",
+      "Israfil",
+      "Azrael"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following events does not relate to the life of Prophet Muhammad?",
+    "options": [
+      "Birth in Mecca",
+      "Migration to Medina",
+      "First revelation",
+      "Foundation of the Church"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary focus of 'Islamic jurisprudence'?",
+    "options": [
+      "Understanding the Quran",
+      "Developing ethical standards",
+      "Developing legal principles",
+      "Analyzing Hadith"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following phrases is NOT part of the 'Azan'?",
+    "options": [
+      "Allahu Akbar",
+      "Ashhadu an la ilaha illallah",
+      "Muhammad is the messenger of Allah",
+      "Praise be to Allah"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "How many times a day are Muslims required to pray?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The collection of sayings and actions of Prophet Muhammad is known as what?",
+    "options": [
+      "Al-Quran",
+      "Hadith",
+      "Sunnah",
+      "Fiqh"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islamic belief, who is considered to be the first human being?",
+    "options": [
+      "Abdul",
+      "Idris",
+      "Adam",
+      "Nuh"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The significant document that outlines the principles of Islamic teachings is called what?",
+    "options": [
+      "Sahih",
+      "Quran",
+      "Hadith",
+      "Sunna"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'Al-Jannah' refer to in Islamic belief?",
+    "options": [
+      "Faith",
+      "Hell",
+      "Paradise",
+      "Earth"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term used for the Islamic community?",
+    "options": [
+      "Ummah",
+      "Millet",
+      "Halaqah",
+      "Zakah"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which surah is known as the 'Mother of the Book'?",
+    "options": [
+      "Surah Al-Fatiha",
+      "Surah Al-Baqarah",
+      "Surah Al-Ikhlas",
+      "Surah Al-Nas"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In the context of Islamic theology, what is 'Salvation' primarily based on?",
+    "options": [
+      "Good deeds",
+      "Belief in Allah",
+      "Following the Sunnah",
+      "All of the above"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following terms refers to acts of worship in Islam?",
+    "options": [
+      "Ibadah",
+      "Sunnah",
+      "Fiqh",
+      "Ilm"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the first step in performing the Hajj pilgrimage?",
+    "options": [
+      "Entering the state of Ihram",
+      "Tawaf",
+      "Standing at Arafat",
+      "Throwing stones at Jamaraat"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "On what day do Muslims celebrate Eid al-Adha?",
+    "options": [
+      "10th of Shawwal",
+      "1st of Muharram",
+      "10th of Dhul-Hijjah",
+      "15th of Ramadan"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the Arabic term for the declaration of faith in Islam?",
+    "options": [
+      "Tawhid",
+      "Iman",
+      "Shahada",
+      "Zakat"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term for the last day when all humans will be resurrected?",
+    "options": [
+      "Day of Judgment",
+      "Day of Reckoning",
+      "Day of Resurgence",
+      "Day of Resurrection"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The Islamic practice of non-violence and patience in times of hardship is known as what?",
+    "options": [
+      "Sabr",
+      "Iman",
+      "Zakah",
+      "Sawm"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the Arabic word for mosque?",
+    "options": [
+      "Masjid",
+      "Maktab",
+      "Haram",
+      "Jami"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In the context of Islamic history, what does the term 'Caliph' refer to?",
+    "options": [
+      "Leader of the community",
+      "Teacher",
+      "Prophet",
+      "Warrior"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following actions is required to be performed during Salah?",
+    "options": [
+      "Recitation of Quran",
+      "List of prayers",
+      "Sitting in silence",
+      "Fast all day"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Islamic law is primarily based on which two sources?",
+    "options": [
+      "Quran and Sunnah",
+      "Quran and Hadith",
+      "Sunnah and Sharia",
+      "Quran and Fiqh"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the Arabic term for the permissible foods in Islam?",
+    "options": [
+      "Haram",
+      "Zakat",
+      "Halal",
+      "Makruh"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'Nafs' refer to in Islamic terms?",
+    "options": [
+      "Soul",
+      "Body",
+      "Heart",
+      "Mind"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, the term for the understanding and interpretation of religious texts is called what?",
+    "options": [
+      "Fiqh",
+      "Tafsir",
+      "Hadith",
+      "Sunnah"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Thawab' refer to in Islam?",
+    "options": [
+      "Punishment",
+      "Reward",
+      "Sin",
+      "Wealth"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is an important aspect of worship in Islam?",
+    "options": [
+      "Charity",
+      "Prayer",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The obligatory tax that every Muslim must pay is called what?",
+    "options": [
+      "Zakat",
+      "Sawm",
+      "Haram",
+      "Iman"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In religious context, the term 'Syrah' is best defined as what?",
+    "options": [
+      "Life of the Prophet Muhammad",
+      "Compilation of the Quran",
+      "Islamic theology",
+      "Hadith literature"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Makruh' signify in Islamic law?",
+    "options": [
+      "Mandatory",
+      "Optional",
+      "Disliked",
+      "Rewarding"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The Islamic concept of accountability is primarily concerned with what?",
+    "options": [
+      "Wealth",
+      "Good deeds",
+      "Faith",
+      "Recitation"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islamic belief, the creature known as 'Buraq' is associated with what event?",
+    "options": [
+      "Night of Ascension",
+      "Creation of Adam",
+      "Battle of Badr",
+      "Revelation of Quran"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Al-Qadr' denote in Islamic belief?",
+    "options": [
+      "Destiny",
+      "Knowledge",
+      "Faith",
+      "Wisdom"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is NOT required during Salah?",
+    "options": [
+      "Intention",
+      "Recitation of Quran",
+      "Fasting",
+      "Physical movements"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islam, what is the meaning of 'Ibadah'?",
+    "options": [
+      "Worship",
+      "Faith",
+      "Salvation",
+      "Charity"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'Sadaqat' represent in Islam?",
+    "options": [
+      "Obligatory charity",
+      "Voluntary charity",
+      "Ritual prayer",
+      "Pilgrimage"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In Islamic belief, what is meant by 'Akhirah'?",
+    "options": [
+      "This world",
+      "The world to come",
+      "A state of prayer",
+      "A type of fasting"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Asmaul Husna' refer to?",
+    "options": [
+      "Names of the angels",
+      "Names of the prophets",
+      "Names of Allah",
+      "Names of the books"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who is believed to carry the throne of Allah according to Islamic texts?",
+    "options": [
+      "Angels",
+      "Prophets",
+      "Humans",
+      "Jinn"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The act of witnessing the truth of faith in Islam is referred to as what?",
+    "options": [
+      "Kufr",
+      "Iman",
+      "Shahadah",
+      "Tafsir"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In what language was most of the Quran originally revealed?",
+    "options": [
+      "English",
+      "Arabic",
+      "Persian",
+      "Urdu"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  }
+]

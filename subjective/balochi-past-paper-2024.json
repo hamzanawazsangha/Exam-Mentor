@@ -1,0 +1,46 @@
+{
+  "subject": "Balochi",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Write a comprehensive note on the history of Baloch Raj.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write a comprehensive note on the life and works of Mubarak Qazi.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Write about the love story of Hani and Sheh Mureed, or Shahdad and Mahnaz.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Write an essay on the significance of Balochi classical poetry (Lok Shairi).",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss the thirty-year war between Rind and Lashar in the context of Baloch history and its repercussions.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Write a comprehensive note on the value of the native language.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Translate the given Balochi paragraph into English.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Translate the given English paragraph into Balochi.",
+      "marks": 10
+    }
+  ]
+}

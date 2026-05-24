@@ -1,0 +1,76 @@
+{
+  "subject": "Accountancy and Auditing",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What are the Accounting Principles? Define any four accounting principles shortly.",
+      "marks": 5
+    },
+    {
+      "question_number": "2",
+      "question_text": "What are the Accounting Conventions? Define any four accounting conventions shortly.",
+      "marks": 5
+    },
+    {
+      "question_number": "2",
+      "question_text": "The below mentioned balances are extracted from the books of Emerging Technologies Pvt. Ltd. as on 31st August 2022. Required: Prepare a Trial Balance as on that date in a proper format.",
+      "marks": 10
+    },
+    {
+      "question_number": "3",
+      "question_text": "On the basis of above data, compute the following for the year 2020 and 2021: a. Earnings per share (EPS) b. Return on closing equity (ROE) c. Book value per share (BV)",
+      "marks": 5
+    },
+    {
+      "question_number": "3",
+      "question_text": "Compute dividend per share and rate of dividend for the year 2022.",
+      "marks": 5
+    },
+    {
+      "question_number": "3",
+      "question_text": "For the year ending 31st December 2022 the management decided to aim for EPS Rs.4.00 (9% higher than for the year 2021) and return on closing equity of 25%. Compute the estimated book value as at 31st December 2022 assuming that management targets are achieved. Also compute estimated figures for Profit after Tax, Dividend and Equity.",
+      "marks": 10
+    },
+    {
+      "question_number": "4",
+      "question_text": "Post-closing Trial Balance of Premium Fabrics Private Limited for the year ended December 31, 2021 and 2022 are as follows. Required: prepare a cash flow statement of Premium Fabrics as per IAS-7 for the year 2022.",
+      "marks": 10
+    },
+    {
+      "question_number": "4",
+      "question_text": "Mr. Haider started a business on March 1st 2022 with a capital of Rs. 645,000. His newly appointed bookkeeper records transactions on simple papers. Required: Prepare Trading and Profit and Loss account and Balance Sheet as on 31st December 2022.",
+      "marks": 10
+    },
+    {
+      "question_number": "5",
+      "question_text": "Eagle Star is a manufacturing company. The Company uses Rowan Premium bonus scheme for its workers payroll. Required: Calculate gross wage of Mr. Afzal for the week.",
+      "marks": 10
+    },
+    {
+      "question_number": "5",
+      "question_text": "An Automobile factory will use 500,000 tyres for its production in coming year. Required: Calculate Economic Order Quantity and Reorder point.",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "A manufacturing company of Lahore submits the following information for the year ending 31st December 2022. Required: Prepare an Income Statement for the year ended 31st December 2022.",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "Khizra manufacturing corporation has fixed cost for the year ended 31st December 2022 is Rs. 400,000. Required: a) Break Even point (both in units and value). b) If turnover for the next year is Rs. 800,000, calculate the estimated contribution and profit, assuming the cost and selling price remain the same. c) A profit target of Rs. 400,000 has been desired for the next year. Calculate the turnover required to achieve the desired result.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "The Balance Sheet of Fazal Din & Co. as on 31st December 2021 was as follows. Required: (a) An Income statement for 2022, along with the details of Cost of goods manufactured and sold. (b) A balance Sheet as on 31st December 2022.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "A chemical factory manufactures three kinds of chemicals namely Eucalyptus oil, Hexachlorobenzen and Toxaphene. In the last week of December 2022, the records were shown for labor grades and output. Required: Prepare the payroll for the last week of December 2022 showing the basic pay, overtime and incentive amount as separate totals for each grade of labor.",
+      "marks": 20
+    }
+  ]
+}

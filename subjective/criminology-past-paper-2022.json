@@ -1,0 +1,46 @@
+{
+  "subject": "Criminology",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is the difference between crime, deviance, sin and vice? Do you believe that crime is one of the major social problems of Pakistani society? Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What is the meaning of Anomie? Discuss Robert Merton theory of Anomie in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Define the term juvenile delinquency. Write a note on the history of juvenile justice system and role of juvenile court in reducing juvenile delinquency.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "In Pakistan, the creation of police force is a colonial legacy. In which circumstances independent police force was established in the pre-independence era. What major changes have been occurred in the police department in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What are the legal and ethical guidelines for investigating gender-based crimes? Explain your answer with the help of suitable examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What is meant by forensic criminal investigation? What are the hurdles in streamlining the forensic criminal investigation in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "What is the role of community policing in curtailing the problem of crime in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "Discuss the role of FIA in controlling organized crimes in Pakistan.",
+      "marks": 20
+    }
+  ]
+}

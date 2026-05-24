@@ -1,0 +1,76 @@
+{
+  "subject": "Chemistry",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain applications of Schrodinger wave equation to hydrogen and hydrogen like Atom. Give Molecular interpretation of entropy. Explain factors affecting the rate of a chemical reactions.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What are the uses of chelates. State and explain Nomenclature of coordination complexes. Explain VBT (Valence Bond Theory) of coordination complexes in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain photoelectric effect and probability density. Explain Eigen function & Eigen value. Derive Schr\u00f6dinger wave equation for a particle in one dimensional box.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Predict molecular shapes using Valence Shell Electron Pair Repulsion (VESPER) model. Explain the experimental techniques for determination of order of reaction. Write a note on thermochemistry and calorimetry.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Derive a relation for dependence of Gibbs free energy on temperature or Gibbs Helmholtz equation. What is isothermal process? Explain work done in isothermal reversible expansion of an ideal gas. Explain fugacity and activity.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Discuss common ion effect and its industrial applications in detail. Describe significance of pka, pkb, pH. Write a note on basic concepts of chemical equilibrium.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write notes on the following: Debye-Huckel theory, Nernst\u2019s equation, Electrochemical series.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Describe factors that influence keto-enol tautomerization. Elaborate the statement with the help of examples. Assign \u201cR\u201d or \u201cS\u201d configuration on each of the chiral centers of the given compounds.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Give the products expected (if any) when ethylbenzene reacts under following conditions: Br2 in CCl4 (dark), HNO3,H2SO4, Conc. H2SO4, Alkaline KMnO4. Account for the following: Intramolecular H-bonding is stronger than intermolecular H-bonding. Control of nucleophilic substitution reaction over elimination reactions.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Write down reagents, reaction conditions and important steps for the following conversions: Chlorobenzene to 2,4-dinitrophenyl hydrazine, Pyridine to 2-amino pyridine. Write a note that substituents on aromatic rings dictate reactivity and orientation of the incoming electrophile in electrophilic aromatic substitution reactions.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Draw detailed mechanisms for given reactions.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Account for the following: In DNA, a guanine residue reacts with electrophiles predominantly at the 7 and 3 positions of the ring system. Outline the synthesis of following compound: A Grignard reagent that is a key intermediate in an industrial synthesis of vitamin A can be synthesized in the following way: What are the structures of compounds A and B? What are compounds A and B in the reaction given below? Compound B has a strong IR absorption band in the 1650\u20131730 cm\u22121 region and a broad strong band in the 3200\u20133550 cm\u22121 region.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Explain the following: How can IR be used to help interpret NMR spectra? What are diastereotopic protons? Explain with examples. Determine the structure for a compound with formula C6H4N2O4 with following 1H-NMR data: Assign chemical shifts of each proton in the above structure. Why 13C-NMR is less sensitive than 1H-NMR?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Answer following questions: Comment if glycogenesis is anabolic or catabolic. Write down all steps involve in glycogenesis. Describe endergonic and exergonic reactions. Write a note on anionic and cationic surfactants. Comment if waste glass can be used for cement production. What is the chemical composition of nucleic acids and their biological significance?",
+      "marks": 20
+    }
+  ]
+}

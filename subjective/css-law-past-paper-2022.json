@@ -1,0 +1,51 @@
+{
+  "subject": "Law",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What do you understand by the phrase \u2018privileged communications\u2019? Discuss in detail with illustrations how many kinds of such privilege has been provided in the QSO?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain the law relating to the relevancy of the testimony of an expert witness and in what manner his evidence is evaluated in Pakistani legal system?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Right of private defence possesses wide range of implications for a criminal trial. Explain its various kinds along with the limitations placed on its exercise.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Kidnapping and abduction are two important offences against body. Explain their various kinds and how they are differentiated from each other?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "The codified provisions of the Civil Procedure Code do not deprive the courts from their \u2018inherent powers\u2019. Discuss in detail what are the powers held by the courts under the notion of \u2018inherent powers\u2019?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Explain the various steps required legally for conducting of a trial by a court of session along with the powers conferred on the court in this regard.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write short notes on Interpleader suit",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write short notes on Additional Evidence in Appellate Court under Civil Procedure Code",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write short notes on Special Procedure for Lunatics under Code of Criminal Procedure",
+      "marks": 10
+    }
+  ]
+}

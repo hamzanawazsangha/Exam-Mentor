@@ -1,0 +1,91 @@
+{
+  "subject": "Physics",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain the Divergence of a Vector field with its physical significance?",
+      "marks": 10
+    },
+    {
+      "question_number": "2",
+      "question_text": "A rural mail carrier leaves the post office and drives 22.0 km in a northerly direction. He then drives in a direction 60.0\u00b0 south of east for 47.0 km. What is his displacement from the post office?",
+      "marks": 5
+    },
+    {
+      "question_number": "2",
+      "question_text": "Vectors \ud835\udc02\u20d7 and \ud835\udc03\u20d7 have magnitudes of 3 units and 4 units, respectively. What is the angle between the directions of \ud835\udc02\u20d7 and \ud835\udc03\u20d7 if \ud835\udc02\u20d7\u22c5\ud835\udc03\u20d7 equals (a) zero, (b) 12 units and (c) -12 units?",
+      "marks": 5
+    },
+    {
+      "question_number": "3",
+      "question_text": "Distinguish between Linear and Angular momentum. Explain the laws of conservation of Angular momentum.",
+      "marks": 10
+    },
+    {
+      "question_number": "3",
+      "question_text": "Estimate the net force needed to accelerate (i) a 1000kg car at \u00bd g; (ii) a 200g apple at the same rate.",
+      "marks": 5
+    },
+    {
+      "question_number": "3",
+      "question_text": "A vertical force is applied to a block of mass m that lies on a floor. What happens to the magnitude of the normal force on the block from the floor as the magnitude F is increased from zero if force is (a) downward and (b) upward?",
+      "marks": 5
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe the Michelson-Morley Experiment and show how negative results obtained from this experiment were interpreted?",
+      "marks": 10
+    },
+    {
+      "question_number": "4",
+      "question_text": "Derive equation of Lorentz velocity transformations and show that speed of light is independent of the relative motion between the frames of reference.",
+      "marks": 10
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is surface tension? How surface tension is responsible for rising of liquid in capillaries?",
+      "marks": 10
+    },
+    {
+      "question_number": "5",
+      "question_text": "Water circulates throughout a house in a hot-water heating system. If the water is pumped at a speed of 0.50 m/s through a 4.0cm diameter pipe in the basement under a pressure of 3.0 atm, what will be the flow speed and pressure in a 2.6cm diameter pipe on the second floor 5.0 m above? Assume the pipes do not divide into branches.",
+      "marks": 5
+    },
+    {
+      "question_number": "5",
+      "question_text": "When blood pressure is measured, why must the cuff be held at the level of the heart?",
+      "marks": 5
+    },
+    {
+      "question_number": "6",
+      "question_text": "What is polarization of waves? How plane polarized light can be obtained by a polarization sheet.",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "Two flat mirrors are perpendicular to each other. An incoming beam of light makes an angle of 15\u00b0 with the first mirror. What angle will the outgoing beam make with the second mirror?",
+      "marks": 5
+    },
+    {
+      "question_number": "6",
+      "question_text": "Since the density of air decreases with an increase in temperature, but the bulk modulus B is nearly independent of temperature. How would you expect the speed of sound waves in air to vary with temperature?",
+      "marks": 5
+    },
+    {
+      "question_number": "7",
+      "question_text": "State and explain Equipartition Theorem.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "Define laws of thermodynamics. Explain 3rd law of thermodynamics in detail.",
+      "marks": 10
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write the short notes on any TWO of the following: (a) Gyrocope, (b) Classical Maxwell-Boltzmann Statistics, (c) Spin and Precession.",
+      "marks": 20
+    }
+  ]
+}

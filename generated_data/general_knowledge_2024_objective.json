@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "A) Paris",
+      "B) Berlin",
+      "C) Rome",
+      "D) Madrid"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": [
+      "A) Charles Dickens",
+      "B) William Shakespeare",
+      "C) Leo Tolstoy",
+      "D) Mark Twain"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "A) Earth",
+      "B) Mars",
+      "C) Jupiter",
+      "D) Saturn"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "A) Oxygen",
+      "B) Gold",
+      "C) Silver",
+      "D) Hydrogen"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "A) 1905",
+      "B) 1912",
+      "C) 1920",
+      "D) 1918"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "A) Vincent van Gogh",
+      "B) Pablo Picasso",
+      "C) Leonardo da Vinci",
+      "D) Claude Monet"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      "A) Cheetah",
+      "B) Lion",
+      "C) Gazelle",
+      "D) Horse"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "A) China",
+      "B) Japan",
+      "C) Thailand",
+      "D) South Korea"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "A) Dollar",
+      "B) Euro",
+      "C) Pound",
+      "D) Yen"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In which continent is the Sahara Desert located?",
+    "options": [
+      "A) Asia",
+      "B) Africa",
+      "C) Australia",
+      "D) North America"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "General Knowledge",
+    "topic": "General"
+  }
+]

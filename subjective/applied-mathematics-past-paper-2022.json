@@ -1,0 +1,86 @@
+{
+  "subject": "Applied Mathematics",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "1a",
+      "question_text": "Let u=[y, z, x] and v=[yz, zx, xy], f = xyz and g = x+ y+ z. Find div (grad (fg)).",
+      "marks": 10
+    },
+    {
+      "question_number": "1b",
+      "question_text": "Evaluate \u222e F\u00b7dr counter clockwise around the boundary C of the region R by Green\u2019s theorem, where F = [y, -z, x] where x + y^2 = 1/4.",
+      "marks": 10
+    },
+    {
+      "question_number": "2a",
+      "question_text": "Three forces P, Q, R, acting at a point, are in equilibrium, and the angle between P and Q is double of the angle between P and R. Prove that R^2 = P^2 + Q^2.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Find the centre of mass of a semi-circular lamina of radius a whose density varies as the square of the distance from the centre.",
+      "marks": 10
+    },
+    {
+      "question_number": "3a",
+      "question_text": "A particle moves in such a way that its position vector at time t is r(t) = a cos nt i + b sin nt j, Where a, b, n are constants and a>b>0. Show that the path of the particle is an ellipse of semi-major and minor axes a, b respectively, and that the field of force is directed towards the centre of the ellipse. Also find the maximum speed.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "An aeroplane is flying with uniform speed v0 in an arc of a vertical circle of radius a, whose centre is at a height h vertically above a point O of the ground. If a bomb is dropped from the aeroplane when at a height Y and strikes the ground at O, show that Y satisfies the equation Y\u00b2 + v\u2080\u00b2Y - 2ghY + v\u2080\u00b2h - h\u00b2 = 0, Where v = (2gh - v\u2080\u00b2)/(2v\u2080).",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Solve the given initial-value problem. Give the largest interval I over which the solution is defined. xy\u2019+y = ex, y(1) = 2.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Find the general solution of the given higher-order differential equation. D\u00b2y/dx\u00b2 - 4dy/dx - 5y = 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Find two power series solutions of the given differential equation about the ordinary point x=0. D\u00b2y/dx\u00b2 - 2xy/dx + y = 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Find the general solution of the given Bessel\u2019s equation on (0, \u221e). x\u00b2d\u00b2y/dx\u00b2 + xdy/dx + (x\u00b2 - 4)y = 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Find the Fourier series of the given function f(x), which is assumed to have the period 26. Show the details of your work. f(x) = -x, -6 < x < 0, x+6, 0 < x < 6.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Find u(x,t) for the string of length L=1 and c^2=1 when the initial velocity is zero and the initial deflection with small k (say, 0.01) is: x(1-x).",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Use the Bisection method to determine an approximation to the root of the given function in the interval [1,2] that is accurate to at least within 10^-4. f(x) = x^3 + 4x -10 = 0.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Values for f (x) = xex are given in the following table. Use all the applicable three-point and five-point formulas to approximate f'(2.0). Table: x: 1.8, 1.9, 2.0, 2.1, 2.2, f(x): 10.889365, 12.703199, 14.778112, 17.148957, 19.85503",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Use the Modified Euler method to approximate the solution to each of the following initial-value problem, dy/dx = -5y + 5t + 2t, 0 \u2264 t \u22641, y(0) = 1/3, with h = 0.1.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Use a fixed-point iteration method to determine a solution accurate to within 10^-2 for x^4 - 3x^2 \u2212 3 = 0 on [1, 2]. Use p0 = 1.",
+      "marks": 10
+    }
+  ]
+}

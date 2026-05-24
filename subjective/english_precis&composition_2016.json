@@ -1,0 +1,51 @@
+{
+  "subject": "English (Precis & Composition)",
+  "year": "2016",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Write a pr\u00e9cis of the following passage in about 120 words and suggest a suitable title: During my vacation last May, I had a hard time choosing a tour...Back at home, I really missed the place and I would of course look forward to the next trip to another exotic place.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Read the following passage carefully and answer the questions that follow: The New Year is the time for resolution...Perhaps it will solve my problem, but I just have not had time to read it.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Correct only FIVE of the following: We were staying at my sister\u2019s cape\u2019s code vacation home...(Other sentences requiring correction)",
+      "marks": 5
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Choose the punctuation mark that is needed in each of the following sentences: \u201cIt isn\u2019t fair!\u201d shouted Martin...(Other sentences requiring punctuation)",
+      "marks": 5
+    },
+    {
+      "question_number": "5",
+      "question_text": "Choose the analogy of the words written in capital letters (Any five). Example: SLAPSTICK : LAUGHTER...(Other analogy questions)",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Rewrite the following dialogue, written in indirect speech, in a paragraph form: Helen: Mr West, what's happened to John?...Mr West: I don't know.",
+      "marks": 5
+    },
+    {
+      "question_number": "6",
+      "question_text": "Explain the difference between the following word pairs by using each word in your own sentences (Any five): Example: Adverse, averse...(Other word pairs)",
+      "marks": 5
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Use any FIVE of the following in sentences which illustrate their meaning: Example: Smash hit...(Other phrases)",
+      "marks": 5
+    },
+    {
+      "question_number": "7",
+      "question_text": "Translate the following Urdu paragraph into English by keeping in view figurative/idiomatic expression. \ufecb\ufe8e\u0645 \ufedf\ufeee\ufb94\ufeee\u06ba \ufb90\ufe8e \ufea7\ufbff\ufe8e\u0644 \ufba8\ufbaf \ufb90\u06c1 \ufee3\u064f\ufee0\ufb8f \ufb90\ufbaf \ufed7\ufe8e\ufee7\ufeee\u0646 \u0627\u0648\u0631 \ufed3\ufeae\u062f \ufb90\ufbfd \u0622\u0632\u0627\u062f\u06cc \u0627\ufbfe\ufb8f \u062f\u0648\ufeb3\ufeae\u06d2 \ufb90\ufbfd \ufebf\ufeaa \ufba8\ufeee\ufe97\ufbaf \ufba8\ufbff\ufb9f\u06d4...",
+      "marks": 10
+    }
+  ]
+}

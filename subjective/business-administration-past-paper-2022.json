@@ -1,0 +1,41 @@
+{
+  "subject": "Business Administration",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Define the organization\u2019s culture. What are its dimensions and how cultural dimensions can be combined to differentiate from other organizations?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe the strategic management process in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain the different types of orientation and training. Describe strategies for retaining competent and high-performing employees.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "How ratio analysis is a useful management tool to improve understanding of financial health for different stakeholders including creditors, investors, and management?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Explain the factors influencing interest rate in the economy.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Differentiate between Process Layout and Work Cell Layout along with their pros and cons.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "What are different external/macro environment factors, their importance and role in development of marketing plan?",
+      "marks": 20
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "Anthropology",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What are the four fields of Anthropology and how are they related to each other?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Define descent group. Briefly describe the different forms of descent groups.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Compare and contrast assimilation, integration and marginalization with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is social stratification? What are the different factors responsible for stratification in a society? Discuss with reference to Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Who proposed the idea of \u201cthick description\u201d? Discuss anthropological research as thick description. Also provide examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What methods of Anthropological research make it distinct from research in other social sciences?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss religion and supernatural beliefs according to evolutionary perspective.",
+      "marks": 20
+    }
+  ]
+}

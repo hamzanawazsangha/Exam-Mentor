@@ -1,0 +1,1290 @@
+[
+  {
+    "question": "Which country hosted the 2025 World Expo?",
+    "options": [
+      "A. Italy",
+      "B. Japan",
+      "C. Brazil",
+      "D. India"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What significant climate agreement was signed in 2025?",
+    "options": [
+      "A. Paris Agreement II",
+      "B. Kyoto Protocol IV",
+      "C. Global Climate Pact",
+      "D. Berlin Accord"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was awarded the Nobel Peace Prize in 2025?",
+    "options": [
+      "A. Greta Thunberg",
+      "B. Malala Yousafzai",
+      "C. David Attenborough",
+      "D. Antonio Guterres"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which nation declared a state of emergency due to severe flooding in 2025?",
+    "options": [
+      "A. Australia",
+      "B. Pakistan",
+      "C. Brazil",
+      "D. Canada"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What notable space mission completed its first round of Mars exploration in 2025?",
+    "options": [
+      "A. Perseverance",
+      "B. ExoMars",
+      "C. Mars Sample Return",
+      "D. MAVEN"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which country was the first to achieve 100% renewable energy usage?",
+    "options": [
+      "A. Denmark",
+      "B. Germany",
+      "C. Norway",
+      "D. Iceland"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which technology company unveiled its first quantum computer in 2025?",
+    "options": [
+      "A. Google",
+      "B. IBM",
+      "C. Microsoft",
+      "D. Apple"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "As of 2025, who is the current Secretary-General of the United Nations?",
+    "options": [
+      "A. Ban Ki-moon",
+      "B. António Guterres",
+      "C. Tedros Adhanom",
+      "D. Michelle Bachelet"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What landmark legislation on data privacy was enacted in the EU in 2025?",
+    "options": [
+      "A. GDPR II",
+      "B. EU Digital Act",
+      "C. Privacy Shield II",
+      "D. Data Protection Directive"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country became the first to approve a fully autonomous vehicle for public roads in 2025?",
+    "options": [
+      "A. USA",
+      "B. Japan",
+      "C. UAE",
+      "D. South Korea"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which major sporting event took place in Paris in 2025?",
+    "options": [
+      "A. FIFA World Cup",
+      "B. Rugby World Cup",
+      "C. Olympics",
+      "D. Cricket World Cup"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What significant breakthrough was made in COVID-19 vaccines in 2025?",
+    "options": [
+      "A. Universal vaccine",
+      "B. Oral vaccine",
+      "C. 5th generation vaccine",
+      "D. mRNA delivery system"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country announced a major investment in artificial intelligence in 2025?",
+    "options": [
+      "A. USA",
+      "B. China",
+      "C. Canada",
+      "D. India"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which international organization focused on combating global poverty announced a new initiative?",
+    "options": [
+      "A. WHO",
+      "B. IMF",
+      "C. World Bank",
+      "D. OECD"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What historic summit was held regarding AI ethics in 2025?",
+    "options": [
+      "A. G20 AI Summit",
+      "B. UN AI Summit",
+      "C. Davos AI Forum",
+      "D. NATO Tech Conference"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country faced a major energy crisis in 2025 due to geopolitical tensions?",
+    "options": [
+      "A. Russia",
+      "B. Germany",
+      "C. Ukraine",
+      "D. Venezuela"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the leading candidate in the 2025 French presidential elections?",
+    "options": [
+      "A. Marine Le Pen",
+      "B. Emmanuel Macron",
+      "C. Édouard Philippe",
+      "D. Jean-Luc Mélenchon"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which country became the first to lift all COVID-19-related restrictions?",
+    "options": [
+      "A. New Zealand",
+      "B. Israel",
+      "C. Sweden",
+      "D. Australia"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What agreement was reached regarding the South China Sea in 2025?",
+    "options": [
+      "A. Treaty of Peace",
+      "B. Code of Conduct",
+      "C. Maritime Security Pact",
+      "D. Freedom of Navigation Agreement"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which breakthrough in biotechnology was announced in 2025?",
+    "options": [
+      "A. Gene therapy for aging",
+      "B. Cloning for food production",
+      "C. Bioengineering of blood",
+      "D. Lab-grown organs"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the first woman to lead a major political party in the UK in 2025?",
+    "options": [
+      "A. Priti Patel",
+      "B. Liz Truss",
+      "C. Angela Rayner",
+      "D. Nicola Sturgeon"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which event marked the 50th anniversary of Earth Day in 2025?",
+    "options": [
+      "A. Global Clean-Up Day",
+      "B. Earth Summit",
+      "C. Climate Change Conference",
+      "D. Eco-Innovation Challenge"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country experienced a significant economic revival in 2025 post-pandemic?",
+    "options": [
+      "A. Italy",
+      "B. Spain",
+      "C. Greece",
+      "D. Portugal"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which world leader held a landmark meeting with North Korea?",
+    "options": [
+      "A. Joe Biden",
+      "B. Xi Jinping",
+      "C. Vladimir Putin",
+      "D. Anthony Albanese"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which technological advancement was highlighted in the field of education in 2025?",
+    "options": [
+      "A. 3D virtual classrooms",
+      "B. AI tutors",
+      "C. Neural interface learning",
+      "D. Blockchain degrees"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was a major issue at the 2025 G7 summit?",
+    "options": [
+      "A. Global health post-COVID",
+      "B. Climate change",
+      "C. Trade wars",
+      "D. Cybersecurity"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which natural disaster struck Indonesia in 2025?",
+    "options": [
+      "A. Earthquake",
+      "B. Tsunami",
+      "C. Volcanic eruption",
+      "D. Flood"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country received international support for refugees in 2025?",
+    "options": [
+      "A. Turkey",
+      "B. Jordan",
+      "C. Lebanon",
+      "D. Greece"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which major sporting event took place in Africa?",
+    "options": [
+      "A. African Cup of Nations",
+      "B. FIFA Women's World Cup",
+      "C. Olympics",
+      "D. Cricket World Cup"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the focus of the international health conference held in Geneva in 2025?",
+    "options": [
+      "A. Universal healthcare",
+      "B. Mental health",
+      "C. Vaccination strategies",
+      "D. Epidemic preparedness"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which tech company launched a pioneering robotic assistant for healthcare in 2025?",
+    "options": [
+      "A. Tesla",
+      "B. Google",
+      "C. Amazon",
+      "D. Facebook"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the central theme of International Women’s Day in 2025?",
+    "options": [
+      "A. Gender Equality",
+      "B. Women in Leadership",
+      "C. Women’s Health",
+      "D. Digital Inclusion"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was re-elected as the President of India in 2025?",
+    "options": [
+      "A. Ram Nath Kovind",
+      "B. Draupadi Murmu",
+      "C. Pranab Mukherjee",
+      "D. Sonia Gandhi"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which virus outbreak led to global health alerts?",
+    "options": [
+      "A. Ebola",
+      "B. Zika",
+      "C. Influenza",
+      "D. Marburg"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country hosted the Climate Change Summit in 2025?",
+    "options": [
+      "A. UK",
+      "B. Japan",
+      "C. Egypt",
+      "D. Australia"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was a revolutionary advancement in transportation announced in 2025?",
+    "options": [
+      "A. Hyperloop technology",
+      "B. Flying taxis",
+      "C. Electric cargo ships",
+      "D. Maglev trains"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who were the primary signatories of the 2025 Global Climate Pact?",
+    "options": [
+      "A. G20 nations",
+      "B. UN permanent members",
+      "C. All UN member states",
+      "D. G7 leaders"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the result of the 2025 UK General Election?",
+    "options": [
+      "A. Labour majority",
+      "B. Conservative majority",
+      "C. Coalition government",
+      "D. No clear winner"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which significant legislation regarding digital currencies was passed in 2025?",
+    "options": [
+      "A. Cryptocurrency Regulation Act",
+      "B. Digital Dollar Act",
+      "C. Blockchain Implementation Act",
+      "D. Central Bank Digital Currency Act"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What major social movement gained traction globally in 2025?",
+    "options": [
+      "A. Black Lives Matter",
+      "B. Fight for 15",
+      "C. Climate Justice",
+      "D. MeToo"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country hosted the first official global summit on mental health in 2025?",
+    "options": [
+      "A. USA",
+      "B. Canada",
+      "C. Japan",
+      "D. Australia"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was a significant theme of the 2025 United Nations General Assembly?",
+    "options": [
+      "A. Poverty Reduction",
+      "B. Sustainable Development Goals",
+      "C. Global Security",
+      "D. Digital Transformation"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which breakthrough in renewable energy storage was announced in 2025?",
+    "options": [
+      "A. Liquid air batteries",
+      "B. Hydrogen fuel cells",
+      "C. Ultra-capacitors",
+      "D. Next-gen lithium batteries"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which influential business leader passed away in 2025?",
+    "options": [
+      "A. Elon Musk",
+      "B. Jeff Bezos",
+      "C. Bill Gates",
+      "D. Larry Page"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, a major conflict broke out in which region?",
+    "options": [
+      "A. Middle East",
+      "B. Eastern Europe",
+      "C. Southeast Asia",
+      "D. Africa"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What environmental treaty was adopted unanimously in 2025?",
+    "options": [
+      "A. The Ocean Treaty",
+      "B. The Forest Resilience Agreement",
+      "C. The Plastic Reduction Accord",
+      "D. The Carbon Market Treaty"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Asian country launched a significant space exploration mission in 2025?",
+    "options": [
+      "A. India",
+      "B. Japan",
+      "C. China",
+      "D. South Korea"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the focus of the 2025 World Health Assembly?",
+    "options": [
+      "A. Global vaccination",
+      "B. Non-communicable diseases",
+      "C. Mental health",
+      "D. Tuberculosis eradication"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What new maritime law was passed in 2025 regarding international waters?",
+    "options": [
+      "A. Freedom of Navigation Act",
+      "B. Oceans Conservation Law",
+      "C. Maritime Sustainability Treaty",
+      "D. Sea Resources Regulation"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Middle Eastern country normalized relations with Israel in 2025?",
+    "options": [
+      "A. Saudi Arabia",
+      "B. UAE",
+      "C. Oman",
+      "D. Bahrain"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, what significant global event was celebrated by indigenous communities worldwide?",
+    "options": [
+      "A. International Indigenous Peoples Day",
+      "B. 30th Anniversary of the Earth Summit",
+      "C. World Indigenous Games",
+      "D. United Nations Year of Indigenous Languages"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet did NASA's robotic mission reach in 2025?",
+    "options": [
+      "A. Jupiter",
+      "B. Saturn",
+      "C. Venus",
+      "D. Mars"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the outcome of the 2025 COP negotiations?",
+    "options": [
+      "A. Climate neutrality by 2050",
+      "B. Reduction of fossil fuels",
+      "C. Global carbon taxes",
+      "D. Sustainable development measures"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, what innovation transformed urban transportation systems?",
+    "options": [
+      "A. Drone deliveries",
+      "B. Autonomous vehicles",
+      "C. Electric scooters",
+      "D. Traffic management AI"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country won the 2025 FIFA Men's World Cup?",
+    "options": [
+      "A. France",
+      "B. Brazil",
+      "C. Argentina",
+      "D. Germany"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What major health initiative was launched globally in 2025?",
+    "options": [
+      "A. Vaccination for all",
+      "B. Global Fund for Health",
+      "C. Health for All Act",
+      "D. Universal Health Access Initiative"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which artificial intelligence development was released?",
+    "options": [
+      "A. General AI",
+      "B. AI Ethics Framework",
+      "C. AI for Social Good Program",
+      "D. Autonomous AI Systems"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which city was recognized as the World’s Smartest City in 2025?",
+    "options": [
+      "A. Singapore",
+      "B. Barcelona",
+      "C. Tokyo",
+      "D. Amsterdam"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which significant economic partnership was formed in 2025?",
+    "options": [
+      "A. RCEP",
+      "B. CPTPP",
+      "C. AfCFTA",
+      "D. TPP"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, the World Bank reported significant progress in which field?",
+    "options": [
+      "A. Poverty alleviation",
+      "B. Infrastructure development",
+      "C. Education accessibility",
+      "D. Renewable energy investments"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What new global initiative was launched to combat climate change in 2025?",
+    "options": [
+      "A. One Planet Summit",
+      "B. Global Forest Restore Initiative",
+      "C. Carbon Neutral Cities Coalition",
+      "D. Green Belt Initiative"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, what breakthrough was achieved in battery technology?",
+    "options": [
+      "A. Solid-state batteries",
+      "B. Ultra-capacitors",
+      "C. Quantum batteries",
+      "D. Bimetallic batteries"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which global cultural event was hosted in London in 2025?",
+    "options": [
+      "A. Commonwealth Games",
+      "B. Cultural Expo",
+      "C. World Festival of Arts",
+      "D. Global Music Festival"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who received the highest civilian honor in the UK in 2025?",
+    "options": [
+      "A. David Beckham",
+      "B. Rowan Atkinson",
+      "C. Dame Judi Dench",
+      "D. Sir Ian McKellen"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, the International Court of Justice ruled on the case of which disputed territory?",
+    "options": [
+      "A. Kashmir",
+      "B. Crimea",
+      "C. Western Sahara",
+      "D. South China Sea"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What critical infrastructure project was completed in India in 2025?",
+    "options": [
+      "A. Bullet train",
+      "B. River linking project",
+      "C. Smart city development",
+      "D. National highway expansion"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which country implemented a four-day workweek nationwide?",
+    "options": [
+      "A. Finland",
+      "B. Spain",
+      "C. New Zealand",
+      "D. Sweden"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which event captured global interest regarding space tourism in 2025?",
+    "options": [
+      "A. First civilian flight to the moon",
+      "B. Commercial Mars expeditions",
+      "C. Space hotel opening",
+      "D. Launch of space shuttles for tourists"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What key humanitarian aid was directed to which region in 2025?",
+    "options": [
+      "A. Middle East",
+      "B. Africa",
+      "C. Southeast Asia",
+      "D. Eastern Europe"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which trend shaped global economic discussions in 2025?",
+    "options": [
+      "A. Digital economies",
+      "B. Renewable energy investments",
+      "C. Artificial intelligence job impacts",
+      "D. Global trade agreements"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which region experienced severe drought conditions affecting global food supply?",
+    "options": [
+      "A. Africa",
+      "B. Middle East",
+      "C. Australia",
+      "D. U.S. Midwest"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What significant event took place regarding global internet governance in 2025?",
+    "options": [
+      "A. Global Internet Bill of Rights",
+      "B. World Summit on the Internet",
+      "C. New Cybersecurity Framework",
+      "D. Universal Internet Access Initiative"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country celebrated the 75th anniversary of its independence in 2025?",
+    "options": [
+      "A. India",
+      "B. Israel",
+      "C. Pakistan",
+      "D. Indonesia"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which environmental activist received international recognition?",
+    "options": [
+      "A. Ellen MacArthur",
+      "B. Wangari Maathai",
+      "C. Greta Thunberg",
+      "D. Leonardo DiCaprio"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What new initiative was introduced by the UN to address climate refugees in 2025?",
+    "options": [
+      "A. Global Migration Accord",
+      "B. Refugee Protection Act",
+      "C. Climate Change Refugee Fund",
+      "D. Resilience and Adaptation Initiative"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What key event influenced global supply chains in 2025?",
+    "options": [
+      "A. Natural disasters",
+      "B. Trade wars",
+      "C. Geopolitical tensions",
+      "D. Economic recessions"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country officially rejoined the Paris Agreement in 2025?",
+    "options": [
+      "A. USA",
+      "B. Brazil",
+      "C. Turkey",
+      "D. Australia"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was appointed as the chief justice of the Supreme Court in India in 2025?",
+    "options": [
+      "A. N.V. Ramana",
+      "B. U.U. Lalit",
+      "C. D.Y. Chandrachud",
+      "D. Sharad Arvind Bobde"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which country made headlines for its advancements in biotechnology?",
+    "options": [
+      "A. USA",
+      "B. Germany",
+      "C. Israel",
+      "D. Singapore"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What new public health initiative was rolled out globally in 2025?",
+    "options": [
+      "A. Universal Health Coverage",
+      "B. Global Vaccination Campaign",
+      "C. Mental Health Awareness Initiative",
+      "D. Anti-Obesity Program"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What international treaty focused on ocean conservation was signed in 2025?",
+    "options": [
+      "A. Ocean Protection Agreement",
+      "B. Marine Biodiversity Treaty",
+      "C. Coral Reef Accord",
+      "D. Blue Carbon Initiative"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, the UNSC held discussions primarily about which conflict?",
+    "options": [
+      "A. Syrian Civil War",
+      "B. Yemen Crisis",
+      "C. Afghanistan",
+      "D. Ethiopian Tigray Conflict"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country announced a national space policy in 2025?",
+    "options": [
+      "A. USA",
+      "B. India",
+      "C. Japan",
+      "D. Korea"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which international organization focused on digital transformation discussed global governance?",
+    "options": [
+      "A. OECD",
+      "B. UN",
+      "C. World Economic Forum",
+      "D. G20"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What major research initiative was announced regarding artificial intelligence in 2025?",
+    "options": [
+      "A. AI for Humanity",
+      "B. Ethical AI Initiative",
+      "C. Global AI Research Fund",
+      "D. AI Safety Project"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country's technology sector experienced unprecedented growth in 2025?",
+    "options": [
+      "A. China",
+      "B. USA",
+      "C. India",
+      "D. Japan"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In 2025, which significant environmental policy was enacted in the EU?",
+    "options": [
+      "A. Green New Deal",
+      "B. EU Climate Law",
+      "C. Circular Economy Action Plan",
+      "D. Renewable Energy Directive"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was a focal point of the 2025 world economic forum?",
+    "options": [
+      "A. Sustainable Development",
+      "B. Digital Transformation",
+      "C. Climate Change",
+      "D. Global Taxation"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What notable technology was introduced for personal data security in 2025?",
+    "options": [
+      "A. Blockchain identification",
+      "B. Biometric authentication",
+      "C. Quantum encryption",
+      "D. Decentralized identity management"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which prominent figure was announced as the recipient of the Global Citizenship Award in 2025?",
+    "options": [
+      "A. Bill Gates",
+      "B. Michelle Obama",
+      "C. Jacinda Ardern",
+      "D. Emmanuel Macron"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What major advance was made in mental health research in 2025?",
+    "options": [
+      "A. New treatment for depression",
+      "B. Breakthrough in schizophrenia",
+      "C. AI therapy development",
+      "D. Global mental health funding"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which global organization emphasized the importance of sustainable cities at a summit in 2025?",
+    "options": [
+      "A. UN-Habitat",
+      "B. WHO",
+      "C. World Bank",
+      "D. International Monetary Fund"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Current Affairs",
+    "topic": "General"
+  }
+]

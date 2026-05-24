@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "A. Islamabad",
+      "B. Karachi",
+      "C. Lahore",
+      "D. Quetta"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which language is considered the national language of Pakistan?",
+    "options": [
+      "A. English",
+      "B. Urdu",
+      "C. Punjabi",
+      "D. Sindhi"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the founder of Pakistan?",
+    "options": [
+      "A. Allama Iqbal",
+      "B. Liaquat Ali Khan",
+      "C. Muhammad Ali Jinnah",
+      "D. Zulfikar Ali Bhutto"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "History"
+  },
+  {
+    "question": "In which year did Pakistan gain independence?",
+    "options": [
+      "A. 1947",
+      "B. 1950",
+      "C. 1945",
+      "D. 1952"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "History"
+  },
+  {
+    "question": "Which river is known as the lifeline of Pakistan?",
+    "options": [
+      "A. Chenab",
+      "B. Jhelum",
+      "C. Indus",
+      "D. Ravi"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Geography"
+  },
+  {
+    "question": "What is the national flower of Pakistan?",
+    "options": [
+      "A. Jasmine",
+      "B. Rose",
+      "C. Lily",
+      "D. Sunflower"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is known as the 'City of Lights' in Pakistan?",
+    "options": [
+      "A. Islamabad",
+      "B. Karachi",
+      "C. Lahore",
+      "D. Peshawar"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Cities"
+  },
+  {
+    "question": "Who was the first President of Pakistan?",
+    "options": [
+      "A. Iskander Mirza",
+      "B. Ayub Khan",
+      "C. Yahya Khan",
+      "D. Zulfikar Ali Bhutto"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Politics"
+  },
+  {
+    "question": "Which mountain range is located in Pakistan?",
+    "options": [
+      "A. Himalayas",
+      "B. Rockies",
+      "C. Andes",
+      "D. Alps"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Geography"
+  },
+  {
+    "question": "The Indus Valley Civilization was one of the earliest civilizations in the world. Where was it primarily located?",
+    "options": [
+      "A. Punjab",
+      "B. Sindh",
+      "C. Balochistan",
+      "D. Khyber Pakhtunkhwa"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "History"
+  },
+  {
+    "question": "Which day is celebrated as Pakistan Day?",
+    "options": [
+      "A. March 23",
+      "B. August 14",
+      "C. November 9",
+      "D. December 25"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the currency of Pakistan?",
+    "options": [
+      "A. Dollar",
+      "B. Rupee",
+      "C. Pound",
+      "D. Euro"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which province of Pakistan is known for its rich natural resources, including coal and natural gas?",
+    "options": [
+      "A. Punjab",
+      "B. Sindh",
+      "C. Khyber Pakhtunkhwa",
+      "D. Balochistan"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which historical figure is known as the 'Quaid-e-Azam'?",
+    "options": [
+      "A. Liaquat Ali Khan",
+      "B. Muhammad Ali Jinnah",
+      "C. Allama Iqbal",
+      "D. Benazir Bhutto"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "History"
+  },
+  {
+    "question": "Which of the following is a prominent festival in Pakistan?",
+    "options": [
+      "A. Christmas",
+      "B. Eid-ul-Fitr",
+      "C. Thanksgiving",
+      "D. Diwali"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Pakistani city is known for its Mughal architecture and historical significance?",
+    "options": [
+      "A. Karachi",
+      "B. Lahore",
+      "C. Islamabad",
+      "D. Multan"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Cities"
+  },
+  {
+    "question": "In which year was the first Constitution of Pakistan adopted?",
+    "options": [
+      "A. 1956",
+      "B. 1947",
+      "C. 1962",
+      "D. 1973"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Politics"
+  },
+  {
+    "question": "Which valley is known for its scenic beauty and is a popular tourist destination in Pakistan?",
+    "options": [
+      "A. Swat Valley",
+      "B. Thar Desert",
+      "C. Indus Valley",
+      "D. Potohar Valley"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Geography"
+  },
+  {
+    "question": "What is the meaning of the word 'Pakistan'?",
+    "options": [
+      "A. Land of the Pure",
+      "B. Land of the Brave",
+      "C. Land of the Wise",
+      "D. Land of the Strong"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a major source of income for Pakistan’s economy?",
+    "options": [
+      "A. Agriculture",
+      "B. Technology",
+      "C. Tourism",
+      "D. Manufacturing"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Pakistan Studies",
+    "topic": "Economy"
+  }
+]

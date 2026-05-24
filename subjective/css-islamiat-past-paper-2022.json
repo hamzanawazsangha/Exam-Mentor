@@ -1,0 +1,41 @@
+{
+  "subject": "Islamic Studies",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain the concept of Human Rights in Islamic thought in specification of \u201cStatus of Women in Islam\u201d.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write down the main principles of Islamic Economics. How do these principles provide solutions to contemporary challenges?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Elaborate the concept and importance of Ijtihad and explain its principles.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Explain the doctrine of Prophethood and its importance in human life.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Describe Hazrat Muhammad (PBUH) as a Prophet of Peace for the contemporary transnational world.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Explain the Reconstruction of Pakistani Society in the light of Islamic Teachings.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Describe the importance of Deen (Doctrine of life) in human life. Differentiate between Deen and Religions.",
+      "marks": 20
+    }
+  ]
+}

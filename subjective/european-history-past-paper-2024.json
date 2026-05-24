@@ -1,0 +1,41 @@
+{
+  "subject": "European History",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "According to the Austrian chancellor Klemens von Metternich, \u201cWhen France sneezes, the rest of Europe catches a cold.\u201d Discuss this statement in the context of the French Revolution.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Examine Napoleon's Continental System as a strategic and economic policy during the early 19th century, discussing the motivations behind its implementation and its impact on European trade and economies.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the significance and outcomes of the Congress of Vienna (1814-1815) in shaping the post-Napoleonic order in Europe.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Explore the causes of the 1848 European revolutions, assessing internal divisions, foreign intervention, and the lasting impact on political and social landscapes.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Examine Bismarck's role in 19th-century German unification, assessing his strategies, key events, and impact on the socio-political landscape within the newly formed German Empire.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Analyze the complexities of the inter-war period, with a focus on the geopolitical landscape and the impact of treaties such as the Warsaw Pact.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Evaluate the Cold War's impact on Europe, considering geopolitical, economic, and socio-cultural consequences.",
+      "marks": 20
+    }
+  ]
+}

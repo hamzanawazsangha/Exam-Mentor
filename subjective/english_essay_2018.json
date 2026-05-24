@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2018",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Real development should transform people\u2019s lives, not just economic statistics.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Higher Education in Pakistan: Ills and Remedies.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Too many of us are not living our dreams because we are living our fears.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "China \u2013 Pakistan Economic Corridor (CPEC) and its Socio-economic Implications for the Region and the World.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Beware the barrenness of a busy life!",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "The Emerging Power of Social Media: Prospects and Problems.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "In the fight against terrorism and corruption, it is imperative not to compromise human rights and civil liberties.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "The threat of Global Warming and the ways to counter it.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Will \u201cRule of law\u201d always remain an impracticable myth in our country?",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Democracy in Pakistan: Hopes and Hurdles.",
+      "marks": 100
+    }
+  ]
+}

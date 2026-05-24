@@ -1,0 +1,737 @@
+{
+    "meta": {
+        "version": "1.0",
+        "editable_weightage": true,
+        "note": "Weightages are initial estimates and should be updated via admin panel"
+    },
+    "CSS": {
+        "paper_pattern": {
+            "objective": {
+                "mcqs": 20,
+                "marks": 20,
+                "time_minutes": 30
+            },
+            "subjective": {
+                "total_questions": 7,
+                "attempt": 4,
+                "marks_per_question": 20,
+                "time_minutes": 150
+            }
+        },
+        "compulsory_subjects": [
+            {
+                "id": "essay",
+                "name": "English Essay",
+                "papers": 1,
+                "type": "subjective_only",
+                "topics": [
+                    {
+                        "id": "essay_governance",
+                        "name": "Governance & Politics",
+                        "weightage": 25,
+                        "difficulty": {
+                            "easy": 20,
+                            "medium": 50,
+                            "hard": 30
+                        }
+                    },
+                    {
+                        "id": "essay_society",
+                        "name": "Society & Culture",
+                        "weightage": 20,
+                        "difficulty": {
+                            "easy": 20,
+                            "medium": 50,
+                            "hard": 30
+                        }
+                    },
+                    {
+                        "id": "essay_ir",
+                        "name": "International Relations",
+                        "weightage": 20,
+                        "difficulty": {
+                            "easy": 20,
+                            "medium": 50,
+                            "hard": 30
+                        }
+                    },
+                    {
+                        "id": "essay_economy",
+                        "name": "Economy",
+                        "weightage": 20,
+                        "difficulty": {
+                            "easy": 20,
+                            "medium": 50,
+                            "hard": 30
+                        }
+                    },
+                    {
+                        "id": "essay_misc",
+                        "name": "Science/Environment/Other",
+                        "weightage": 15,
+                        "difficulty": {
+                            "easy": 20,
+                            "medium": 50,
+                            "hard": 30
+                        }
+                    }
+                ],
+                "marks": 100
+            },
+            {
+                "id": "precis",
+                "name": "English (Precis & Composition)",
+                "papers": 1,
+                "topics": [
+                    {
+                        "id": "precis_vocab",
+                        "name": "Vocabulary",
+                        "weightage": 25,
+                        "question_types": [
+                            "mcq"
+                        ]
+                    },
+                    {
+                        "id": "precis_grammar",
+                        "name": "Grammar",
+                        "weightage": 30,
+                        "question_types": [
+                            "mcq",
+                            "short"
+                        ]
+                    },
+                    {
+                        "id": "precis_precis",
+                        "name": "Precis Writing",
+                        "weightage": 20,
+                        "question_types": [
+                            "long"
+                        ]
+                    },
+                    {
+                        "id": "precis_comprehension",
+                        "name": "Comprehension",
+                        "weightage": 15,
+                        "question_types": [
+                            "short"
+                        ]
+                    },
+                    {
+                        "id": "precis_sentence",
+                        "name": "Sentence Correction/Formation",
+                        "weightage": 10,
+                        "question_types": [
+                            "short"
+                        ]
+                    }
+                ],
+                "type": "subjective_only",
+                "marks": 100
+            },
+            {
+                "id": "gsa",
+                "name": "General Science & Ability",
+                "papers": 1,
+                "topics": [
+                    {
+                        "id": "gsa_biology",
+                        "name": "Biology",
+                        "weightage": 30,
+                        "question_types": [
+                            "mcq",
+                            "short",
+                            "analytical"
+                        ]
+                    },
+                    {
+                        "id": "gsa_physics",
+                        "name": "Physics",
+                        "weightage": 25,
+                        "question_types": [
+                            "mcq",
+                            "numerical"
+                        ]
+                    },
+                    {
+                        "id": "gsa_chemistry",
+                        "name": "Chemistry",
+                        "weightage": 20,
+                        "question_types": [
+                            "mcq",
+                            "conceptual"
+                        ]
+                    },
+                    {
+                        "id": "gsa_env",
+                        "name": "Environment",
+                        "weightage": 10,
+                        "question_types": [
+                            "mcq",
+                            "short"
+                        ]
+                    },
+                    {
+                        "id": "gsa_math",
+                        "name": "Math & Reasoning",
+                        "weightage": 15,
+                        "question_types": [
+                            "mcq",
+                            "numerical"
+                        ]
+                    }
+                ],
+                "type": "mixed_objective_subjective",
+                "marks": 100
+            },
+            {
+                "id": "ca",
+                "name": "Current Affairs",
+                "papers": 1,
+                "topics": [
+                    {
+                        "id": "ca_global",
+                        "name": "Global Issues",
+                        "weightage": 30
+                    },
+                    {
+                        "id": "ca_pk_fp",
+                        "name": "Pakistan Foreign Policy",
+                        "weightage": 25
+                    },
+                    {
+                        "id": "ca_org",
+                        "name": "International Organizations",
+                        "weightage": 15
+                    },
+                    {
+                        "id": "ca_economy",
+                        "name": "Economy",
+                        "weightage": 15
+                    },
+                    {
+                        "id": "ca_misc",
+                        "name": "Events/Misc",
+                        "weightage": 15
+                    }
+                ],
+                "type": "mixed_objective_subjective",
+                "marks": 100
+            },
+            {
+                "id": "pa",
+                "name": "Pakistan Affairs",
+                "papers": 1,
+                "topics": [
+                    {
+                        "id": "pa_movement",
+                        "name": "Pakistan Movement",
+                        "weightage": 30
+                    },
+                    {
+                        "id": "pa_constitution",
+                        "name": "Constitution",
+                        "weightage": 25
+                    },
+                    {
+                        "id": "pa_history",
+                        "name": "Post-1947 History",
+                        "weightage": 20
+                    },
+                    {
+                        "id": "pa_economy",
+                        "name": "Economy",
+                        "weightage": 15
+                    },
+                    {
+                        "id": "pa_society",
+                        "name": "Society/Issues",
+                        "weightage": 10
+                    }
+                ],
+                "type": "mixed_objective_subjective",
+                "marks": 100
+            },
+            {
+                "id": "isl",
+                "name": "Islamic Studies",
+                "papers": 1,
+                "topics": [
+                    {
+                        "id": "isl_quran",
+                        "name": "Quran & Hadith",
+                        "weightage": 35
+                    },
+                    {
+                        "id": "isl_beliefs",
+                        "name": "Beliefs",
+                        "weightage": 20
+                    },
+                    {
+                        "id": "isl_seerah",
+                        "name": "Seerah",
+                        "weightage": 20
+                    },
+                    {
+                        "id": "isl_law",
+                        "name": "Islamic Law",
+                        "weightage": 15
+                    },
+                    {
+                        "id": "isl_contemporary",
+                        "name": "Contemporary Issues",
+                        "weightage": 10
+                    }
+                ],
+                "type": "mixed_objective_subjective",
+                "marks": 100
+            }
+        ],
+        "optional_subjects": {
+            "groups": [
+                {
+                    "name": "Group I (200 marks)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "accountancy_auditing",
+                            "name": "Accountancy & Auditing",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "economics",
+                            "name": "Economics",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "computer_science",
+                            "name": "Computer Science",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "ps",
+                            "name": "Political Science",
+                            "papers": 2,
+                            "topics": [
+                                {
+                                    "id": "ps_theory",
+                                    "name": "Political Theory",
+                                    "weightage": 30
+                                },
+                                {
+                                    "id": "ps_systems",
+                                    "name": "Political Systems",
+                                    "weightage": 25
+                                },
+                                {
+                                    "id": "ps_pk",
+                                    "name": "Pak Politics",
+                                    "weightage": 20
+                                },
+                                {
+                                    "id": "ps_ideologies",
+                                    "name": "Ideologies",
+                                    "weightage": 25
+                                }
+                            ],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "ir",
+                            "name": "International Relations",
+                            "papers": 2,
+                            "topics": [
+                                {
+                                    "id": "ir_theory",
+                                    "name": "IR Theories",
+                                    "weightage": 30
+                                },
+                                {
+                                    "id": "ir_global",
+                                    "name": "Global Politics",
+                                    "weightage": 25
+                                },
+                                {
+                                    "id": "ir_pk",
+                                    "name": "Pakistan IR",
+                                    "weightage": 25
+                                },
+                                {
+                                    "id": "ir_org",
+                                    "name": "Organizations",
+                                    "weightage": 20
+                                }
+                            ],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group II (200 marks)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "physics",
+                            "name": "Physics",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "chemistry",
+                            "name": "Chemistry",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "applied_mathematics",
+                            "name": "Applied Mathematics",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "pure_mathematics",
+                            "name": "Pure Mathematics",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "statistics",
+                            "name": "Statistics",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "geology",
+                            "name": "Geology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group III (100 marks each)",
+                    "instruction": "Choose two",
+                    "subjects": [
+                        {
+                            "id": "business_administration",
+                            "name": "Business Administration",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "public_administration",
+                            "name": "Public Administration",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "governance_public_policies",
+                            "name": "Governance & Public Policies",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "town_planning_urban_management",
+                            "name": "Town Planning & Urban Management",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "commerce",
+                            "name": "Commerce",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "accounting_finance",
+                            "name": "Accounting & Finance",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group IV (100 marks each)",
+                    "instruction": "Choose two",
+                    "subjects": [
+                        {
+                            "id": "history_of_pakistan_india",
+                            "name": "History of Pakistan & India",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "islamic_history_culture",
+                            "name": "Islamic History & Culture",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "british_history",
+                            "name": "British History",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "european_history",
+                            "name": "European History",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "history_of_usa",
+                            "name": "History of USA",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group V (100 marks each)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "gender_studies",
+                            "name": "Gender Studies",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "environmental_sciences",
+                            "name": "Environmental Sciences",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "agriculture_forestry",
+                            "name": "Agriculture & Forestry",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "botany",
+                            "name": "Botany",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "zoology",
+                            "name": "Zoology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "food_science_technology",
+                            "name": "Food Science & Technology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group VI (100 marks each)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "law",
+                            "name": "Law",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "constitutional_law",
+                            "name": "Constitutional Law",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "international_law",
+                            "name": "International Law",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "muslim_law_jurisprudence",
+                            "name": "Muslim Law & Jurisprudence",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "mercantile_law",
+                            "name": "Mercantile Law",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "criminology",
+                            "name": "Criminology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "philosophy",
+                            "name": "Philosophy",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group VII (100 marks each)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "journalism_mass_communication",
+                            "name": "Journalism & Mass Communication",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "psychology",
+                            "name": "Psychology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "sociology",
+                            "name": "Sociology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "anthropology",
+                            "name": "Anthropology",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "library_information_science",
+                            "name": "Library & Information Science",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                },
+                {
+                    "name": "Group VIII (100 marks each)",
+                    "instruction": "Choose one",
+                    "subjects": [
+                        {
+                            "id": "arabic",
+                            "name": "Arabic",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "persian",
+                            "name": "Persian",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "urdu",
+                            "name": "Urdu",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "english_literature",
+                            "name": "English Literature",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "punjabi",
+                            "name": "Punjabi",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "sindhi",
+                            "name": "Sindhi",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "pashto",
+                            "name": "Pashto",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        },
+                        {
+                            "id": "balochi",
+                            "name": "Balochi",
+                            "papers": 1,
+                            "topics": [],
+                            "type": "mixed_objective_subjective"
+                        }
+                    ]
+                }
+            ]
+        },
+        "generation_rules": {
+            "mcq_selection": "proportional_to_weightage",
+            "subjective_selection": "cover_max_topics",
+            "difficulty_distribution": {
+                "easy": 30,
+                "medium": 50,
+                "hard": 20
+            },
+            "topic_coverage": {
+                "min_topics_per_paper": 4,
+                "avoid_single_topic_dominance": true
+            },
+            "repetition_control": {
+                "avoid_last_n_years": 5,
+                "max_repeat_percentage": 20
+            }
+        }
+    }
+}

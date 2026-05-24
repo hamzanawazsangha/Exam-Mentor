@@ -1,0 +1,41 @@
+{
+  "subject": "Business Administration",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is the significance of strategic management for an organization? Explain the various steps of strategic management process.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What are the internal sources of job candidates? How can managers forecast the supply of internal candidates?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the advantages and disadvantages of different methods a manager can adopt for effective performance appraisal of employees.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss the three common capital budgeting decision techniques with examples and formulas.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "An international manufacturing concern has provided the income statement data. Give formulas to calculate the following ratios. Also explain how to interpret them? (i) Current ratio (ii) Quick ratio (iii) Average collection period (iv) Time interest earned (v) Inventory turnover",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "The impact of different levels of decision phases of supply chain depends on timeframe. Explain the decision phases in supply chains with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Compare the advantages of mass marketing to those of market segmentation for a company. Discuss with relevant business examples.",
+      "marks": 20
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "subject": "Business Administration",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Elaborate the theories of privatization. Discuss with example the impact of Downsizing on Telecommunication sector of Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "How non-tariff barriers affect international business? Critically discuss with reference to Less Developed Countries.",
+      "marks": 20
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Supply chain managers should be aware of the characteristic of forecasting. Why or why not? Critically discuss in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Discuss the components of a forecast and forecasting methods with examples. Explain the role of information technology in forecasting.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically examine Foreign Direct Investment and the strategic logic behind it for the development of a country, especially for Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss and evaluate the endeavors during past decades in Pakistan for the development of Islamic Economic System.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Discuss the difference between theories of Herzberg and Maslow. Elaborate with reasons which of these theories do you prefer in the Pakistani context?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss the following with examples with relation to services sector: (a) Management Information System (b) Globalization across different cultures (c) Meaning and importance of entrepreneurship (d) Reinventing Organizations",
+      "marks": 20
+    }
+  ]
+}

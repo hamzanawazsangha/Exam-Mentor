@@ -1,0 +1,51 @@
+{
+  "subject": "European History",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Describe Concert of Europe foundational principles. Why did the Concert of Europe decline?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe how Napoleon\u2019s military conquests changed both the map and political balance of power in Europe?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Evaluate the inherent strengths of Prussia combined with Bismarck\u2019s political skills helped to achieve German unification.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Congress of Vienna inspire nationalist movements across Europe in the revolutions of 1830 and 1848. Analyze.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Describe how the map of Europe was changed because of World War I and post war treaties?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "In what ways did the Marshall plan, the dividing of Berlin, the communist takeover of power in Czechoslovakia and the formation of NATO contribute to the development of the Cold war? Analyze.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "European Economic Community (EEC)",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Balkan Crisis 1990s",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "German Question",
+      "marks": 10
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "subject": "Geology",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Classify pyroxene group of minerals based on chemical composition. Also mention their physical and optical properties.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Elaborate various laws of stratigraphy, use suitable sketches/examples in support of your answer.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Elaborate the fundamental silica tetrahedral structure (SiO4). Give possibilities of SiO4 linkage to give rise to six silicate structural groups.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe the test compositions of order Foraminiferida. Discuss their ecology and how it plays important role in Tertiary biostratigraphy.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Elaborate characteristics of effective trap-rocks. Describe principal types of hydrocarbon traps with examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are the possible causes of land sliding in the northern mountainous region of Pakistan and how it can be reduced?",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write a short note on Geothermal energy.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write a short note on Eustatic curve.",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write a short note on Physical weathering.",
+      "marks": 10
+    }
+  ]
+}

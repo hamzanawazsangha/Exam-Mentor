@@ -1,0 +1,41 @@
+{
+  "subject": "English Literature",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Is happiness possible in modern world? Explain in the light of Russell\u2019s The Conquest of Happiness.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain Jacque Derrida\u2019s Deconstruction theory. Do you agree that Deconstruction is not destruction?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What is the title significance of \u201cThe Lotus Eater\u201d by Somerset Maugham?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Is there a significant relation between language and political thought? Explain rules of writing a good prose in the light of Orwell\u2019s \u201cPolitics and the English Language\u201d.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss emotional conflicts in Paul Morel the protagonist having a stifle connection with a tough mother in D.H. Lawrence \u201cSons and Lovers\u201d.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "\u201cIt is we\u201d, says Hazlitt, \u201cwho are Hamlet\u201d. Illustrate with textual examples Hamlet as a universal character.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Marxists and Sociologists believe literature as an expression of society. Explain this statement. Also enlist limitations of Marxist criticism in detail.",
+      "marks": 20
+    }
+  ]
+}

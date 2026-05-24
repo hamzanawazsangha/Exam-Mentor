@@ -1,0 +1,464 @@
+[
+  {
+    "question": "What is the first pillar of Islam?",
+    "options": [
+      "A. Shahada",
+      "B. Salah",
+      "C. Zakat",
+      "D. Sawm"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is the birthplace of the Prophet Muhammad (PBUH)?",
+    "options": [
+      "A. Medina",
+      "B. Mecca",
+      "C. Jerusalem",
+      "D. Abu Dhabi"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "Which month of the Islamic calendar is observed as Ramadan?",
+    "options": [
+      "A. Shawwal",
+      "B. Muharram",
+      "C. Ramadan",
+      "D. Safar"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'Salah' refer to in Islam?",
+    "options": [
+      "A. Fasting",
+      "B. Charity",
+      "C. Prayer",
+      "D. Pilgrimage"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "The Night of Ascension (Isra and Mi'raj) occurred in which month of the Islamic calendar?",
+    "options": [
+      "A. Ramadan",
+      "B. Rajab",
+      "C. Shawwal",
+      "D. Muharram"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "What is the meaning of 'Zakat'?",
+    "options": [
+      "A. Fasting",
+      "B. Pilgrimage",
+      "C. Almsgiving",
+      "D. Recitation of Quran"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which angel is responsible for revealing the Quran to Prophet Muhammad (PBUH)?",
+    "options": [
+      "A. Jibreel",
+      "B. Mikail",
+      "C. Israfil",
+      "D. Malik"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Theology"
+  },
+  {
+    "question": "How many chapters (Surahs) are there in the Quran?",
+    "options": [
+      "A. 114",
+      "B. 120",
+      "C. 98",
+      "D. 150"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest Surah in the Quran?",
+    "options": [
+      "A. Al-Baqarah",
+      "B. Al-Ikhlas",
+      "C. Al-Fatiha",
+      "D. Al-Nas"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the significance of 'Hajj' in Islam?",
+    "options": [
+      "A. It is a pilgrimage to Mecca",
+      "B. It is a month of fasting",
+      "C. It is a form of almsgiving",
+      "D. It is a prayer ritual"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the process of interpreting Islamic law called?",
+    "options": [
+      "A. Tafsir",
+      "B. Ijtihad",
+      "C. Hadith",
+      "D. Fiqh"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Law"
+  },
+  {
+    "question": "Which treaty was signed between the Muslims and the Quraysh tribe in 628 CE?",
+    "options": [
+      "A. Treaty of Hudaybiyyah",
+      "B. Treaty of Khaybar",
+      "C. Treaty of Badr",
+      "D. Treaty of Medina"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "Which of the following is the holy book of the Muslims?",
+    "options": [
+      "A. Bible",
+      "B. Vedas",
+      "C. Quran",
+      "D. Guru Granth Sahib"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which prophet is known for building the Kaaba?",
+    "options": [
+      "A. Ibrahim (Abraham)",
+      "B. Musa (Moses)",
+      "C. Isa (Jesus)",
+      "D. Nuh (Noah)"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "What is the Islamic term for non-Muslims living in an Islamic state?",
+    "options": [
+      "A. Dhimmi",
+      "B. Kafir",
+      "C. Harbi",
+      "D. Mu'ahid"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Law"
+  },
+  {
+    "question": "What does 'Hadith' refer to?",
+    "options": [
+      "A. The actions of the Prophet",
+      "B. Holy verses of the Quran",
+      "C. Islamic law",
+      "D. Early Islamic history"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Theology"
+  },
+  {
+    "question": "Which caliph is known for compiling the Quran into one book?",
+    "options": [
+      "A. Abu Bakr",
+      "B. Umar",
+      "C. Uthman",
+      "D. Ali"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "In which battle did the Muslims face the Quraysh for the first time?",
+    "options": [
+      "A. Battle of Uhud",
+      "B. Battle of Badr",
+      "C. Battle of Khandaq",
+      "D. Battle of Hunayn"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  },
+  {
+    "question": "What is the primary language of the Quran?",
+    "options": [
+      "A. Arabic",
+      "B. Urdu",
+      "C. Persian",
+      "D. English"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is NOT one of the Five Pillars of Islam?",
+    "options": [
+      "A. Shahada",
+      "B. Hajj",
+      "C. Sawm",
+      "D. Jihad"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following Surahs is known as the heart of the Quran?",
+    "options": [
+      "A. Al-Baqarah",
+      "B. Al-Fatiha",
+      "C. Ya-Sin",
+      "D. Al-Mulk"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the meaning of the term 'Ummah'?",
+    "options": [
+      "A. Community",
+      "B. Mosque",
+      "C. Charity",
+      "D. Pilgrimage"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "On which day is the weekly congregational prayer held in Islam?",
+    "options": [
+      "A. Friday",
+      "B. Saturday",
+      "C. Sunday",
+      "D. Thursday"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which month of the Islamic calendar follows Ramadan?",
+    "options": [
+      "A. Muharram",
+      "B. Shawwal",
+      "C. Rajab",
+      "D. Safar"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What is the significance of the mosque in Islam?",
+    "options": [
+      "A. Place of worship",
+      "B. Community center",
+      "C. Educational institution",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Which Islamic festival marks the end of Ramadan?",
+    "options": [
+      "A. Eid-ul-Adha",
+      "B. Eid-ul-Fitr",
+      "C. Mawlid",
+      "D. Ashura"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the last prophet in Islam?",
+    "options": [
+      "A. Musa",
+      "B. Isa",
+      "C. Muhammad",
+      "D. Ibrahim"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Theology"
+  },
+  {
+    "question": "What does 'Halal' refer to?",
+    "options": [
+      "A. Forbidden",
+      "B. Permissible",
+      "C. Encouraged",
+      "D. Mandatory"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'Nashid' refer to in Islamic culture?",
+    "options": [
+      "A. A form of poetry",
+      "B. Islamic law",
+      "C. Prophetic tradition",
+      "D. A type of art"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which of the following is the primary source of Islamic law?",
+    "options": [
+      "A. Quran",
+      "B. Hadith",
+      "C. Ijma",
+      "D. Qiyas"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Law"
+  },
+  {
+    "question": "Which of the following is a famous Islamic philosopher?",
+    "options": [
+      "A. Aristotle",
+      "B. Al-Ghazali",
+      "C. Plato",
+      "D. Einstein"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "Philosophy"
+  },
+  {
+    "question": "What is the primary obligation of 'Sawm'?",
+    "options": [
+      "A. Fasting",
+      "B. Charity",
+      "C. Prayer",
+      "D. Pilgrimage"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "General"
+  },
+  {
+    "question": "In which battle did Hazrat Ali (RA) show great bravery?",
+    "options": [
+      "A. Battle of Uhud",
+      "B. Battle of Badr",
+      "C. Battle of Khandaq",
+      "D. Battle of Jamal"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Islamic Studies",
+    "topic": "History"
+  }
+]

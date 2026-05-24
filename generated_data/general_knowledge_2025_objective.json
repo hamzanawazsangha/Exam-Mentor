@@ -1,0 +1,1388 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "A. Berlin",
+      "B. Madrid",
+      "C. Paris",
+      "D. Rome"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "A. Earth",
+      "B. Jupiter",
+      "C. Saturn",
+      "D. Mars"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "A. Charles Dickens",
+      "B. Mark Twain",
+      "C. William Shakespeare",
+      "D. Leo Tolstoy"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": [
+      "A. Oxygen",
+      "B. Nitrogen",
+      "C. Carbon Dioxide",
+      "D. Hydrogen"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What year did World War II begin?",
+    "options": [
+      "A. 1935",
+      "B. 1939",
+      "C. 1941",
+      "D. 1945"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "A. Atlantic Ocean",
+      "B. Indian Ocean",
+      "C. Arctic Ocean",
+      "D. Pacific Ocean"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": [
+      "A. Monaco",
+      "B. Nauru",
+      "C. Vatican City",
+      "D. San Marino"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "A. Tomato",
+      "B. Avocado",
+      "C. Onion",
+      "D. Pepper"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "A. Dollar",
+      "B. Yen",
+      "C. Peso",
+      "D. Euro"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "A. Gold",
+      "B. Silver",
+      "C. Oxygen",
+      "D. Hydrogen"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which continent is known as the Dark Continent?",
+    "options": [
+      "A. Asia",
+      "B. Africa",
+      "C. South America",
+      "D. North America"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "A. Abraham Lincoln",
+      "B. George Washington",
+      "C. Thomas Jefferson",
+      "D. John Adams"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which organ is primarily responsible for detoxifying chemicals in the body?",
+    "options": [
+      "A. Heart",
+      "B. Kidney",
+      "C. Liver",
+      "D. Lungs"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which famous scientist developed the theory of general relativity?",
+    "options": [
+      "A. Isaac Newton",
+      "B. Albert Einstein",
+      "C. Niels Bohr",
+      "D. Galileo Galilei"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "A. 1912",
+      "B. 1914",
+      "C. 1916",
+      "D. 1918"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "A. Nile",
+      "B. Amazon",
+      "C. Yangtze",
+      "D. Mississippi"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which language is the most spoken worldwide?",
+    "options": [
+      "A. English",
+      "B. Mandarin",
+      "C. Spanish",
+      "D. Arabic"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": [
+      "A. K2",
+      "B. Kangchenjunga",
+      "C. Mount Everest",
+      "D. Lhotse"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet is known for having rings?",
+    "options": [
+      "A. Earth",
+      "B. Jupiter",
+      "C. Saturn",
+      "D. Neptune"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": [
+      "A. Elephant",
+      "B. Tiger",
+      "C. Lion",
+      "D. Gorilla"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "A. Toronto",
+      "B. Vancouver",
+      "C. Ottawa",
+      "D. Montreal"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "A. Mercury",
+      "B. Venus",
+      "C. Earth",
+      "D. Mars"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "A. China",
+      "B. Japan",
+      "C. South Korea",
+      "D. Thailand"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "A. Elephant",
+      "B. Blue Whale",
+      "C. Great White Shark",
+      "D. Giraffe"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "A. Vincent van Gogh",
+      "B. Pablo Picasso",
+      "C. Leonardo da Vinci",
+      "D. Claude Monet"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In which sport can you win the Stanley Cup?",
+    "options": [
+      "A. Basketball",
+      "B. Soccer",
+      "C. Ice Hockey",
+      "D. Baseball"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "options": [
+      "A. England",
+      "B. France",
+      "C. Italy",
+      "D. Spain"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "options": [
+      "A. Spanish",
+      "B. Portuguese",
+      "C. English",
+      "D. French"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is known as the Big Apple?",
+    "options": [
+      "A. Chicago",
+      "B. Los Angeles",
+      "C. New York City",
+      "D. San Francisco"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country is known for the Great Wall?",
+    "options": [
+      "A. India",
+      "B. Japan",
+      "C. China",
+      "D. Mongolia"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who was known as the Iron Lady?",
+    "options": [
+      "A. Angela Merkel",
+      "B. Margaret Thatcher",
+      "C. Indira Gandhi",
+      "D. Golda Meir"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "A. Sahara",
+      "B. Gobi",
+      "C. Kalahari",
+      "D. Arctic"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "A. Thermometer",
+      "B. Barometer",
+      "C. Anemometer",
+      "D. Hygrometer"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term for animals that only eat plants?",
+    "options": [
+      "A. Omnivores",
+      "B. Carnivores",
+      "C. Herbivores",
+      "D. Insectivores"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "A. Sydney",
+      "B. Melbourne",
+      "C. Canberra",
+      "D. Perth"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary ingredient in bread?",
+    "options": [
+      "A. Flour",
+      "B. Sugar",
+      "C. Yeast",
+      "D. Water"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "A. Diamond",
+      "B. Gold",
+      "C. Iron",
+      "D. Quartz"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for pumping blood?",
+    "options": [
+      "A. Brain",
+      "B. Lungs",
+      "C. Heart",
+      "D. Liver"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which vitamin is known as the sunshine vitamin?",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin C",
+      "C. Vitamin D",
+      "D. Vitamin E"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "A. Marie Curie",
+      "B. Alexander Fleming",
+      "C. Louis Pasteur",
+      "D. Thomas Edison"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary purpose of the United Nations?",
+    "options": [
+      "A. To end poverty",
+      "B. To promote peace",
+      "C. To spread religion",
+      "D. To control trade"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who is the author of the book '1984'?",
+    "options": [
+      "A. Aldous Huxley",
+      "B. George Orwell",
+      "C. Ray Bradbury",
+      "D. F. Scott Fitzgerald"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What type of animal is a frog?",
+    "options": [
+      "A. Reptile",
+      "B. Mammal",
+      "C. Amphibian",
+      "D. Fish"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary ingredient in sushi?",
+    "options": [
+      "A. Fish",
+      "B. Rice",
+      "C. Seaweed",
+      "D. Noodles"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the tallest building in the world as of 2025?",
+    "options": [
+      "A. Burj Khalifa",
+      "B. Shanghai Tower",
+      "C. One World Trade Center",
+      "D. Taipei 101"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which organ is responsible for producing insulin?",
+    "options": [
+      "A. Stomach",
+      "B. Liver",
+      "C. Pancreas",
+      "D. Kidneys"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary language spoken in Egypt?",
+    "options": [
+      "A. Arabic",
+      "B. French",
+      "C. English",
+      "D. Spanish"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In which city is the headquarters of the United Nations located?",
+    "options": [
+      "A. Paris",
+      "B. London",
+      "C. New York City",
+      "D. Geneva"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which gas is essential for human respiration?",
+    "options": [
+      "A. Nitrogen",
+      "B. Oxygen",
+      "C. Carbon Dioxide",
+      "D. Methane"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "options": [
+      "A. Rose",
+      "B. Cherry Blossom",
+      "C. Lotus",
+      "D. Orchid"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "A. Earth",
+      "B. Jupiter",
+      "C. Saturn",
+      "D. Neptune"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "A. 90",
+      "B. 100",
+      "C. 110",
+      "D. 120"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "When was the first manned moon landing?",
+    "options": [
+      "A. 1965",
+      "B. 1969",
+      "C. 1972",
+      "D. 1980"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which famous physicist is known for his laws of motion?",
+    "options": [
+      "A. Albert Einstein",
+      "B. Isaac Newton",
+      "C. Stephen Hawking",
+      "D. Niels Bohr"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "A. Mercury",
+      "B. Gallium",
+      "C. Aluminum",
+      "D. Lead"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country is known for its pyramids?",
+    "options": [
+      "A. Mexico",
+      "B. Egypt",
+      "C. Greece",
+      "D. India"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is 100 in Roman numerals?",
+    "options": [
+      "A. C",
+      "B. D",
+      "C. M",
+      "D. L"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which ocean is the Bermuda Triangle located in?",
+    "options": [
+      "A. Atlantic Ocean",
+      "B. Pacific Ocean",
+      "C. Indian Ocean",
+      "D. Arctic Ocean"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What popular soft drink was originally invented as a tonic for ailments?",
+    "options": [
+      "A. Pepsi",
+      "B. Coca-Cola",
+      "C. Sprite",
+      "D. Dr Pepper"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary function of red blood cells?",
+    "options": [
+      "A. To fight infection",
+      "B. To transport oxygen",
+      "C. To clot blood",
+      "D. To regulate temperature"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "A. Earth",
+      "B. Jupiter",
+      "C. Saturn",
+      "D. Mars"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "A. Ag",
+      "B. Au",
+      "C. Pb",
+      "D. Fe"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "A. Deoxyribonucleic Acid",
+      "B. Dioxyribonucleic Acid",
+      "C. Deoxyribonitric Acid",
+      "D. Deoxyribonatric Acid"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country is known as the land of kangaroos?",
+    "options": [
+      "A. South Africa",
+      "B. Australia",
+      "C. Canada",
+      "D. India"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary source of energy for Earth?",
+    "options": [
+      "A. Wind",
+      "B. Water",
+      "C. Sun",
+      "D. Coal"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "options": [
+      "A. Niels Bohr",
+      "B. Isaac Newton",
+      "C. Albert Einstein",
+      "D. Stephen Hawking"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the symbol for the element silver?",
+    "options": [
+      "A. Au",
+      "B. Ag",
+      "C. Si",
+      "D. Sb"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which famous scientist is credited with the theory of evolution?",
+    "options": [
+      "A. Albert Einstein",
+      "B. Charles Darwin",
+      "C. Isaac Newton",
+      "D. Stephen Hawking"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which structure is known as the symbol of Paris?",
+    "options": [
+      "A. The Louvre",
+      "B. The Eiffel Tower",
+      "C. Notre-Dame Cathedral",
+      "D. Arc de Triomphe"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "options": [
+      "A. 1989",
+      "B. 1991",
+      "C. 1993",
+      "D. 1995"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country has the longest coastline?",
+    "options": [
+      "A. Canada",
+      "B. Russia",
+      "C. Australia",
+      "D. United States"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "options": [
+      "A. Lentils",
+      "B. Chickpeas",
+      "C. Beans",
+      "D. Peas"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "A. H2O",
+      "B. O2",
+      "C. CO2",
+      "D. NaCl"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which country invented tea?",
+    "options": [
+      "A. India",
+      "B. Japan",
+      "C. China",
+      "D. England"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "A. Florence",
+      "B. Rome",
+      "C. Venice",
+      "D. Milan"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "options": [
+      "A. Lake Victoria",
+      "B. Lake Tanganyika",
+      "C. Lake Malawi",
+      "D. Lake Albert"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which composer is known for 'The Four Seasons'?",
+    "options": [
+      "A. Bach",
+      "B. Vivaldi",
+      "C. Mozart",
+      "D. Beethoven"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the chemical symbol for Sodium?",
+    "options": [
+      "A. Na",
+      "B. S",
+      "C. K",
+      "D. Cl"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the tallest waterfall in the world?",
+    "options": [
+      "A. Niagara Falls",
+      "B. Angel Falls",
+      "C. Victoria Falls",
+      "D. Iguazu Falls"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the name of the first artificial Earth satellite?",
+    "options": [
+      "A. Voyager 1",
+      "B. Sputnik 1",
+      "C. Apollo 11",
+      "D. Hubble"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital city of Egypt?",
+    "options": [
+      "A. Cairo",
+      "B. Alexandria",
+      "C. Giza",
+      "D. Luxor"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which planet is known as the 'Evening Star'?",
+    "options": [
+      "A. Venus",
+      "B. Mars",
+      "C. Jupiter",
+      "D. Saturn"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital city of Russia?",
+    "options": [
+      "A. Moscow",
+      "B. St. Petersburg",
+      "C. Kiev",
+      "D. Minsk"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the longest river in Asia?",
+    "options": [
+      "A. Indus",
+      "B. Yangtze",
+      "C. Mekong",
+      "D. Ganges"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the most common gas in the atmosphere?",
+    "options": [
+      "A. Oxygen",
+      "B. Carbon Dioxide",
+      "C. Nitrogen",
+      "D. Argon"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main ingredient of traditional pesto sauce?",
+    "options": [
+      "A. Tomatoes",
+      "B. Peanuts",
+      "C. Basil",
+      "D. Spinach"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital city of Turkey?",
+    "options": [
+      "A. Istanbul",
+      "B. Ankara",
+      "C. Izmir",
+      "D. Bursa"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "A. J.K. Rowling",
+      "B. J.R.R. Tolkien",
+      "C. C.S. Lewis",
+      "D. George R.R. Martin"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which gas is used in balloons?",
+    "options": [
+      "A. Helium",
+      "B. Hydrogen",
+      "C. Oxygen",
+      "D. Nitrogen"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": [
+      "A. Nikola Tesla",
+      "B. Thomas Edison",
+      "C. Alexander Graham Bell",
+      "D. Albert Einstein"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which ocean borders the United States to the west?",
+    "options": [
+      "A. Atlantic",
+      "B. Indian",
+      "C. Arctic",
+      "D. Pacific"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "A. Seoul",
+      "B. Pyongyang",
+      "C. Tokyo",
+      "D. Beijing"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which vitamin is primarily obtained from sunlight?",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin B",
+      "C. Vitamin C",
+      "D. Vitamin D"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "A. Raphael",
+      "B. Michelangelo",
+      "C. Da Vinci",
+      "D. Van Gogh"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "Which insect is known for its ability to make honey?",
+    "options": [
+      "A. Ant",
+      "B. Wasp",
+      "C. Bee",
+      "D. Butterfly"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the hardest known natural material?",
+    "options": [
+      "A. Diamond",
+      "B. Graphite",
+      "C. Quartz",
+      "D. Sapphire"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  },
+  {
+    "question": "What is the name of the longest river in North America?",
+    "options": [
+      "A. Missouri River",
+      "B. Mississippi River",
+      "C. Colorado River",
+      "D. Rio Grande"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "General knowledge",
+    "topic": "General"
+  }
+]

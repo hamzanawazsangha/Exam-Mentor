@@ -1,0 +1,856 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Watt"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which law states that for every action, there is an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Gravitation"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "3 x 10^8 m/s",
+      "3 x 10^6 m/s",
+      "1.5 x 10^8 m/s",
+      "1 x 10^8 m/s"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "In which medium does sound travel fastest?",
+    "options": [
+      "Air",
+      "Water",
+      "Solid",
+      "Vacuum"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "What is the basic unit of charge?",
+    "options": [
+      "Volt",
+      "Coulomb",
+      "Ampere",
+      "Ohm"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "question": "Which particle has a positive charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Alpha particle"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What phenomenon causes a rainbow?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Optics"
+  },
+  {
+    "question": "What is the frequency of the sound wave with a wavelength of 2 meters?",
+    "options": [
+      "250 Hz",
+      "500 Hz",
+      "1000 Hz",
+      "2000 Hz"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "Which of the following is not a fundamental force?",
+    "options": [
+      "Gravity",
+      "Electromagnetic",
+      "Nuclear",
+      "Friction"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which device is used to measure atmospheric pressure?",
+    "options": [
+      "Voltmeter",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": [
+      "9.8 m/s²",
+      "10 m/s²",
+      "9.81 m/s²",
+      "8.9 m/s²"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "What principle explains the lift of an airplane?",
+    "options": [
+      "Bernoulli's Principle",
+      "Archimedes' Principle",
+      "Newton's Third Law",
+      "Pascal's Law"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics"
+  },
+  {
+    "question": "Which of the following particles is found in the nucleus of an atom?",
+    "options": [
+      "Electron",
+      "Neutron",
+      "Photon",
+      "Meson"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Atomic Physics"
+  },
+  {
+    "question": "What is the primary unit of energy in the SI system?",
+    "options": [
+      "Joule",
+      "Calorie",
+      "Watt",
+      "Newton"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What type of lens is thicker at the center than at the edges?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Optics"
+  },
+  {
+    "question": "The law of conservation of energy states that energy cannot be:",
+    "options": [
+      "Created",
+      "Destroyed",
+      "Transformed",
+      "Both A and B"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the principle behind an electric generator?",
+    "options": [
+      "Electromagnetic induction",
+      "Thermoelectric effect",
+      "Photoelectric effect",
+      "Electrolysis"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Force",
+      "Speed",
+      "Acceleration"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Astronomy"
+  },
+  {
+    "question": "What is the main component of the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "An object in motion will stay in motion unless acted upon by an external force describes which of Newton's laws?",
+    "options": [
+      "First Law",
+      "Second Law",
+      "Third Law",
+      "Law of Universal Gravitation"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "Which physical quantity is measured in Coulombs?",
+    "options": [
+      "Voltage",
+      "Charge",
+      "Resistance",
+      "Current"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "question": "What is the primary reason for seasons on Earth?",
+    "options": [
+      "Earth's distance from the Sun",
+      "Tilt of Earth's axis",
+      "Revolution around the Sun",
+      "Magnetic field"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "In fluid mechanics, the term 'viscosity' refers to:",
+    "options": [
+      "Resistance to flow",
+      "Density",
+      "Pressure",
+      "Surface tension"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "options": [
+      "Anemometer",
+      "Thermometer",
+      "Barometer",
+      "Odometer"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "The energy stored in the nucleus of an atom is called:",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Nuclear energy",
+      "Thermal energy"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Nuclear Physics"
+  },
+  {
+    "question": "What principle states that liquid in a vessel at rest transmits pressure equally in all directions?",
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Hydrostatic principle"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics"
+  },
+  {
+    "question": "In which of the following processes is heat absorbed?",
+    "options": [
+      "Exothermic",
+      "Endothermic",
+      "Isothermal",
+      "Adiabatic"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "What is the measure of the average kinetic energy of the particles in a substance?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "Heat"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "Which type of radiation is composed of high energy electromagnetic waves?",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "Neutron"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Nuclear Physics"
+  },
+  {
+    "question": "The distance traveled by light in one year is known as:",
+    "options": [
+      "Light hour",
+      "Light year",
+      "Astronomical unit",
+      "Parsec"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Astronomy"
+  },
+  {
+    "question": "In terms of physics, what does 'work' mean?",
+    "options": [
+      "Force times distance",
+      "Energy transfer",
+      "Both A and B",
+      "Force divided by distance"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "What is the primary mechanism for transferring heat in solids?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Diffusion"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "Which physical quantity is defined as the rate of change of velocity?",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Momentum",
+      "Force"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the kinetic energy of a 2 kg object moving at a speed of 3 m/s?",
+    "options": [
+      "3 Joules",
+      "6 Joules",
+      "9 Joules",
+      "12 Joules"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "Which state of matter has a definite shape and volume?",
+    "options": [
+      "Liquid",
+      "Gas",
+      "Solid",
+      "Plasma"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary gas responsible for the greenhouse effect?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Environmental Physics"
+  },
+  {
+    "question": "The measure of how much matter is contained in a given volume is called:",
+    "options": [
+      "Density",
+      "Mass",
+      "Weight",
+      "Volume"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary unit for measuring electric current?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Electromagnetism"
+  },
+  {
+    "question": "Which of the following describes an object in free fall?",
+    "options": [
+      "Accelerating upwards",
+      "Constant speed",
+      "Descending with acceleration",
+      "Stationary"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "What type of waves are sound waves?",
+    "options": [
+      "Transverse",
+      "Longitudinal",
+      "Electromagnetic",
+      "Surface"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "Einstein's theory of relativity describes the relationship between which two concepts?",
+    "options": [
+      "Space and time",
+      "Energy and matter",
+      "Force and mass",
+      "Heat and temperature"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which principle states that energy cannot be created or destroyed?",
+    "options": [
+      "Conservation of energy",
+      "Thermodynamics",
+      "Quantum theory",
+      "Relativity"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is centripetal force?",
+    "options": [
+      "Force that acts outward",
+      "Force directed towards the center of rotation",
+      "Force due to gravity",
+      "Force due to friction"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Mechanics"
+  },
+  {
+    "question": "Which gas is used in helium balloons?",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "Hydrogen",
+      "Neon"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "The speed of a wave is determined by which formula?",
+    "options": [
+      "Wavelength × Frequency",
+      "Frequency / Wavelength",
+      "Amplitude × Wavelength",
+      "Velocity / Time"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "What is the process by which water vapor turns into liquid?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "What is the primary factor that affects the buoyancy of an object?",
+    "options": [
+      "Weight",
+      "Volume",
+      "Density",
+      "Shape"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics"
+  },
+  {
+    "question": "Which of the following is a non-renewable energy source?",
+    "options": [
+      "Wind",
+      "Solar",
+      "Coal",
+      "Biomass"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Energy"
+  },
+  {
+    "question": "What does the principle of superposition state?",
+    "options": [
+      "Particles cannot occupy the same space",
+      "The total effect is the sum of individual effects",
+      "Energy is never lost",
+      "Opposite charges attract"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "Brittleness",
+      "Luster",
+      "Poor conductors of heat",
+      "Insulating"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Materials Science"
+  },
+  {
+    "question": "The equation E=mc² is derived from which theory?",
+    "options": [
+      "Quantum Mechanics",
+      "Special Relativity",
+      "General Relativity",
+      "Classical Mechanics"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the phenomenon where light bends when passing through a different medium?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Optics"
+  },
+  {
+    "question": "What unit is used to measure sound intensity?",
+    "options": [
+      "Decibel",
+      "Hertz",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "What is the critical angle for total internal reflection?",
+    "options": [
+      "0 degrees",
+      "30 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Optics"
+  },
+  {
+    "question": "What property of waves describes their height?",
+    "options": [
+      "Amplitude",
+      "Wavelength",
+      "Frequency",
+      "Speed"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Waves"
+  },
+  {
+    "question": "What is the main reason for day and night?",
+    "options": [
+      "Earth's rotation",
+      "Earth's revolution",
+      "Position of the Moon",
+      "Sun's brightness"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Astronomy"
+  },
+  {
+    "question": "What type of reaction is a combustion?",
+    "options": [
+      "Exothermic",
+      "Endothermic",
+      "Redox",
+      "Catalytic"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  },
+  {
+    "question": "Which phenomenon explains an object’s apparent weightlessness in space?",
+    "options": [
+      "Gravity",
+      "Inertia",
+      "Free fall",
+      "Centrifugal force"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "What is the relationship between mass and energy according to the principle of mass-energy equivalence?",
+    "options": [
+      "E = mc",
+      "E = m²c²",
+      "E = mc²",
+      "E = c/m"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following transitions would result in the highest release of energy?",
+    "options": [
+      "Liquid to Gas",
+      "Solid to Liquid",
+      "Gas to Liquid",
+      "Gas to Solid"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Physics",
+    "topic": "Thermodynamics"
+  }
+]

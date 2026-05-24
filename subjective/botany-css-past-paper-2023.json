@@ -1,0 +1,56 @@
+{
+  "subject": "Botany",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Write comprehensive notes on the morphology of thallus in Algae.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Write comprehensive notes on the alternation of generation in Bryophytes.",
+      "marks": 10
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe significance of various types of abiotic environmental factors for soil formation. Give soil characteristics formed by each agent.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe ultra-structure of nucleus with particular reference to nuclear membrane and pore complexes.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe various types of environmental pollutions. Give significance of biodiversity and conservation to save the living planet.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Give a diagrammatic account of location of the different photosystems in granum and briefly describe their functions in photosynthesis.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are different rules of botanical nomenclature? Compare natural and artificial system of classification.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write short notes on reproduction and economic importance of yeast.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write short notes on illustrative account of protein synthesis in eukaryotes.",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write short notes on endosperm development in Angiosperms.",
+      "marks": 10
+    }
+  ]
+}

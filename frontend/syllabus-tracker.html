@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabus Tracker | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="tracker">
+                <header class="page-header">
+                    <h2><i data-lucide="book-open" class="icon-inline"></i> Personalized Learning Path</h2>
+                    <p>Your AI-optimized roadmap to conquer the syllabus.</p>
+                </header>
+                <div class="card glass-card">
+                    <div id="tracker-content">
+                        <p class="placeholder">Complete your Preparation Setup to generate a schedule.</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof loadTracker === 'function') {
+                loadTracker();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,174 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                   CSS/PMS EXAM PORTAL - COMMAND QUICK REFERENCE              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 FASTEST START (Copy & Paste into PowerShell)                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+cd "e:\css - Copy" ; & ".\run.ps1"
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📱 ACCESS THE DASHBOARD (in your browser)                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+http://127.0.0.1:5000/dashboard?user_id=1
+
+(The Flask server must be running in the terminal first)
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ⚙️  ALTERNATIVE COMMANDS                                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Windows CMD:
+    cd "e:\css - Copy"
+    run.bat
+
+Windows PowerShell (Manual):
+    cd "e:\css - Copy"
+    & ".\venv\Scripts\Activate.ps1"
+    cd backend
+    python main.py
+
+Linux / Mac:
+    cd "e/css - Copy"
+    ./run.sh
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🧪 TEST THE API (in a new terminal window)                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+cd "e:\css - Copy\backend"
+& "e:\css - Copy\venv\Scripts\Activate.ps1"
+python test_api.py
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🛠️  TROUBLESHOOTING COMMANDS                                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Kill process on port 5000:
+    Get-NetTCPConnection -LocalPort 5000 | Stop-Process -Force
+
+Check if .env exists:
+    Test-Path "e:\css - Copy\.env"
+
+Set OpenAI API key manually:
+    $env:OPENAI_API_KEY = "sk-proj-YOUR_KEY_HERE"
+
+Verify Python version:
+    python --version
+
+Recreate database:
+    cd "e:\css - Copy\backend"
+    & "e:\css - Copy\venv\Scripts\Activate.ps1"
+    python -c "from app.models.models import db; from main import app; app.app_context().push(); db.create_all(); print('✓ Database created')"
+
+Check database tables:
+    cd "e:\css - Copy\backend"
+    & "e:\css - Copy\venv\Scripts\Activate.ps1"
+    python check_tables.py
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📊 SYSTEM STATUS                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+✅ Flask Server:      http://127.0.0.1:5000
+✅ Dashboard:         http://127.0.0.1:5000/dashboard?user_id=1
+✅ Database:          e:\css\portal.db (9 tables)
+✅ API Endpoints:     21 routes (Auth, Prep, Dashboard)
+✅ GPT-4 Integration: Connected & Ready
+✅ Frontend:          HTML5, Bootstrap 5, Responsive
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📝 EXAMPLE API CALLS (PowerShell)                                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Register User:
+    $data = @{
+        email = "test@example.com"
+        password = "SecurePass123!"
+        confirm_password = "SecurePass123!"
+    } | ConvertTo-Json
+    
+    Invoke-RestMethod -Uri 'http://127.0.0.1:5000/api/auth/register' `
+      -Method POST -ContentType 'application/json' -Body $data
+
+Get Dashboard Metrics:
+    Invoke-RestMethod -Uri 'http://127.0.0.1:5000/api/dashboard/metrics/1'
+
+Search Notes:
+    Invoke-RestMethod -Uri 'http://127.0.0.1:5000/api/notes?q=PMS'
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📂 IMPORTANT FILES                                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Startup Scripts:
+    • e:\css - Copy\run.ps1       (PowerShell)
+    • e:\css - Copy\run.bat       (Windows CMD)
+    • e:\css - Copy\run.sh        (Linux/Mac)
+
+Configuration:
+    • e:\css - Copy\.env          (OpenAI API key)
+
+Flask App:
+    • e:\css - Copy\backend\main.py
+
+Dashboard:
+    • e:\css - Copy\frontend\dashboard.html
+
+Database:
+    • e:\css\portal.db
+
+Documentation:
+    • e:\css - Copy\START_HERE.md    (Complete guide)
+    • e:\css - Copy\RUN_GUIDE.md     (Full documentation)
+    • e:\css - Copy\QUICK_START.md   (Quick reference)
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ❓ FAQ                                                                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Q: How do I start the server?
+A: cd "e:\css - Copy" ; & ".\run.ps1"
+
+Q: How do I access the dashboard?
+A: http://127.0.0.1:5000/dashboard?user_id=1
+
+Q: How do I stop the server?
+A: Press Ctrl + C in the terminal
+
+Q: How do I test the API?
+A: cd backend ; python test_api.py
+
+Q: Port 5000 is already in use?
+A: Get-NetTCPConnection -LocalPort 5000 | Stop-Process -Force
+
+Q: OpenAI API key error?
+A: Check .env file exists and contains OPENAI_API_KEY=sk-proj-...
+
+Q: Database error?
+A: Run: python -c "from app.models.models import db; from main import app; app.app_context().push(); db.create_all()"
+
+Q: ModuleNotFoundError?
+A: Activate venv and run: pip install flask flask-cors sqlalchemy openai
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          🎓 READY TO START?                                ║
+║                                                                             ║
+║  1. Open PowerShell                                                         ║
+║  2. Run: cd "e:\css - Copy" ; & ".\run.ps1"                               ║
+║  3. Wait for: "Running on http://127.0.0.1:5000"                          ║
+║  4. Open Browser: http://127.0.0.1:5000/dashboard?user_id=1               ║
+║                                                                             ║
+║  That's it! Happy studying! 📚                                             ║
+╚════════════════════════════════════════════════════════════════════════════╝

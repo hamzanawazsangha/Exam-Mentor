@@ -1,0 +1,54 @@
+# ============================================
+# PPSC & CSS AI Portal - Python Dependencies
+# ============================================
+# 
+# Usage:
+#   python -m venv venv
+#   .\venv\Scripts\activate
+#   pip install -r requirements.txt
+#
+# ============================================
+
+# ---- Web Framework ----
+Flask==2.3.3
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+
+# ---- Database & ORM ----
+Flask-SQLAlchemy==3.0.5
+SQLAlchemy==2.0.21
+
+# ---- Vector Database & Embeddings ----
+chromadb==0.4.21
+sentence-transformers==2.3.1
+huggingface-hub==0.19.3
+
+# ---- Search & Ranking (for Hybrid Search) ----
+rank-bm25==0.2.2
+
+# ---- PDF Processing ----
+pdfminer.six==20221105
+
+# ---- HTTP Requests ----
+requests==2.31.0
+
+# ---- Utilities ----
+python-dotenv==1.0.0
+Werkzeug==2.3.7
+
+# ---- NLP & Tokenization (for better text processing) ----
+# Note: sentence-transformers already includes transformers & torch
+# but listed here for transparency
+nltk==3.8.1
+
+# ---- Optional: Performance & Monitoring ----
+# Uncomment if needed:
+# psutil==5.9.5
+# prometheus-client==0.17.1
+
+# ---- Development & Testing (Optional) ----
+# Uncomment for development:
+# pytest==7.4.0
+# pytest-cov==4.1.0
+# black==23.9.0
+# flake8==6.0.0

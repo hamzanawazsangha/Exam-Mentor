@@ -1,0 +1,56 @@
+{
+  "subject": "Accountancy and Auditing",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Determine the missing amounts in the financial statements of XY Co.",
+      "marks": 20
+    },
+    {
+      "question_number": "3a",
+      "question_text": "What is the amount of accumulated depreciation at Dec. 31, 2006 if the straight-line method of depreciation is used for equipment purchased on Jan. 1, 2005?",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "What gain or loss should be recognized on the retirement of a plant asset cost Rs.27,000 purchased on Jan. 1, 2008, depreciated by the straight-line method and discarded on June 30, 2008?",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Calculate the results of selling office furniture for Rs.60,000 cash on June 30, 2010, originally costing Rs.150,000 with straight-line depreciation over 10 years and a salvage value of Rs.15,000.",
+      "marks": 6
+    },
+    {
+      "question_number": "4",
+      "question_text": "Compute the working capital, current ratio, quick or liquid ratio, and super quick ratio for AB Ltd.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Prepare cost of production report of Department III by Weighted Average based on given operational data for September, 2008.",
+      "marks": 20
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Determine (1) the budget allowance, based on capacity utilized and (2) the actual factory overhead given certain cost records for K Co.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Determine Mr. X\u2019s total earnings, the time saved, daily earnings, and the labor cost per unit using a 100% Bonus plan with given production data.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "Prepare a new contribution format income statement for ABC Company under various market conditions as listed.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Calculate the labor variances from the labor records of Binamul & Co. based on the given payroll allocation and production data.",
+      "marks": 20
+    }
+  ]
+}

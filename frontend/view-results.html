@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results Transcript | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --primary-light: #f3e8ff;
+            --primary-dark: #3b0764;
+        }
+
+        .result-meta-card {
+            background: rgba(255, 255, 255, 0.6);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            border-radius: 12px;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .meta-stat label {
+            display: block;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            font-weight: 700;
+            margin-bottom: 2px;
+            letter-spacing: 0.5px;
+        }
+
+        .meta-stat .value {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            font-family: 'Inter', sans-serif;
+        }
+
+        .score-display {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            padding: 20px 25px;
+            border-radius: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 20px rgba(88, 28, 135, 0.15);
+        }
+
+        .score-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .result-item {
+            margin-bottom: 20px;
+            border: 1px solid var(--gray-200);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+        }
+
+        .question-text {
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--text-dark);
+            line-height: 1.4;
+        }
+
+        .mcq-feedback {
+            padding: 12px 15px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 8px;
+            font-size: 0.85rem;
+        }
+
+        .mcq-feedback.correct {
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            color: #166534;
+        }
+
+        .mcq-feedback.incorrect {
+            background: #fff1f2;
+            border: 1px solid #fecdd3;
+            color: #9f1239;
+        }
+
+        .explanation-details {
+            margin-top: 12px;
+            border-top: 1px dashed var(--gray-200);
+            padding-top: 10px;
+        }
+
+        .explanation-summary {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--primary);
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            user-select: none;
+        }
+
+        .explanation-summary::-webkit-details-marker { display: none; }
+        
+        .explanation-content {
+            font-size: 0.85rem;
+            color: var(--text-main);
+            line-height: 1.5;
+            padding: 10px;
+            background: var(--primary-light);
+            border-radius: 6px;
+            margin-top: 5px;
+        }
+
+        .ans-box-premium {
+            background: #fafafa;
+            border: 1px solid var(--gray-200);
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            margin-top: 8px;
+        }
+
+        .ai-feedback-box {
+            background: white;
+            border: 1px solid var(--primary);
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        @media print {
+            .print-actions, .sidebar, .chat-toggle { display: none !important; }
+            .content { padding: 0 !important; margin: 0 !important; width: 100% !important; }
+        }
+    </style>
+</head>
+<body>
+    <div class="print-actions">
+        <button onclick="window.print()" class="btn-primary" style="padding: 8px 16px; font-size: 0.85rem;">Download Transcript</button>
+        <button onclick="window.close()" class="btn-secondary" style="background: white; border: 1px solid var(--gray-200); color: var(--text-main); padding: 8px 16px; font-size: 0.85rem;">Close</button>
+    </div>
+
+    <div class="glass-container" id="main-app">
+        <main class="content" style="padding-top: 20px; max-width: 900px; margin: 0 auto;">
+            <div id="results-loader" class="text-center p-5">
+                <div class="spinner-border text-primary" role="status"></div>
+                <p class="mt-3">Analyzing performance data...</p>
+            </div>
+
+            <div id="results-content" class="hidden">
+                <!-- Injected via JS -->
+            </div>
+        </main>
+    </div>
+
+    <script src="assets/js/layout.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const testId = urlParams.get('testId');
+            const token = localStorage.getItem('token');
+
+            if (!testId || !token) {
+                document.getElementById('results-loader').innerHTML = "<h3>Access Denied</h3>";
+                return;
+            }
+
+            try {
+                const res = await fetch(`http://127.0.0.1:5000/api/mocktest/result/${testId}`, {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                const data = await res.json();
+                renderResults(data);
+            } catch(e) {
+                document.getElementById('results-loader').innerHTML = "<h3>Server Sync Failed</h3>";
+            }
+        });
+
+        function renderResults(data) {
+            const paper = data.paper_data;
+            const answers = data.user_answers || {};
+            const loader = document.getElementById('results-loader');
+            const content = document.getElementById('results-content');
+
+            let html = `
+                <header class="page-header mb-4" style="text-align: center;">
+                    <h2 style="font-size: 1.5rem;">Performance Transcript</h2>
+                    <p style="font-size: 0.9rem;">ElitePrep AI Evaluation System</p>
+                </header>
+
+                <div class="result-meta-card">
+                    <div class="meta-stat"><label>Subject</label><div class="value">${paper.subject_name}</div></div>
+                    <div class="meta-stat"><label>Exam Date</label><div class="value">${new Date(data.created_at).toLocaleDateString()}</div></div>
+                    <div class="meta-stat"><label>Transcript ID</label><div class="value">#EP-${data.id}</div></div>
+                    <div class="meta-stat"><label>Paper Type</label><div class="value">${paper.type.toUpperCase()}</div></div>
+                </div>
+
+                <div class="score-display">
+                    <div>
+                        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; opacity: 0.8; letter-spacing: 0.5px;">Cumulative Performance</div>
+                        <div class="score-value">${Math.round((data.score_objective || 0) + (data.score_subjective || 0))} Marks</div>
+                    </div>
+                    <div style="text-align: right;">
+                        <div style="font-size: 1rem; font-weight: 700;">${data.score_subjective !== null ? 'Graded' : 'Recorded'}</div>
+                        <p style="margin: 0; font-size: 0.8rem; opacity: 0.8;">${paper.sections.length} Sections Evaluated</p>
+                    </div>
+                </div>
+            `;
+
+            paper.sections.forEach(sec => {
+                html += `
+                <div class="section-divider mt-4 mb-3">
+                    <h4 style="font-family:'Outfit'; font-weight:700; color:var(--primary);">${sec.title}</h4>
+                </div>`;
+
+                sec.questions.forEach((q, i) => {
+                    const userAns = answers[q.id] || "No response recorded.";
+                    const isCorrect = userAns === q.correct;
+                    const maxMarks = (sec.marks / sec.questions.length).toFixed(1);
+
+                    html += `
+                    <div class="glass-card card p-3 mb-3 result-item">
+                        <div class="question-text" style="display:flex; justify-content:space-between;">
+                            <span>Q${i+1}: ${q.text}</span>
+                            <span style="font-size:0.75rem; color:var(--text-light); font-weight:400; white-space:nowrap;">[${maxMarks} pts]</span>
+                        </div>
+                        
+                        ${sec.type === 'objective' ? `
+                            <div class="mcq-feedback ${isCorrect ? 'correct' : 'incorrect'}">
+                                <div>
+                                    <span style="font-weight: 700;">Choice: ${userAns || '[Skipped]'}</span>
+                                    ${!isCorrect ? `<span style="margin-left: 15px; opacity: 0.8;">Correct: <b>${q.correct}</b></span>` : ''}
+                                </div>
+                                <div style="font-size: 1.1rem;">${isCorrect ? '✅' : '❌'}</div>
+                            </div>
+                            ${q.explanation ? `
+                                <details class="explanation-details">
+                                    <summary class="explanation-summary"><i data-lucide="info" style="width:14px;"></i> View Logic & Reasoning</summary>
+                                    <div class="explanation-content">
+                                        ${q.explanation}
+                                    </div>
+                                </details>
+                            ` : ''}
+                        ` : `
+                            <div class="ans-box-premium">
+                                ${userAns.replace(/\n/g, '<br>')}
+                            </div>
+                        `}
+                    </div>`;
+                });
+            });
+
+            if (data.score_subjective !== null) {
+                const evaluations = JSON.parse(data.ai_feedback || '[]');
+                html += `
+                    <div class="ai-feedback-box mt-4">
+                        <h3 class="mb-3" style="color:var(--primary); font-family:'Outfit'; font-weight:800; font-size:1.2rem;">Expert Mentor Feedback</h3>
+                        ${evaluations.map(ev => `
+                            <div class="mb-3 p-3" style="background:#f8faff; border-radius:8px; border-left:3px solid var(--primary);">
+                                <div style="font-weight:700; font-size:0.85rem; color:var(--text-dark); margin-bottom:5px;">Q: ${ev.question_text}</div>
+                                <div style="font-size:0.85rem; line-height:1.6;">${ev.evaluation.replace(/\n/g, '<br>')}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+
+            loader.classList.add('hidden');
+            content.innerHTML = html;
+            content.classList.remove('hidden');
+            if(window.lucide) lucide.createIcons();
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+{
+  "subject": "Agriculture & Forestry",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Discuss the applicability, affordability and effectiveness of Precision Agriculture in prevailing farming systems.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What changes do you foresee in our farming systems in post climate change era?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Analyze critically the present sugar and wheat flour crisis, keeping in view its socio-economic constraints.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe zero tillage and mechanized tillage, their merits and demerits. Which one you would recommend and why?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss different Silvicultural systems suitable for natural as well as manmade forests.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Explain the advantages of different silvicultural operations needed at different growth stages of forests.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Desertification is a growing threat. Which climatic and edaphic factors accelerate it and how?",
+      "marks": 20
+    }
+  ]
+}

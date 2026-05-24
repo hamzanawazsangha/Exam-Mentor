@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2017",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Is colonial mentality impeding Pakistan\u2019s progress?",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Brexit means globalization is the rhetoric of the privileged, and capitalism will return ferociously as ever.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "More and more International military engagements by the United Nations; is the world moving towards peace?",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Modernity is an unending project.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Feminism is not really a Third World issue.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "Literature is a lonely planet of idealists.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Being a minority is a fate no one wants. Can nationalism be really inclusive?",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Ideologies thrive on notions of resistance, yet change is a simulation.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Are modern wars not holy wars?",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Life without controversy is no life. But why one should not choose the safe haven of conformism?",
+      "marks": 100
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "An analysis of the concept of globalization of markets.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Digital democracy: social media and political participation.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Global trade and trade policies of China.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "\u201cImagination is more important than knowledge.\u201d",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Global politics and international relations.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "The controversial issues of feminism in contemporary women\u2019s rights movements.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "World food systems: the economics of agriculture.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Is there such a thing as ethical consumerism?",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Human development and economic sustainability.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "How is terrorism and its perception shaped by the Mass Media?",
+      "marks": 100
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "subject": "ENGLISH (PRECIS & COMPOSITION)",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Write a pr\u00e9cis of the following and suggest a suitable title.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Read the following passage carefully and answer the questions given at the end.",
+      "marks": 20
+    },
+    {
+      "question_number": "3.1",
+      "question_text": "How does the author characterize the concept of civil society?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.2",
+      "question_text": "Why does civil society strive towards better socialization driven by tolerance?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.3",
+      "question_text": "What do you understand by the term \u2018Social Capital\u2019 used in this passage?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.4",
+      "question_text": "Why does a civil society assume the role of a public stakeholder?",
+      "marks": 4
+    },
+    {
+      "question_number": "3.5",
+      "question_text": "What impact is feared by the weakening state of civil society?",
+      "marks": 4
+    },
+    {
+      "question_number": "4",
+      "question_text": "Correct only FIVE of the following:",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Punctuate the following text, where necessary.",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Re-write the following sentences (ONLY FIVE) after filling in the blanks with appropriate Prepositions.",
+      "marks": 5
+    },
+    {
+      "question_number": "6",
+      "question_text": "Use only FIVE pairs of words in sentences clearly illustrating their meanings.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "Translate the following into English by keeping in view figurative/idiomatic expressions.",
+      "marks": 10
+    }
+  ]
+}

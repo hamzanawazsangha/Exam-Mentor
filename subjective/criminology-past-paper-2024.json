@@ -1,0 +1,46 @@
+{
+  "subject": "Criminology",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain the concept of crime as a social problem. How does the perception of crime as a social problem vary across different societies?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain Labelling Theory. Critically elaborate its effects on youth and suggest remedies also.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain juvenile delinquency. What are the socio-economic, demographic and environmental factors lead to juvenile delinquency?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss the role of rehabilitation centers in the reformative treatment of criminals. How do these centers contribute to the reintegration of offenders into society?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Enumerate and explain the key principles that guide effective criminal investigations. How do these principles contribute to the success of an investigation?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Provide an overview of the International Police Association (IPA). What is its mission, and how does it contribute to international police relations?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Define radicalization. What factors contribute to individuals becoming radicalized, and how can societies address these influences?",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "Discuss the concept of community policing and explain potential benefits and challenges associated with its implementation in Pakistan. How can these challenges be effectively addressed?",
+      "marks": 20
+    }
+  ]
+}

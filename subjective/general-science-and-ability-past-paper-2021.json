@@ -1,0 +1,86 @@
+{
+  "subject": "General Knowledge-I (General Science & Ability)",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Differentiate between a star and a planet. What is the magnitude of a star and how the color of stars is correlated with their temperatures?",
+      "marks": 5
+    },
+    {
+      "question_number": "2b",
+      "question_text": "\u201cSemiconductors are the Brains of Modern Electronics\u201d. Explain in detail what this quotation means.",
+      "marks": 5
+    },
+    {
+      "question_number": "2c",
+      "question_text": "Briefly describe the most popular and accepted theory about the origin of the Universe.",
+      "marks": 5
+    },
+    {
+      "question_number": "2d",
+      "question_text": "What are the advantages and limitations of renewable energy resources? Briefly explain the prospects of non-conventional energy resources in Pakistan.",
+      "marks": 5
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Explain with examples the relationship between cells, tissues and organs.",
+      "marks": 5
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Explain the differences in structure & function between a cell wall and a cell membrane.",
+      "marks": 5
+    },
+    {
+      "question_number": "3c",
+      "question_text": "What is meant by transpiration? Explain in detail the significance of leaf structure in the process of transpiration.",
+      "marks": 5
+    },
+    {
+      "question_number": "3d",
+      "question_text": "What is meant by the term double circulation? Briefly describe how the heart is adapted to keep blood flowing in a double circulation.",
+      "marks": 5
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What is the sequence of strata of atmosphere and on what factors does it depend?",
+      "marks": 5
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Describe water cycle and briefly explain the major processes involved in water cycle.",
+      "marks": 5
+    },
+    {
+      "question_number": "4c",
+      "question_text": "What is the Difference between asthenosphere and lithosphere? Explain various components of lithosphere.",
+      "marks": 5
+    },
+    {
+      "question_number": "4d",
+      "question_text": "Differentiate between food contaminants and food adulterants.",
+      "marks": 5
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Define the term \u201cmalnutrition\u201d. Elaborate its major causes and consequences.",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Explain how a slice of bread after few days decomposes due to the growth of fungi.",
+      "marks": 5
+    },
+    {
+      "question_number": "5c",
+      "question_text": "What is a computer memory? Describe its units and discuss various types of memories.",
+      "marks": 5
+    },
+    {
+      "question_number": "5d",
+      "question_text": "Differentiate between natural and artificial satellites. Briefly describe the working of communication satellites with some applications.",
+      "marks": 5
+    }
+  ]
+}

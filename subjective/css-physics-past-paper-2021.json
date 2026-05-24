@@ -1,0 +1,81 @@
+{
+  "subject": "Physics",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Describe Einstein postulates of special theory of Relativity. Express the difference between the special and the general theories of Relativity.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Establish the energy-mass relationship and give its significance.",
+      "marks": 10
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Differentiate between Fermi-Dirac, Bose-Einstein and Maxwell Statistics. Give application of each.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Draw a labelled diagram of a nuclear reactor and give significance of each part.",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Distinguish between the linear and angular momentum. Express Newton\u2019s second law in terms of the linear and angular motion.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Discuss the acceptor and rejecter electronic circuits.",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Describe and explain the Miller indices. Recognize the symbols <111>, [010], (111).",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Discuss the closest packed crystal structures.",
+      "marks": 10
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Can you imagine a three dimensional diffraction grating? Describe in detail.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Justify the dual nature of light with elaborative examples.",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "State and explain the three laws of Thermodynamics.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "What is a heat engine? Determine the efficiency of the engine if it takes 10,000 J of heat and delivers 2000 J of work per cycle.",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Mickelson-Morley experiment and its latest usage in a recent Nobel award.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Unification of forces and Abdus Salam contribution.",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "An essay on Large Hadron Partical Accelerator.",
+      "marks": 10
+    }
+  ]
+}

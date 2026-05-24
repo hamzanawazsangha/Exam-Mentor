@@ -1,0 +1,86 @@
+{
+  "subject": "Chemistry",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "The following reaction occurs via two steps, where the first step is rate-determining step. Step I NO2(g) + NO2(g) \u2192 NO(g) + NO3(g) Step II NO3(g) + CO(g) \u2192 NO2(g) + CO2(g) i. Write down the rate equation for the above reaction. ii. Which molecule acts as a catalyst in this reaction? Give a reason. iii. Which molecule is an intermediate in this reaction and justify it.",
+      "marks": 12
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Describe Arrhenius\u2019s equation.",
+      "marks": 8
+    },
+    {
+      "question_number": "3a",
+      "question_text": "An explosion is usually considered adiabatic, indicating negligible heat transfer, even though it\u2019s rapidly expanding gaseous products are not at the same temperature as the surroundings, and the boundary permits heat transfer. Explain the phenomenon.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Draw a working diagram for a reversible heat engine that operates with two isothermal steps and two constant-pressure steps. How many heat reservoirs are needed to operate this engine?",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Describe Schrodinger Wave Equation for a particle in a three-dimensional box.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Explain photoelectric effect.",
+      "marks": 8
+    },
+    {
+      "question_number": "4c",
+      "question_text": "What is a wave function? Give Born\u2019s interpretation of wave function.",
+      "marks": 2
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Describe Nernst\u2019s equation.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b_2",
+      "question_text": "Describe the significance of pH, pKa, and pKb.",
+      "marks": 6
+    },
+    {
+      "question_number": "5c",
+      "question_text": "What is the relationship between conductance and Kohlrausch\u2019s law?",
+      "marks": 4
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Describe three methods of mechanical phase separation.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Briefly discuss \u201cThe Hard-Soft Acid-Base Principle.\u201d",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Compare Valence Bond Theory with Molecular Orbital Theory.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "What is the oxidation state? Differentiate between the oxidation state and valency/covalency of an element with suitable examples.",
+      "marks": 6
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Write the molecular orbital configuration of the followings: O2+, O2, O2\u2212 and O2\u22122",
+      "marks": 4
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss the following in detail: i. Crystal Field Theory ii. Hess\u2019s Law iii. Electrophoresis Technique iv. Freundlich Adsorption Isotherm",
+      "marks": 20
+    }
+  ]
+}

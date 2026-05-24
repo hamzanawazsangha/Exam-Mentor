@@ -1,0 +1,56 @@
+{
+  "subject": "English Essay",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Do not waste water even if you were at a running stream.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Meaning purposive education.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "COVID-19: A wake up call for Pakistani researchers.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Human inventions move the societies backward.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Universal human equality is utopic.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "Bureaucracy doldrums.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Gender equality: A popular slogan.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Pros and cons of globalization.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Intercultural communication is panacea to avoid 3rd world war.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "I fall upon the thorns of life! I bleed.",
+      "marks": 100
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+[
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": [
+      "A. Au",
+      "B. Ag",
+      "C. Pb",
+      "D. Fe"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the pH value of pure water at 25°C?",
+    "options": [
+      "A. 7",
+      "B. 0",
+      "C. 14",
+      "D. 10"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "options": [
+      "A. Nitrous oxide",
+      "B. Carbon dioxide",
+      "C. Methane",
+      "D. Oxygen"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": [
+      "A. Oxygen",
+      "B. Nitrogen",
+      "C. Carbon Dioxide",
+      "D. Argon"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following elements is a noble gas?",
+    "options": [
+      "A. Helium",
+      "B. Nitrogen",
+      "C. Chlorine",
+      "D. Hydrogen"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the atomic number of Carbon?",
+    "options": [
+      "A. 12",
+      "B. 6",
+      "C. 14",
+      "D. 8"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "A. Ionic bond",
+      "B. Metallic bond",
+      "C. Covalent bond",
+      "D. Hydrogen bond"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": [
+      "A. Ethanol",
+      "B. Propane",
+      "C. Methane",
+      "D. Butane"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the formula for calculating the number of moles?",
+    "options": [
+      "A. Moles = mass/(molar mass)",
+      "B. Moles = molar mass/mass",
+      "C. Moles = volume/(molar volume)",
+      "D. Moles = concentration × volume"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is not an isotope of Hydrogen?",
+    "options": [
+      "A. Protium",
+      "B. Deuterium",
+      "C. Tritium",
+      "D. Helium"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What does the symbol 'K' represent in the periodic table?",
+    "options": [
+      "A. Calcium",
+      "B. Potassium",
+      "C. Krypton",
+      "D. Aluminum"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following acids is found in vinegar?",
+    "options": [
+      "A. Acetic acid",
+      "B. Citric acid",
+      "C. Sulfuric acid",
+      "D. Hydrochloric acid"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the molecular formula for glucose?",
+    "options": [
+      "A. C6H12O6",
+      "B. C5H10O5",
+      "C. C6H6O6",
+      "D. C6H12O12"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "options": [
+      "A. Acetic acid",
+      "B. Hydrochloric acid",
+      "C. Carbonic acid",
+      "D. Citric acid"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "A. Fluorine",
+      "B. Chlorine",
+      "C. Oxygen",
+      "D. Nitrogen"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the ideal gas law equation?",
+    "options": [
+      "A. PV = nRT",
+      "B. P = nRT/V",
+      "C. V = nRT/P",
+      "D. P + V = nRT"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a diatomic molecule?",
+    "options": [
+      "A. Water",
+      "B. Oxygen",
+      "C. Glucose",
+      "D. Methane"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of reaction involves the breaking down of a compound into simpler substances?",
+    "options": [
+      "A. Synthesis",
+      "B. Decomposition",
+      "C. Single replacement",
+      "D. Double replacement"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary purpose of a catalyst in a chemical reaction?",
+    "options": [
+      "A. To increase the temperature",
+      "B. To enhance the reaction rate",
+      "C. To change the product",
+      "D. To absorb energy"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following compounds is an alcohol?",
+    "options": [
+      "A. Ethanol",
+      "B. Ether",
+      "C. Ketone",
+      "D. Aldehyde"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary ion in sodium chloride (NaCl)?",
+    "options": [
+      "A. Na+",
+      "B. Cl-",
+      "C. Na- ",
+      "D. Cl+"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following structures represent a saturated hydrocarbon?",
+    "options": [
+      "A. Alkane",
+      "B. Alkene",
+      "C. Alkyne",
+      "D. Aromatic"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "At what temperature does water boil at sea level?",
+    "options": [
+      "A. 100°C",
+      "B. 0°C",
+      "C. 50°C",
+      "D. 25°C"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main use of Hydrogen Peroxide?",
+    "options": [
+      "A. As a fuel",
+      "B. As a bleach",
+      "C. As a preservative",
+      "D. As an acid"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a characteristic of bases?",
+    "options": [
+      "A. Bitter taste",
+      "B. Sour taste",
+      "C. Slippery feel",
+      "D. Both A and C"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the process called when a liquid turns into vapor?",
+    "options": [
+      "A. Condensation",
+      "B. Precipitation",
+      "C. Evaporation",
+      "D. Sublimation"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What type of chemical reaction is exemplified by the combustion of hydrocarbons?",
+    "options": [
+      "A. Synthesis",
+      "B. Decomposition",
+      "C. Combustion",
+      "D. Displacement"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "How many atoms are in a molecule of water (H2O)?",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 6"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the molecular weight of carbon dioxide (CO2)?",
+    "options": [
+      "A. 22 g/mol",
+      "B. 44 g/mol",
+      "C. 28 g/mol",
+      "D. 12 g/mol"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is an example of a physical change?",
+    "options": [
+      "A. Rusting of iron",
+      "B. Burning of wood",
+      "C. Melting of ice",
+      "D. Digestion of food"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term for the energy required to break a bond?",
+    "options": [
+      "A. Bond energy",
+      "B. Kinetic energy",
+      "C. Potential energy",
+      "D. Thermal energy"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main product of photosynthesis?",
+    "options": [
+      "A. Oxygen",
+      "B. Glucose",
+      "C. Carbon Dioxide",
+      "D. Water"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which element is a key component of proteins?",
+    "options": [
+      "A. Carbon",
+      "B. Nitrogen",
+      "C. Oxygen",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the process of breaking down glucose to produce energy called?",
+    "options": [
+      "A. Photosynthesis",
+      "B. Fermentation",
+      "C. Cellular respiration",
+      "D. Metabolism"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term used for a solution that has a low concentration of hydrogen ions?",
+    "options": [
+      "A. Acidic",
+      "B. Neutral",
+      "C. Basic",
+      "D. Alkaline"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the effect of increasing temperature on reaction rate?",
+    "options": [
+      "A. Decreases it",
+      "B. No effect",
+      "C. Increases it",
+      "D. Depends on the reaction"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is not a natural polymer?",
+    "options": [
+      "A. Starch",
+      "B. Silk",
+      "C. Plastic",
+      "D. Cellulose"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of radiation has the highest energy?",
+    "options": [
+      "A. Radio waves",
+      "B. Gamma rays",
+      "C. Ultraviolet",
+      "D. Visible light"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which property differentiates metals from non-metals?",
+    "options": [
+      "A. Malleability",
+      "B. Ductility",
+      "C. Conductivity",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'molarity' refer to?",
+    "options": [
+      "A. Concentration of a solution",
+      "B. Volume of a gas",
+      "C. Pressure of a gas",
+      "D. Temperature of a gas"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of bond is formed by the transfer of electrons?",
+    "options": [
+      "A. Ionic bond",
+      "B. Covalent bond",
+      "C. Hydrogen bond",
+      "D. Metallic bond"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What principle explains how a chemical reaction can reach equilibrium?",
+    "options": [
+      "A. Le Chatelier's Principle",
+      "B. Dalton's Law",
+      "C. Avogadro's Law",
+      "D. Hess's Law"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the type of reaction where two or more substances combine to form one substance?",
+    "options": [
+      "A. Synthesis",
+      "B. Decomposition",
+      "C. Single Replacement",
+      "D. Double Replacement"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which element is often used as a semiconductor in electronics?",
+    "options": [
+      "A. Silicon",
+      "B. Gold",
+      "C. Copper",
+      "D. Iron"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "How can you increase the rate of a chemical reaction?",
+    "options": [
+      "A. Increase temperature",
+      "B. Increase concentration",
+      "C. Use a catalyst",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main component of proteins?",
+    "options": [
+      "A. Amino acids",
+      "B. Fatty acids",
+      "C. Sugars",
+      "D. Nucleotides"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What does 'stoichiometry' refer to in chemistry?",
+    "options": [
+      "A. Study of compounds",
+      "B. Calculation of reactants and products",
+      "C. Study of gases",
+      "D. Study of acids and bases"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following elements is a transition metal?",
+    "options": [
+      "A. Calcium",
+      "B. Sodium",
+      "C. Iron",
+      "D. Bismuth"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which chemical reaction absorbs energy from its surroundings?",
+    "options": [
+      "A. Exothermic",
+      "B. Endothermic",
+      "C. Combustion",
+      "D. Oxidation"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the process of a solid turning directly into a gas called?",
+    "options": [
+      "A. Melting",
+      "B. Sublimation",
+      "C. Evaporation",
+      "D. Condensation"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is an example of a saturated fat?",
+    "options": [
+      "A. Olive oil",
+      "B. Butter",
+      "C. Coconut oil",
+      "D. Avocado oil"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term used for the amount of solute dissolved in a given amount of solvent?",
+    "options": [
+      "A. Concentration",
+      "B. Solubility",
+      "C. Saturation",
+      "D. Molarity"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary reason for the periodic trend of electronegativity?",
+    "options": [
+      "A. Atomic radius",
+      "B. Shielding effect",
+      "C. Nuclear charge",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is an enzyme?",
+    "options": [
+      "A. A type of protein",
+      "B. A type of carbohydrate",
+      "C. A type of lipid",
+      "D. A type of nucleic acid"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main function of DNA?",
+    "options": [
+      "A. To store genetic information",
+      "B. To provide energy",
+      "C. To transport oxygen",
+      "D. To fight infections"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following states that matter can neither be created nor destroyed?",
+    "options": [
+      "A. Law of conservation of mass",
+      "B. Newton's first law",
+      "C. Charles's law",
+      "D. Avogadro's law"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main source of energy in the universe?",
+    "options": [
+      "A. Nuclear energy",
+      "B. Fossil fuels",
+      "C. Solar energy",
+      "D. Wind energy"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary purpose of chromatography?",
+    "options": [
+      "A. To measure mass",
+      "B. To separate mixtures",
+      "C. To speed up reactions",
+      "D. To determine pH"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What does the term 'catalyst' refer to?",
+    "options": [
+      "A. A substance that speeds up reactions",
+      "B. A product of a reaction",
+      "C. A reactant that is used up",
+      "D. A type of solvent"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is not a property of water?",
+    "options": [
+      "A. It is a solvent",
+      "B. It is denser as a solid than liquid",
+      "C. It has a high specific heat",
+      "D. It is polar"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary gas exhaled by humans?",
+    "options": [
+      "A. Oxygen",
+      "B. Carbon Dioxide",
+      "C. Nitrogen",
+      "D. Hydrogen"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is an example of a base?",
+    "options": [
+      "A. Vinegar",
+      "B. Soap",
+      "C. Lemon juice",
+      "D. Sugar"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which metal is known for its resistance to corrosion?",
+    "options": [
+      "A. Iron",
+      "B. Aluminum",
+      "C. Gold",
+      "D. Copper"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the effect of pressure on the solubility of gases in liquids?",
+    "options": [
+      "A. Increases solubility",
+      "B. Decreases solubility",
+      "C. No effect",
+      "D. Varies by temperature"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the chemical name of table salt?",
+    "options": [
+      "A. Sodium Chloride",
+      "B. Potassium Chloride",
+      "C. Calcium Chloride",
+      "D. Magnesium Sulfate"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What type of reaction is exemplified by a metal reacting with an acid?",
+    "options": [
+      "A. Synthesis",
+      "B. Decomposition",
+      "C. Single Replacement",
+      "D. Double Replacement"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary product of aerobic respiration?",
+    "options": [
+      "A. Glucose",
+      "B. Water",
+      "C. Carbon Dioxide",
+      "D. Oxygen"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of bond is present in sodium chloride (table salt)?",
+    "options": [
+      "A. Ionic bond",
+      "B. Covalent bond",
+      "C. Hydrogen bond",
+      "D. Metallic bond"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the shape of the water molecule (H2O)?",
+    "options": [
+      "A. Linear",
+      "B. Bent",
+      "C. Tetrahedral",
+      "D. Triangular"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is a chemical equation that represents the conservation of mass?",
+    "options": [
+      "A. 2H2 + O2 → 2H2O",
+      "B. H2 + O2 → H2O + Energy",
+      "C. H2 + Cl2 → 2HCl",
+      "D. All of above"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the function of ribosomes in cells?",
+    "options": [
+      "A. Protein synthesis",
+      "B. Energy production",
+      "C. DNA replication",
+      "D. Cell division"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a salt?",
+    "options": [
+      "A. Sodium Hydroxide",
+      "B. Sodium Chloride",
+      "C. Calcium Carbonate",
+      "D. Ammonium Hydroxide"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the function of carbohydrates in the body?",
+    "options": [
+      "A. Provide energy",
+      "B. Store genetic information",
+      "C. Build proteins",
+      "D. Regulate chemical reactions"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the most reactive group of metals in the periodic table?",
+    "options": [
+      "A. Transition metals",
+      "B. Alkali metals",
+      "C. Alkaline earth metals",
+      "D. Noble gases"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "options": [
+      "A. Oxygen",
+      "B. Fluorine",
+      "C. Calcium",
+      "D. Argon"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary function of cholesterol in the body?",
+    "options": [
+      "A. Energy storage",
+      "B. Hormone production",
+      "C. Protein synthesis",
+      "D. Muscle contraction"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which reaction type occurs when an acid reacts with a base?",
+    "options": [
+      "A. Neutralization",
+      "B. Decomposition",
+      "C. Synthesis",
+      "D. Combustion"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary use of sulfuric acid?",
+    "options": [
+      "A. Battery acid",
+      "B. Fertilizer",
+      "C. Paint thinner",
+      "D. Cleaning agent"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a property of acids?",
+    "options": [
+      "A. They taste sour",
+      "B. They conduct electricity",
+      "C. They turn blue litmus red",
+      "D. All of the above"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What type of reaction occurs when an element displaces another in a compound?",
+    "options": [
+      "A. Synthesis",
+      "B. Decomposition",
+      "C. Single Replacement",
+      "D. Combination"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the process of converting a solid directly into a gas without passing through the liquid phase?",
+    "options": [
+      "A. Sublimation",
+      "B. Melting",
+      "C. Freezing",
+      "D. Deposition"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the smallest unit of an element that retains its properties?",
+    "options": [
+      "A. Atom",
+      "B. Molecule",
+      "C. Element",
+      "D. Compound"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary source of nitrogen in fertilizers?",
+    "options": [
+      "A. Urea",
+      "B. Ammonia",
+      "C. Nitrate",
+      "D. Nitrite"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main byproduct of fossil fuel combustion?",
+    "options": [
+      "A. Oxygen",
+      "B. Carbon Dioxide",
+      "C. Sulfur Dioxide",
+      "D. Nitrogen Oxides"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "In which part of the atom is the neutron found?",
+    "options": [
+      "A. Nucleus",
+      "B. Electron cloud",
+      "C. Proton shell",
+      "D. Nucleus and electron cloud"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary function of fats in the body?",
+    "options": [
+      "A. Provide energy",
+      "B. Aid digestion",
+      "C. Support immune function",
+      "D. Carry oxygen"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which theory explains the behavior of gases?",
+    "options": [
+      "A. Kinetic Molecular Theory",
+      "B. Atomic Theory",
+      "C. Thermodynamic Theory",
+      "D. Quantum Theory"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of 1 gram of a substance by 1 degree Celsius?",
+    "options": [
+      "A. Calorimetry",
+      "B. Specific heat capacity",
+      "C. Heat of fusion",
+      "D. Heat of vaporization"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main use of potassium nitrate?",
+    "options": [
+      "A. Fertilizer",
+      "B. Food preservative",
+      "C. Explosives",
+      "D. Both A and C"
+    ],
+    "correct": "D",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "What is the term used for a mixture that has a uniform composition throughout?",
+    "options": [
+      "A. Heterogeneous mixture",
+      "B. Homogeneous mixture",
+      "C. Solution",
+      "D. Colloid"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which chemical is known for its ability to remove stains?",
+    "options": [
+      "A. Hydrogen Peroxide",
+      "B. Sodium Bicarbonate",
+      "C. Vinegar",
+      "D. Ammonia"
+    ],
+    "correct": "A",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which part of the atom contributes the most to its mass?",
+    "options": [
+      "A. Electrons",
+      "B. Protons",
+      "C. Neutrons",
+      "D. All are equal"
+    ],
+    "correct": "C",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  },
+  {
+    "question": "Which type of substance can conduct electricity in solution?",
+    "options": [
+      "A. Non-electrolytes",
+      "B. Electrolytes",
+      "C. Nonelectrolytes",
+      "D. Insulators"
+    ],
+    "correct": "B",
+    "year": 2024,
+    "exam": "CSS",
+    "subject": "Chemistry",
+    "topic": "General"
+  }
+]

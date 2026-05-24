@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExamMentor | PPSC & CSS Preparation Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}?v=1.7">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/landing.css') }}?v=1.7">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .hero {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 50px;
+            min-height: 80vh;
+        }
+
+        .hero-content {
+            max-width: 600px;
+            z-index: 1;
+        }
+
+        .hero-content h1 {
+            font-size: 3.8rem;
+            line-height: 1;
+            margin-bottom: 25px;
+            color: var(--text-main);
+            font-family: 'Outfit', sans-serif;
+            font-weight: 800;
+        }
+
+        .hero-image {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+            z-index: 1;
+        }
+
+        .hero-image img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: var(--radius-lg);
+            box-shadow: 0 40px 80px rgba(88, 28, 135, 0.15);
+            border: 8px solid white;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: -60px;
+            position: relative;
+            z-index: 10;
+        }
+
+        @media (max-width: 992px) {
+            .hero { flex-direction: column; text-align: center; }
+            .features-grid { grid-template-columns: 1fr; margin-top: 40px; }
+            .hero-content h1 { font-size: 2.8rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="landing-nav">
+        <a href="/" class="logo" style="text-decoration: none; display: flex; align-items: center; gap: 12px;">
+            <img src="/assets/img/logo12.jpg?v=2" alt="ExamMentor Logo" class="custom-logo-img">
+            <h1 style="font-size: 1.5rem; color: var(--primary); margin: 0;">ExamMentor</h1>
+        </a>
+        <ul class="nav-links">
+            <li><a href="/" class="active">Home</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/past-papers">Past Papers</a></li>
+        </ul>
+        <div class="nav-actions">
+            <!-- Dynamic Content via landing-auth.js -->
+        </div>
+    </nav>
+
+    <header class="hero-base">
+        <div class="container-wide hero">
+            <div class="hero-content">
+                <span class="badge" style="background: var(--primary); color: white; padding: 6px 15px; border-radius: 99px; font-size: 0.85rem; font-weight: 700; margin-bottom: 20px; display: inline-block;">AI-POWERED MENTORSHIP</span>
+                <h1>Master Your Civil Service Goals</h1>
+                <p style="font-size: 1.25rem; color: var(--text-muted); margin-bottom: 40px; line-height: 1.6;">Precision preparation for CSS, PMS, and PPSC. Experience high-end guidance with AI evaluation and smart syllabus tracking.</p>
+                <div class="d-flex gap-3">
+                    <a href="/login?mode=register" class="btn-hero-primary">Get Started Now</a>
+                    <a href="/about" class="btn-hero-secondary">Learn More</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1471&q=80" alt="Learning Platform">
+            </div>
+        </div>
+    </header>
+
+    <section class="section-padding container-wide">
+        <div class="features-grid">
+            <div class="glass-card-premium">
+                <div class="icon-circle"><i data-lucide="target"></i></div>
+                <h3>Syllabus Mapping</h3>
+                <p>Advanced tracking that aligns your daily study with official examination patterns. Know exactly where you stand.</p>
+            </div>
+            <div class="glass-card-premium">
+                <div class="icon-circle"><i data-lucide="zap"></i></div>
+                <h3>Instant Evaluation</h3>
+                <p>Don't wait for academy grading. Our LLM-based engine provides real-time marks and feedback for your essays.</p>
+            </div>
+            <div class="glass-card-premium">
+                <div class="icon-circle"><i data-lucide="shield-check"></i></div>
+                <h3>Exam Simulation</h3>
+                <p>Timed mock tests in a focused environment. Build the mental stamina required for 3-hour competitive exams.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-padding" style="background: #f8fafc; text-align: center;">
+        <div class="container-wide">
+            <h2 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 20px;">Built for the Elite Aspirant</h2>
+            <p style="max-width: 700px; margin: 0 auto 50px; font-size: 1.1rem; color: var(--text-muted);">ExamMentor combines deep educational insights with state-of-the-art AI to give you the edge needed in Pakistan's most competitive exams.</p>
+            
+            <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+                <div style="padding: 20px;">
+                    <div class="stat-number" data-target="98" data-suffix="%" style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">0%</div>
+                    <div style="font-weight: 600; color: var(--text-muted);">User Satisfaction</div>
+                </div>
+                <div style="padding: 20px;">
+                    <div class="stat-number" data-target="500" data-suffix="+" style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">0+</div>
+                    <div style="font-weight: 600; color: var(--text-muted);">Mock Papers</div>
+                </div>
+                <div style="padding: 20px;">
+                    <div class="stat-number" data-target="24" data-suffix="/7" style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">0/7</div>
+                    <div style="font-weight: 600; color: var(--text-muted);">AI Availability</div>
+                </div>
+                <div style="padding: 20px;">
+                    <div class="stat-number" data-target="10" data-suffix="k+" style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">0k+</div>
+                    <div style="font-weight: 600; color: var(--text-muted);">Solved MCQs</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="landing-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h2>ExamMentor</h2>
+                <p>The premium guidance portal for PPSC, PMS, and CSS preparation. Empowering future civil servants with technology.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/past-papers">Past Papers</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="/login">Login Portal</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Contact Support</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 ExamMentor: PPSC & CSS Preparation Portal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/landing-auth.js') }}"></script>
+    <script>lucide.createIcons();</script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const stats = document.querySelectorAll(".stat-number");
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const target = parseInt(entry.target.getAttribute("data-target"));
+                        const suffix = entry.target.getAttribute("data-suffix");
+                        let current = 0;
+                        const increment = target / 40; 
+                        
+                        const updateCounter = () => {
+                            current += increment;
+                            if (current < target) {
+                                entry.target.innerText = Math.ceil(current) + suffix;
+                                requestAnimationFrame(updateCounter);
+                            } else {
+                                entry.target.innerText = target + suffix;
+                            }
+                        };
+                        
+                        updateCounter();
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.5 });
+            
+            stats.forEach(stat => observer.observe(stat));
+        });
+    </script>
+</body>
+</html>

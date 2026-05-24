@@ -1,0 +1,111 @@
+{
+  "subject": "Chemistry, Paper-I",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Derive Schrodinger wave equation for particle in one dimensional box.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Discuss Heisenberg\u2019s Uncertainty principle.",
+      "marks": 5
+    },
+    {
+      "question_number": "2c",
+      "question_text": "What is corrosion? How it can be prevented?",
+      "marks": 5
+    },
+    {
+      "question_number": "3a",
+      "question_text": "What is Stereoisomerism? Discuss it with reference to coordination complexes.",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Define and explain Jahn-Teller theorem.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Write a short note on column chromatography.",
+      "marks": 6
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What is Valence Bond theory? How does this theory explains the structure of inorganic molecules?",
+      "marks": 8
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Define and explain the phenomenon of resonance in inorganic compounds.",
+      "marks": 6
+    },
+    {
+      "question_number": "4c",
+      "question_text": "Write some general characteristics of actinides.",
+      "marks": 6
+    },
+    {
+      "question_number": "5a",
+      "question_text": "What is photoelectric effect? How quantum mechanics explains this effect?",
+      "marks": 8
+    },
+    {
+      "question_number": "5b",
+      "question_text": "What is wave-function? Discuss its interpretation given by Born.",
+      "marks": 6
+    },
+    {
+      "question_number": "5c",
+      "question_text": "What are fuel cells? Discuss their working with suitable examples.",
+      "marks": 6
+    },
+    {
+      "question_number": "6a",
+      "question_text": "What are electron-deficient compounds? Discuss bond in such compounds.",
+      "marks": 7
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Define and explain the VSEPR model to explain the geometry of inorganic substances.",
+      "marks": 7
+    },
+    {
+      "question_number": "6c",
+      "question_text": "Discuss variation in oxidation states of lanthanides.",
+      "marks": 6
+    },
+    {
+      "question_number": "7a",
+      "question_text": "What is Nernst equation? Explain it.",
+      "marks": 8
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Define and explain Kohlrausch\u2019s law.",
+      "marks": 7
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Write a short note on Arrhenius equation.",
+      "marks": 5
+    },
+    {
+      "question_number": "8a",
+      "question_text": "What is crystal field theory? How does this theory explain the geometry of complexes?",
+      "marks": 8
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Explain Lewis theory of acids and bases.",
+      "marks": 6
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write a short note on thin layer chromatography.",
+      "marks": 6
+    }
+  ]
+}

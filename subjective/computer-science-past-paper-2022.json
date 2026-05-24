@@ -1,0 +1,101 @@
+{
+  "subject": "Computer Science, Paper-I",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Using C++ write a function pattern(int n) that produces the following output. Pay special attention to the spaces and clearly state the return type of the function. Note that the following is just an example; your solution should work for any input 'n'.",
+      "marks": 8
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Write the differences between Computer Science, Software Engineering, Information Technology, Information Systems, Computer Engineering, and Bioinformatics.",
+      "marks": 6
+    },
+    {
+      "question_number": "2c",
+      "question_text": "Write output of the following C++ code assuming that there is no error in the code: int ary[4] = {1,2,3,4}; int *p1 = ary + 3; cout << p1[-2] << endl; int *p2 = &p1[-2]; *p2 = 10; cout << ary[1] << endl;",
+      "marks": 6
+    },
+    {
+      "question_number": "3",
+      "question_text": "Complete the C++ code below to find the number of distinct elements in an array in O(n) time (linear time complexity) where \u201cn\u201d is the number of elements in the array. For example, if the array is {3,1,3,8,2,1,8,2}, the number of distinct elements is 4 (to be returned from the function below) as the distinct elements are {1,2,3,8}. All the elements of the array are in the range [1,100]. Also, n >> 100 (n is significantly greater than 100).",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write a detailed note on the principles of Information Security/ Privacy.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Write output of the following C++ code assuming that there is no error in the code: int v1 = 55; int* p1 = &v1; int* p2; p2 = p1; *p1 = 20; cout << *p2 << endl; cout << v1 << endl;",
+      "marks": 6
+    },
+    {
+      "question_number": "4",
+      "question_text": "Write a C++ program to check whether a string is palindrome or not. A palindrome is a string, which when read in both forward and backward ways is the same, e.g., \u201cradar\u201d, \u201cmadam\u201d etc. Note that these are only examples, you will take the string as an input from a user using the cin.getline function, and your code should be general that can work on any input string. You are not allowed to use any string-related library function.",
+      "marks": 12
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Write output of the following C++ code assuming that there is no error in the code: #include <iostream.h> int main() { int a = 12, b = 25; cout << 'a = ' << a << endl; cout << 'b = ' << b << endl; cout << 'a | b = ' << (a | b) << endl; return 0; }",
+      "marks": 8
+    },
+    {
+      "question_number": "5",
+      "question_text": "Define a class called Circle using C++. An object of the class Circle can be created using any of the following ways (implement all the ways): (1) by default, the circle will be of radius 1 inch and centered at (0,0) (2) with a given value for radius, centered at (0,0) (3) by providing the center coordinates and the radius is assumed to be 1 (4) by providing the radius and the coordinates for the center (5) by providing another Circle object to initialize. In the main function (driver program), separately create 5 different objects of the Circle class using a different way of object creation (mentioned above) for each of them.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "What is a virtual function in C++? Using an example, explain how a virtual function mechanism works.",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "Complete the following recursive function using C++ to calculate k raised to the power n, i.e., kn. Use of any built-in (library) function is not allowed: int power(int k, int n) { // write your code here }",
+      "marks": 8
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Compare and contrast the DES, AES, and RSA encryption algorithms.",
+      "marks": 8
+    },
+    {
+      "question_number": "6c",
+      "question_text": "Write the time complexity of the following C++ code in terms of Big-O notation. Assume that there is no error in the code. int isPrime (unsigned int n) // returns true if the argument value is prime and false otherwise { for (unsigned int i = 2; (i * i) < n; i++) { if (n % i == 0) return 0; } return 1; }",
+      "marks": 4
+    },
+    {
+      "question_number": "7",
+      "question_text": "Draw control flow graph for the binary search function and find its cyclomatic complexity: int binarySearch (int x, int v[], int n) { int low, high, mid; low = 0; high = n \u2013 1; while (low < = high) { mid = (low + high )/2; if (x < v[mid]) high = mid \u2013 1; else if (x > v[mid]) low = mid + 1 ; else return mid; } return -1; }",
+      "marks": 8
+    },
+    {
+      "question_number": "7b",
+      "question_text": "What is the difference between white box (Glass Box) testing and black box testing? Which of these testing techniques helps in identifying more errors in a system under evaluation? Explain.",
+      "marks": 6
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Requirements can be specified using natural language specification. Write one user requirement and one system requirement for the following function: Automatically highlight incorrect spelling mistakes in an MS Word document.",
+      "marks": 6
+    },
+    {
+      "question_number": "8",
+      "question_text": "Draw a finite automaton over \u2211 = {0, 1} that accepts all binary strings starting and ending with 0 (single-0 string counts).",
+      "marks": 8
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write a regular expression over \u2211 = {0, 1} to represent a set of strings that begin with 101 and end with 110.",
+      "marks": 6
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Write a Context-Free Grammar (CFG) over \u2211 = {0, 1} for the language of all binary strings of the form 0a1b0c where a+c=b.",
+      "marks": 6
+    }
+  ]
+}

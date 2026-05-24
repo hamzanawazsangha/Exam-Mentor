@@ -1,0 +1,86 @@
+{
+  "subject": "Applied Mathematics",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "1a",
+      "question_text": "Find the directional derivative of f(x, y, z) = xz + y^2 at the point (2, -1, 1) in the direction of the vector 2i + 2j + k.",
+      "marks": 10
+    },
+    {
+      "question_number": "1b",
+      "question_text": "Evaluate the line integral \u222b (x^2 + y^2) dy + x dx over the curve C bounded by the line y = x and the curve y = x^2.",
+      "marks": 10
+    },
+    {
+      "question_number": "2a",
+      "question_text": "Find the constants a, b, and c so that F = (x + 2y + az) i + (bx \u2013 3y \u2013 z) j + (4x + cy + 2z) k is irrotational and hence find the function \u03c8 such that \u2207\u03c8 = F.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "The forces F1, F2, F3, F4, F5, and F6 act along the sides of a regular hexagon taken in order. Verify that all the forces will be in equilibrium if \u2211 F= 0, and F1 \u2013 F4 = F3 \u2013 F6 = F5 \u2013 F2.",
+      "marks": 10
+    },
+    {
+      "question_number": "3a",
+      "question_text": "A system of forces acts on a plate in the form of an equilateral triangle of side 2a. The moment of the forces about the three vertices are M1, M2, and M3 respectively. Find the magnitudes of the resultant.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "If a particle P moves with a velocity V given by V^2 = n^2 (ax^2 + 2bx + c), show that P executes a simple harmonic motion. Find the centre, the amplitude, and the time period of the motion.",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What is the difference between a linear differential equation and Bernoulli\u2019s equation? Also find the solution of the following differential equation: dy/dx + y/x = x \u2013 1.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Use the method of undetermined coefficients to solve the following differential equation: y'' \u2013 3y' + 2y = 2x^3 \u2013 9x^2 + 6x.",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Solve the equation 2sin(x) - cos^2(x) + 1/2 = 0 for 0 \u2264 x < \u03c0.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Derive the two-point Gaussian integration formula for the following integral and use it to solve: \u222b (x^2 + 4)^1/2 dx from -1 to 6.",
+      "marks": 10
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Determine the second-degree polynomials by using Newton\u2019s method. Also estimate the values of f(0.1) and f(0.5) for the data provided.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Is a dominant diagonal necessary for finding the numerical solution of a system of linear equations using Gauss Jacobi\u2019s and Gauss Seidal methods? Explain the reason. In what conditions is a numerical method used instead of an analytical method? Find the solution of the following system by performing three iterations of the Gauss Seidal method: 6x \u2013 3y + z = 11; 2x + y \u2013 8z = 15; x \u2013 7y + z = 10.",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Define even function and odd function with examples. Verify the Fourier Series for the function f(x) = 1 when 0 < x < \u03c0 and f(x) = 0 when \u03c0 < x < 2\u03c0 is f(x) = 1/2 \u2013 (1/\u03c0)(sin x + 1/3 sin 3x + 1/5 sin 5x + \u2026)",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Solve the following partial differential equation using the method of separable variables: \u2202u/\u2202t = \u2202^2u/\u2202x^2 with the initial condition u(x, 0) = e^(-3x).",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "The Trapezoidal Rule applied to the integral \u222b from 0 to 2 of f(x) dx gives the value 4, and Simpson\u2019s Rule gives the value 2. What is the value of f(1)?",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Find the first two derivatives at x=1.1 and x=1 from the following data table: x = [1, 1.2, 1.4, 1.6, 1.8, 2.0], f(x) = [0.000, 0.1280, 0.5440, 1.2960, 2.4320, 4.000].",
+      "marks": 10
+    }
+  ]
+}

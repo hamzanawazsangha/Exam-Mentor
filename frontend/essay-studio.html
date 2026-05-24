@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essay Studio | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="essay">
+                <header class="page-header">
+                    <h2><i data-lucide="feather" class="icon-inline"></i> Essay Mastery Studio</h2>
+                    <p>Generate structured academic essays grounded in expert-curated material.</p>
+                </header>
+                <div class="card glass-card">
+                    <div class="input-row">
+                        <input type="text" id="essay-topic" placeholder="e.g. Water Crisis and Pakistan's Economic Future" autocomplete="off">
+                        <button onclick="generateEssay()">Generate</button>
+                    </div>
+                    <div id="essay-result" class="result-box scrollable">
+                        <p class="placeholder">Your structured essay will appear here…</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Papers | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="pastpapers">
+                <header class="page-header">
+                    <h2 id="past-papers-title"><i data-lucide="archive" class="icon-inline"></i> Past Papers Repository</h2>
+                    <p>Official historical exam papers curated by year and subject.</p>
+                </header>
+                
+                <div class="card glass-card mb-4">
+                    <div class="search-box" style="display: flex; gap: 10px;">
+                        <input type="text" id="paper-search" placeholder="Search by subject or year..." oninput="filterPastPapers()" style="flex:1;">
+                        <select id="paper-year-filter" onchange="filterPastPapers()" style="width: 150px;">
+                            <option value="">All Years</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="past-papers-grid" class="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+                    <!-- Papers will be loaded here -->
+                    <p class="loading">Loading repository...</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof loadPastPapers === 'function') {
+                loadPastPapers();
+            }
+        });
+    </script>
+</body>
+</html>

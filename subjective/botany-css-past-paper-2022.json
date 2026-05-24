@@ -1,0 +1,51 @@
+{
+  "subject": "Botany",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain different types of algae based on cell structure, nature of the pigments and the types of reserve food materials.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Discuss the economic importance and distribution of gymnosperms in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe the pollination mechanisms in angiosperms.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Shed light on the important rules of botanical nomenclature.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Explain the role of different plant hormones from seed germination to fruit ripening.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are the adverse effects and control measures of aquatic and terrestrial pollution? Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Causes and mechanism of cell senescence",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Importance of genetic engineering",
+      "marks": 10
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Divergent Evolution",
+      "marks": 10
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "subject": "General Science & Ability",
+  "year": "2016",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "What were the main objectives of Clean Development Mechanism? Also explain the reasons for the criticism on Koyoto Protocol by the developed countries.",
+      "marks": 5
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Differentiate between Sanitary and Industrial Landfills, also describe the land selection criteria for Landfills.",
+      "marks": 5
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Write a short note on artificial intelligence.",
+      "marks": 5
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write short notes on: (i) Fibre Optics (ii) Global Positioning System",
+      "marks": 5
+    },
+    {
+      "question_number": "4a",
+      "question_text": "What are vaccines? Classify these and discuss DNA vaccines in detail.",
+      "marks": 5
+    },
+    {
+      "question_number": "4b",
+      "question_text": "What are causative organism and vector for dengue, enlist possible ways of prevention from dengue.",
+      "marks": 5
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Comment, \u2018liver is the chief chemist in human body\u2019.",
+      "marks": 5
+    },
+    {
+      "question_number": "5b",
+      "question_text": "What is Cholesterol? Discuss its importance, normal blood level and dangers of elevated levels with reference to the health and disease in humans.",
+      "marks": 5
+    },
+    {
+      "question_number": "6a",
+      "question_text": "What do you know about the Remote Sensing Techniques? Explain resolution and write down the names of its various types?",
+      "marks": 5
+    },
+    {
+      "question_number": "6b",
+      "question_text": "What is hydrological cycle? Discuss its importance.",
+      "marks": 5
+    },
+    {
+      "question_number": "7a",
+      "question_text": "What is tsunami? How the tsunamis generated and what are their characteristics?",
+      "marks": 5
+    },
+    {
+      "question_number": "7b",
+      "question_text": "What is an earth quake? Discuss Richter Scale in this context. What was the intensity of the earth quake in Pakistan dated 26 October 2015 and where was the locus?",
+      "marks": 5
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Explain the shape of water molecule with the help of Molecular Orbital Theory, also draw its orbital diagram.",
+      "marks": 5
+    },
+    {
+      "question_number": "8b",
+      "question_text": "What are the gamma rays? Explain their applications.",
+      "marks": 5
+    },
+    {
+      "question_number": "9a",
+      "question_text": "Discuss importance of preservatives and antioxidants in food.",
+      "marks": 5
+    },
+    {
+      "question_number": "9b",
+      "question_text": "Comment, Green House Effect is a blessing. Also discuss Enhanced Green House Effect and its relation with global warming.",
+      "marks": 5
+    },
+    {
+      "question_number": "10a",
+      "question_text": "Define and draw the following: (i) Rightangle triangles (ii) Equilateral triangles",
+      "marks": 5
+    },
+    {
+      "question_number": "10b",
+      "question_text": "There are nine students in a group having ages 15, 15, 16, 16, 16, 17, 17, 18, 19. Calculate mean, medium, mode and range of their ages also define the above mentioned terms:",
+      "marks": 5
+    },
+    {
+      "question_number": "11a",
+      "question_text": "A distribution company provides households to departmental stores within a 50 kilometers radius. The table below shows how far each departmental store is from the godown of the distribution company. How many stores does the distribution company serve? What is the most common distance of stores from the company\u2019s godown? How many stores are 35 Km or more from the godown? What percentage of stores are 31 Km or more from the godown?",
+      "marks": 5
+    },
+    {
+      "question_number": "11b",
+      "question_text": "Read the following carefully and answer the questions following: Ahmad, Ali, Akbar, Nasir and Shehbaz are students of a college having different heights and weights. Ahmad weighs thrice as much as Ali and Ali weighs 5 times as much as Akbar. Akbar weighs half as much as Nasir and Nasir weighs half as much as Shehbaz. Who is the heaviest in weight? Who is the is the lightest in weight? Shehbaz  is lighter in weight than which of the two students? Shehbaz is heavier than which of the two students? Show the descending order of weights of the students?",
+      "marks": 5
+    },
+    {
+      "question_number": "12a",
+      "question_text": "Classification of blood groups is based on the presence or absence of inherited antigenic substances on the surface of red blood cells. In a survey of British population the blood group distribution among 1000 people was as follows: 300 had blood group A, 325 had blood group B, 250 had O and 125 AB. Out of this group a person was selected at random, calculate his probability of having blood group AB",
+      "marks": 5
+    },
+    {
+      "question_number": "12b",
+      "question_text": "Five friends Ahmad, Ali, Akbar, Nasir and Shehbaz went on summer vacation to five cities namely V, W, X, Y and Z by five different modes of transport, that is by bus, train, aeroplane, car and boat from point A. Akbar went to Y by car and Ali went to X by air. Nasir travelled by boat whereas Shehbaz went by train. For X and W there is no bus service. The person who went to X did not use boat to travel. Now answer the following questions. How did Ahmad travel and where did he go? Which mode of transport was used by the person who travelled to X city?",
+      "marks": 5
+    },
+    {
+      "question_number": "13a",
+      "question_text": "Differentiate between primary and secondary mental abilities. How the general mental ability scales differ from IQ test.",
+      "marks": 5
+    },
+    {
+      "question_number": "13b",
+      "question_text": "Y = mX + C is an equation of straight line. Draw a graph showing relationship between X and Y and relate the equation to the slope and intercept on the graph.",
+      "marks": 5
+    }
+  ]
+}

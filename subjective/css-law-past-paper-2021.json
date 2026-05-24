@@ -1,0 +1,46 @@
+{
+  "subject": "Law",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Define acquittal under the relevant provisions of the Code of Criminal Procedure 1898. Differentiate between acquittal and discharge. Can an accused be recharged if he is acquitted under section 249-A?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What do you understand from the term \u201cPolice Report\u201d under section 173? What is evidential value of the finding of Investigation Officer in Police Report? Explain the procedure provided under section 174 for investigation of death.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What is Qatl-e-amd? How is it different from Qatl shibh-i-amd and Qatl-i-khata? In which cases Qatl-e-amd is not liable to Qisas.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically analyze the inherent powers of Civil Court to amend judgments, decrees and orders. Which actions can be taken by the Civil Court under the supplemental proceedings to secure the ends of Justice?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Differentiate between primary and secondary evidence. In which circumstances secondary evidence is admissible in legal proceedings?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Define burden of proof. On whom this burden lies in legal proceedings? How burden of proof is assessed as to relationship in the cases of partners, landlord and tenant, principal and agent?",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Write short notes on the Plea of alibi.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Write short notes on the Transfer of civil suits.",
+      "marks": 10
+    }
+  ]
+}

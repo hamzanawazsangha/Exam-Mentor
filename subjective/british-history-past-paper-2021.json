@@ -1,0 +1,41 @@
+{
+  "subject": "British History",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What were the political and ideological differences among Non-Jurors, High Churchmen and Latitudinarians?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What were the political and constitutional causes and consequences of the Act of Union 1707?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Provide a detailed account of the causes of World War I and its effects on the social and economic aspects of Britain.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is the Edwardian era? Elucidate the rise and significance of the Labour Movement in the Edwardian era.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What was the Falkland Islands conflict? Why Did the British invade the Falkland Islands and how this war came to an end?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What is the contribution of Great Britain in the formation of the European Common Market and European Union? Also, highlight its impact on the foreign policy of Britain.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "What were the salient features of Tony Blair\u2019s policy on the War on Terror? How did his policy affect US-Britain relations?",
+      "marks": 20
+    }
+  ]
+}

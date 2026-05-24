@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <!-- Main Content -->
+        <main class="content">
+            <section id="dashboard" class="active-section">
+                <header class="page-header">
+                    <h2 id="dash-greeting">Welcome Back <i data-lucide="hand" class="icon-inline"></i></h2>
+                    <p>Track your preparation journey and stay motivated.</p>
+                </header>
+
+                <div class="stats-grid">
+                    <div class="stat-card card glass-card">
+                        <h3><i data-lucide="info" class="icon-inline"></i> Overall Progress</h3>
+                        <div class="chart-container">
+                            <canvas id="progressChart"></canvas>
+                        </div>
+                        <p class="card-sub" id="progress-text">0% Syllabus covered</p>
+                    </div>
+
+                    <div class="stat-card card glass-card">
+                        <h3><i data-lucide="calendar" class="icon-inline"></i> Days Until Exam</h3>
+                        <div class="countdown" id="exam-countdown">--</div>
+                        <p class="card-sub" id="exam-target-text">No exam selected</p>
+                    </div>
+
+                    <div class="stat-card card glass-card">
+                        <h3><i data-lucide="alert-triangle" class="icon-inline" style="color: var(--danger)"></i> Weak Topics</h3>
+                        <ul id="weak-topics" class="weak-list">
+                            <li class="loading-text">Take a mock test to analyze weak areas.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+
+</body>
+</html>

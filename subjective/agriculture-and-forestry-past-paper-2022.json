@@ -1,0 +1,51 @@
+{
+  "subject": "Agriculture & Forestry",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is Integrated Plant Nutrient Management (IPNM)? How chemical fertilizers efficiency can be improved? How agro-industries waste (sugar, cotton & fruits) can be best utilized as plant nutrient?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe present Cotton scenario, causes of low production during last five years and challenges ahead. How past glory of cotton production can be achieved?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What factors influence seed germination? How seed viability is affected during storage? What is informal seed sector? Discuss advantages and disadvantages of informal seed sector.",
+      "marks": 20
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Potential and issues of small dams constructed in mountainous and semi-mountainous areas of Pakistan.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Advantages and disadvantages of Genetically Modified Organisms (GMOs).",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss objectives and basis of conventional forest classification in Pakistan. Describe the distribution of forests in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Describe role of agro-forestry in forage scarcity mitigation for livestock. How different range areas have played their roles in livestock raring?",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Principles of forestry.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Silvicultural systems.",
+      "marks": 10
+    }
+  ]
+}

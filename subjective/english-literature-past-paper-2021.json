@@ -1,0 +1,41 @@
+{
+  "subject": "English Literature",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What does Emerson mean by \u201cWhoso would be a man must be a non-conformist\u201d? Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Maugham in \u201cThe Lotus Eater\u201d projects that our circumstances will shape our personalities, decisions and resolves. Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "\u201cThe Love Song of J. Alfred Prufrock\u201d is the song of being divided between passion and timidity. It is a song of frustration and emotional conflict. Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Keats is known as the master of sensuousness. Give arguments.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Eugene O\u2019 Neill\u2019s \u201cLong Day\u2019s Journey into Night\u201d is a modern tragedy. Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "\u201cUnder the Net\u201d represents both the political and philosophic views which Iris Murdock herself held at the time, but also her self-image. Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "How have Feminist theories tried to reshape literary studies?",
+      "marks": 20
+    }
+  ]
+}

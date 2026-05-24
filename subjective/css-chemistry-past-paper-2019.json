@@ -1,0 +1,41 @@
+{
+  "subject": "Chemistry, Paper-I",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Describe the assumption of Bohr\u2019s atomic model. Based on Bohr\u2019s calculation, establish the energy expression of the rotation of electrons in Hydrogen like atomic species. Derive de-Broglie\u2019s equation for the dual nature of matter. Apply this equation for microscopic and macroscopic properties of substances. What are the postulates of Quantum Mechanics?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What is the Third law of thermodynamics? How is it used to determine the entropies of a substance? Discuss the isothermal expansion of a gas and derive the equation for the work done due to the expansion of a gas. Explain the law of corresponding states.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Deduce the rate expression for a 2nd order reaction where both the concentration terms are the same. What is the half-life period for the 2nd order reaction? What is activation energy? How can it be determined? Write a note on the Transition state theory of reaction rates.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Develop a relation among phase, component, and degree of freedom. Draw a complete diagram for the water system. What is catalysis? Differentiate between positive and negative catalysis. What is stoichiometry? Explain it with help of examples.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "State and explain Lowry-Bronsted theory and Lewis theory of acids and bases. In what way does Lewis theory differ from Bronsted theory? Explain with the help of examples why the pH of a buffer solution does not change significantly on the small addition of acids and bases. What are indicators? How can a suitable indicator be chosen? Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Give an account of the phenomena of isomerism in co-ordination compounds with a suitable example. Describe the extraction of thorium from mozite sand. Compare the properties of lanthanides and actinides.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Explain Kohlrausch\u2019s Law? Give its applications. What is meant by the transport number of ions? Give different methods for the determination of the transport number. What is specific conductance? How can it be determined by using a Wheatstone bridge?",
+      "marks": 20
+    }
+  ]
+}

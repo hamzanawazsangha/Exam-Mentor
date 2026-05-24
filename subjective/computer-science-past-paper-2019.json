@@ -1,0 +1,41 @@
+{
+  "subject": "Computer Science",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "(a) Give a detailed note on a revised BSD 3-clause license. Also name 5 softwares using this license. (b) How do artificial intelligence may facilitate us in improving cyber security? (c) What are the main parts and phases of a computer virus program?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "(a) See the following C++ program to declare whether an input number is a prime number or not. Identify the logical errors in the given program (if any). Give your correct statement(s) exactly at the same line number. (b) What is the difference between call by value and call by reference? (c) What is the role of preprocessor directives? Give three examples in C++.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "(a) How do the OOP paradigm can be associated with the real-world problems? Explain. (b) Discuss critical reasons given by the professionals for not supporting the OOP paradigm.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "(a) Discuss the security issues associated with the cloud computing. (b) What is bit twiddling? Give brief description. (c) An image is a representation of some information. Discuss how does a computer represents an image internally? Name different algorithms used to extract features from images.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "(a) Discuss the limitations of genetic algorithms. (b) What is AVL tree? Under what condition, a binary tree becomes AVL tree? (c) Consider the following graph. Find out the sequence of edges added to the minimum spanning tree using Kruskal\u2019s algorithm.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "(a) Discuss the architecture of aspect-oriented system. (b) Briefly discuss the motivation for aspect-oriented programming. (c) What is the significance of quantification and obliviousness?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "(a) Write down the major steps involved in code generation. (b) How would you optimize a loop? Describe the techniques briefly. (c) Differentiate machine-dependent optimization and machine-independent optimization.",
+      "marks": 20
+    }
+  ]
+}

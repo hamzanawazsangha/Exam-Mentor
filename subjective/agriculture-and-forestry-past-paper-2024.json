@@ -1,0 +1,51 @@
+{
+  "subject": "Agriculture & Forestry",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explore the present situation of oilseed crops in Pakistan and identify potential factors contributing to the insufficient production of edible oil. Propose remedial measures aimed at enhancing this situation.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Examine the distinctions between organic farming and conventional farming practices. Analyze the merits and drawbacks of each method. Evaluate factors such as environmental impact, yield, and soil health to provide a comprehensive understanding of the advantages and disadvantages associated with both approaches. Which would you recommend in Pakistan\u2019s perspective?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Assess the impact of climate change on Pakistan's agriculture, particularly its effects on crop patterns and yields. Provide an analytical overview of current practices and propose strategies to make crop management more resilient to climate change, considering adaptation and mitigation measures.",
+      "marks": 20
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Conservation and utilization of plant genetic resources",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Integrated nutrient management",
+      "marks": 10
+    },
+    {
+      "question_number": "6",
+      "question_text": "How can integrated watershed management address the competing demands for water in agriculture, industry, and domestic use? Analyze the impact of deforestation on watershed health and water availability. How can we integrate science and community engagement in watershed management?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "How effectively does the Pakistan Forest Policy integrate with the provisions outlined in the Pakistan Forest Act? Provide specific examples that how the policy's strategic goals are translated into actionable legal measures within the act. Discuss any areas where alignment may be strengthened or improved for more coherent forest governance.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Potential of Ecotourism in Pakistan",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Biodiversity",
+      "marks": 10
+    }
+  ]
+}

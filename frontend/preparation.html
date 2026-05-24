@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preparation | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="preparation">
+                <header class="page-header">
+                    <h2><i data-lucide="settings-2" class="icon-inline"></i> Preparation Strategy</h2>
+                    <p>Configure your target exam, optional subjects, and study timeline.</p>
+                </header>
+                <div class="card glass-card">
+                    <div class="prep-form">
+                        <div class="input-col">
+                            <label>Target Exam</label>
+                            <select id="exam-target" onchange="handleExamChange()">
+                                <option value="">Select Exam...</option>
+                                <option value="CSS">CSS</option>
+                                <option value="PMS">PMS</option>
+                                <option value="PPSC">PPSC</option>
+                            </select>
+                        </div>
+                        
+                        <div class="input-col hidden" id="province-container">
+                            <label>Province</label>
+                            <select id="exam-province" onchange="renderSubjects()">
+                                <option value="">Select Province...</option>
+                                <option value="Punjab">Punjab</option>
+                                <option value="Sindh">Sindh</option>
+                                <option value="KhyberPakhtunkhwa">KPK</option>
+                                <option value="Balochistan">Balochistan</option>
+                            </select>
+                        </div>
+
+                        <div class="input-col">
+                            <label>Expected Exam Date</label>
+                            <input type="date" id="exam-date">
+                        </div>
+                        
+                        <div class="subjects-container hidden" id="compulsory-container">
+                            <h3>Compulsory Subjects</h3>
+                            <ul id="compulsory-list" class="subject-list"></ul>
+                        </div>
+                        
+                        <div class="subjects-container hidden" id="optional-container">
+                            <h3>Optional Subjects <span class="badge">Degree Recommendations</span></h3>
+                            <div id="optional-groups"></div>
+                        </div>
+
+                        <div id="prep-status-msg" class="auth-msg mb-4" style="text-align: left; padding: 10px; border-radius: 8px; display: none;"></div>
+
+                        <div class="button-row-group">
+                            <button onclick="savePreparation()" id="save-prep-btn" class="btn-compact">Generate Schedule</button>
+                            <button onclick="deletePreparation()" id="delete-prep-btn" class="btn-compact btn-secondary hidden" style="background: rgba(255,100,100,0.2); border: 1px solid rgba(255,100,100,0.3); color: #ff8080;">Reset</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+    <div id="confirm-modal" class="overlay hidden">
+        <div class="overlay-content glass-card" style="max-width: 400px; text-align: center; padding: 40px;">
+            <div style="color: #f59e0b; margin-bottom: 20px;"><i data-lucide="alert-triangle" style="width: 48px; height: 48px;"></i></div>
+            <h3 id="confirm-title" style="margin-bottom: 12px; font-family: 'Outfit';">Are you sure?</h3>
+            <p id="confirm-msg" style="color: var(--text-muted); margin-bottom: 30px; font-size: 0.95rem;"></p>
+            <div class="d-flex gap-3">
+                <button class="btn-secondary w-100" onclick="closeConfirm(false)">Cancel</button>
+                <button id="confirm-btn-yes" class="w-100" style="background: #ef4444; color: white;">Delete</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof loadPrepOptions === 'function') {
+                loadPrepOptions();
+            }
+        });
+    </script>
+</body>
+</html>

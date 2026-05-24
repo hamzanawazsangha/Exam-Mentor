@@ -1,0 +1,111 @@
+{
+  "subject": "Physics",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "A particle of unit mass moves in potential V(x) = ax\u00b2 + b/ x\u00b2 where a & b are positive constants. Find the angular frequency of small oscillations?",
+      "marks": 8
+    },
+    {
+      "question_number": "2b",
+      "question_text": "A hollow spherical shell carries charge density in region R \u2264 r \u2264 R. Find the electric field in three regions (i) r < R (ii) R < r < R (iii) r > R.",
+      "marks": 7
+    },
+    {
+      "question_number": "2c",
+      "question_text": "A projectile is fired in such a way that its horizontal range is equal to three times its maximum height. Determine its angle of projection.",
+      "marks": 5
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Assume that a star has uniform density. Show that the gravitational pressure P is proportional to V-3/4 where V is volume.",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Derive expressions for potential and electric field associated with point charge located near an infinite grounded conducting plane.",
+      "marks": 7
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Determine equation of motion of masses attached to the string of Atwood machine by Lagrangian methods.",
+      "marks": 5
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Q cm\u00b3 of water flows per second through a horizontal tube of uniform bore of radius r & of length L. Another tube of half the length but radius 2r is connected in parallel to the same pressure head. What will be the total quantity of water flowing per second through these two tubes?",
+      "marks": 8
+    },
+    {
+      "question_number": "4b",
+      "question_text": "A linear quadrupole is an arrangement of a system of charges which consist of -2q at the origin and +q at the two points (\u00b1a, 0,0). Show that at distances much greater than (a, r \u226b a), the potential may be written in the approximate form \u03c6 = q*a\u00b3/(4\u03c0\u03b5\u2080r\u2075) (3cos\u00b2\u03b8 - 1), r\u00b2 \u226b a\u00b2.",
+      "marks": 7
+    },
+    {
+      "question_number": "4c",
+      "question_text": "Two soap bubbles with radii r\u2081 and r\u2082 coalesce to form a bigger bubble of radii r. Show that r = (r\u2081\u00b2 + r\u2082\u00b2)^(1/2).",
+      "marks": 5
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Explain wave function. Derive wave formula and explain phase and group velocity.",
+      "marks": 8
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Two semi-infinite grounded metal plates parallel to each other and to the xz-plane are located at y = 0 and y = a planes, respectively. The left ends of these two plates at x = 0, are closed off by a strip of width a and extend to infinity in the z-direction. The strip is insulated from both the plates and is maintained at a specific potential V(x). Find the potential distribution in the slot.",
+      "marks": 7
+    },
+    {
+      "question_number": "5c",
+      "question_text": "A two level system has energies 0 and E. The level with zero energy is non-degenerate while the level with energy E is triply degenerate. Find the mean energy of a classical particle in this system at temperature T.",
+      "marks": 5
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Explain the particle in finite potential well with all possible cases and solutions and make a comparison with infinite potential well.",
+      "marks": 8
+    },
+    {
+      "question_number": "6b",
+      "question_text": "The potential V(\u03b8) is specified on the surface of a hollow sphere, of radius R. Find potential inside the sphere.",
+      "marks": 7
+    },
+    {
+      "question_number": "6c",
+      "question_text": "A particle is confined to region x>0 by a potential which increases linearly as u(x) = u\u2080x. Find the mean position of particle at temperature T.",
+      "marks": 5
+    },
+    {
+      "question_number": "7a",
+      "question_text": "When a gas expands adiabatically its volume is doubled while its absolute temperature is decreased by a factor 1.32. Compute number of degree of freedom of gas molecule?",
+      "marks": 8
+    },
+    {
+      "question_number": "7b",
+      "question_text": "State and prove Ampere\u2019s Law.",
+      "marks": 7
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Find the rms speed of oxygen molecules at 0\u00b0C?",
+      "marks": 5
+    },
+    {
+      "question_number": "8a",
+      "question_text": "An ensemble of non-interacting spin -1/2 particles is in contact with a heat bath at temperature T & is subjected to an external magnetic field. Each particle can be in one of the two quantum states of energies \u03b5\u2080. If the mean energy per particle is \u2013\u03b5\u2080/2, then find free energy per particle?",
+      "marks": 8
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Derive the electromagnetic wave equation in vacuum and also describe the properties of monochromatic electromagnetic waves.",
+      "marks": 7
+    },
+    {
+      "question_number": "8c",
+      "question_text": "Discuss adiabatic demagnetization using Thermodynamic Second Law equations mathematically in detail?",
+      "marks": 5
+    }
+  ]
+}

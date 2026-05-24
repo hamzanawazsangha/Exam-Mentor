@@ -1,0 +1,56 @@
+{
+  "subject": "English Precis and Composition",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Discuss the significance of effective communication in interpersonal relationships and how it can be enhanced through improved English language skills.",
+      "marks": 20
+    },
+    {
+      "question_number": "2",
+      "question_text": "Analyze the role of tone and style in writing. Provide examples of how different tones can affect the reader's perception of the text.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Explain the process of writing a precis. Outline the key components that need to be addressed to make a successful precis.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Critically evaluate the impact of digital communication on writing skills. How has technology changed the way we write and communicate?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Write an essay on the importance of vocabulary in precise writing. How can a rich vocabulary enhance clarity and effectiveness in communication?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss the challenges and strategies involved in summarizing complex texts. How can one ensure that important information is retained?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Examine the role of grammar and syntax in written composition. Why is it important to adhere to grammatical rules in formal writing?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Explore the concept of coherence and cohesion in writing. How do these elements contribute to the overall quality of a text?",
+      "marks": 20
+    },
+    {
+      "question_number": "9",
+      "question_text": "Reflect on the importance of feedback in improving writing skills. How can constructive criticism help a writer develop their style and precision?",
+      "marks": 20
+    },
+    {
+      "question_number": "10",
+      "question_text": "Compose a formal letter addressing an issue in your community. Discuss the key elements of formal writing and the importance of tone in your composition.",
+      "marks": 20
+    }
+  ]
+}

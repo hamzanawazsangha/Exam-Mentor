@@ -1,0 +1,926 @@
+[
+  {
+    "question": "What is the capital city of Pakistan?",
+    "options": [
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is the largest province of Pakistan by area?",
+    "options": [
+      "Punjab",
+      "Sindh",
+      "Balochistan",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which country shares the longest border with Pakistan?",
+    "options": [
+      "India",
+      "Afghanistan",
+      "Iran",
+      "China"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "When did Pakistan become an independent state?",
+    "options": [
+      "March 23, 1940",
+      "August 14, 1947",
+      "January 1, 1956",
+      "December 16, 1971"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the founder of Pakistan?",
+    "options": [
+      "Allama Iqbal",
+      "Quaid-e-Azam Muhammad Ali Jinnah",
+      "Liaquat Ali Khan",
+      "Fatima Jinnah"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following rivers is known as the 'Lifeline' of Pakistan?",
+    "options": [
+      "Indus River",
+      "Chenab River",
+      "Ravi River",
+      "Jhelum River"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Pakistan's national language is?",
+    "options": [
+      "English",
+      "Urdu",
+      "Punjabi",
+      "Sindhi"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "The first Constitution of Pakistan was enacted in which year?",
+    "options": [
+      "1956",
+      "1962",
+      "1973",
+      "1985"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is known as the 'City of Lights' in Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What are the official colors of the Pakistan flag?",
+    "options": [
+      "Green and White",
+      "Red and White",
+      "Blue and White",
+      "Black and White"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the longest river in Pakistan?",
+    "options": [
+      "Ravi",
+      "Indus",
+      "Chenab",
+      "Jhelum"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who is considered the 'Mother of the Nation' in Pakistan?",
+    "options": [
+      "Fatima Jinnah",
+      "Benazir Bhutto",
+      "Begum Roquiah Sakhawat Hossain",
+      "Quaid-e-Azam's sister"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the currency of Pakistan?",
+    "options": [
+      "Dollar",
+      "Rupee",
+      "Pound",
+      "Dirham"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which province of Pakistan is known for its rich culture of heritage and music?",
+    "options": [
+      "Balochistan",
+      "Punjab",
+      "Sindh",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In which year did Pakistan become a republic?",
+    "options": [
+      "1956",
+      "1962",
+      "1973",
+      "1985"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following mountains is the highest peak in Pakistan?",
+    "options": [
+      "K2",
+      "Nanga Parbat",
+      "Gasherbrum",
+      "Broad Peak"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was Pakistan's first Prime Minister?",
+    "options": [
+      "Liaquat Ali Khan",
+      "Zulfikar Ali Bhutto",
+      "Benazir Bhutto",
+      "Muhammad Ali Jinnah"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What was the main objective behind the Lahore Resolution?",
+    "options": [
+      "Independence from British Rule",
+      "Establishment of Pakistan",
+      "Formation of a republic",
+      "Creating a new province"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the smallest province of Pakistan by area?",
+    "options": [
+      "Sindh",
+      "Balochistan",
+      "Punjab",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is the cultural capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Pakistan gained its independence from which country?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "India",
+      "Russia"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the official language of Pakistan?",
+    "options": [
+      "Urdu",
+      "Punjabi",
+      "Sindhi",
+      "Balochi"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Pakistani city is famous for the Badshahi Mosque?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Quetta"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main policy-making body in Pakistan?",
+    "options": [
+      "Parliament",
+      "Supreme Court",
+      "President",
+      "Army"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which river is primarily used for irrigation in Punjab?",
+    "options": [
+      "Indus",
+      "Ravi",
+      "Chenab",
+      "Sutlej"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "When is Pakistan Resolution Day celebrated?",
+    "options": [
+      "March 23",
+      "August 14",
+      "Independence Day",
+      "November 19"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which are the two main rivers of Pakistan?",
+    "options": [
+      "Indus and Ravi",
+      "Indus and Chenab",
+      "Ravi and Jhelum",
+      "Chenab and Sutlej"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What natural resource is Pakistan rich in?",
+    "options": [
+      "Oil",
+      "Natural Gas",
+      "Coal",
+      "All of the above"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "The population of Pakistan is approximately how much?",
+    "options": [
+      "100 million",
+      "200 million",
+      "300 million",
+      "400 million"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who was the first female Prime Minister of Pakistan?",
+    "options": [
+      "Benazir Bhutto",
+      "Fatima Jinnah",
+      "Benazir Bhutto",
+      "Hina Rabbani Khar"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the main export of Pakistan?",
+    "options": [
+      "Rice",
+      "Cotton",
+      "Textiles",
+      "All of the above"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the national flower of Pakistan?",
+    "options": [
+      "Rose",
+      "Jasmine",
+      "Sunflower",
+      "Lotus"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In which year did the Pakistan Movement officially begin?",
+    "options": [
+      "1920",
+      "1940",
+      "1930",
+      "1911"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Pakistan'?",
+    "options": [
+      "Quaid-e-Azam Muhammad Ali Jinnah",
+      "Allama Iqbal",
+      "Zulfikar Ali Bhutto",
+      "Benazir Bhutto"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is known as the 'Manchester of Pakistan'?",
+    "options": [
+      "Faisalabad",
+      "Karachi",
+      "Lahore",
+      "Hyderabad"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which large dam is located on the Indus River in Pakistan?",
+    "options": [
+      "Mangla Dam",
+      "Warsak Dam",
+      "Tarbela Dam",
+      "Hub Dam"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary source of income for most Pakistanis?",
+    "options": [
+      "Agriculture",
+      "Manufacturing",
+      "Services",
+      "Tourism"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which international organization is Pakistan a member of?",
+    "options": [
+      "NATO",
+      "SAARC",
+      "OPEC",
+      "EU"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What does the crescent and star symbolize on the Pakistan flag?",
+    "options": [
+      "Peace and Prosperity",
+      "Faith and Progress",
+      "Light and Knowledge",
+      "None of the above"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which region of Pakistan is known for its tourism due to mountains?",
+    "options": [
+      "Punjab",
+      "Sindh",
+      "Balochistan",
+      "Gilgit-Baltistan"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the highest military award in Pakistan?",
+    "options": [
+      "Tamgha-e-Jurat",
+      "Nishan-e-Haider",
+      "Sitara-e-Imtiaz",
+      "Quaid-e-Azam Medal"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which day is celebrated as Pakistan Independence Day?",
+    "options": [
+      "March 23",
+      "August 14",
+      "January 1",
+      "December 16"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Who is the literary hero of Pakistan?",
+    "options": [
+      "Allama Iqbal",
+      "Faiz Ahmed Faiz",
+      "Sufi Tabassum",
+      "Mirza Ghalib"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is the famous fort in Lahore?",
+    "options": [
+      "Shalimar Fort",
+      "Lahore Fort",
+      "Rao Bahadur Fort",
+      "Kalani Fort"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the primary function of the Senate in Pakistan?",
+    "options": [
+      "Legislation",
+      "Judiciary",
+      "Executive",
+      "Finance"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which of the following is a prominent historical figure in Pakistan's independence movement?",
+    "options": [
+      "C. R. Das",
+      "Simone de Beauvoir",
+      "B. R. Ambedkar",
+      "Allama Iqbal"
+    ],
+    "correct": "D",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "The Indus Valley Civilization is primarily associated with which region?",
+    "options": [
+      "Punjab",
+      "Sindh",
+      "Balochistan",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is Pakistan's strategic importance in South Asia?",
+    "options": [
+      "Geographical location",
+      "Cultural diversity",
+      "Political stability",
+      "Economic advancement"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Asian country has a coastline on the Arabian Sea?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Pakistani city is famous for its mangoes?",
+    "options": [
+      "Karachi",
+      "Hyderabad",
+      "Multan",
+      "Faisalabad"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which region is known for its rich mineral resources in Pakistan?",
+    "options": [
+      "Balochistan",
+      "Punjab",
+      "Sindh",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which international boundary runs between Pakistan and India?",
+    "options": [
+      "Durand Line",
+      "McMahon Line",
+      "Radcliffe Line",
+      "Sikkim Line"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the highest civilian award in Pakistan?",
+    "options": [
+      "Nishan-e-Haider",
+      "Tamgha-e-Jurat",
+      "Sitara-e-Imtiaz",
+      "Quaid-e-Azam Medal"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which Pakistani city is known as the 'City of Students'?",
+    "options": [
+      "Karachi",
+      "Hyderabad",
+      "Lahore",
+      "Islamabad"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the predominant religion in Pakistan?",
+    "options": [
+      "Islam",
+      "Christianity",
+      "Hinduism",
+      "Buddhism"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which historic mosque is a UNESCO World Heritage Site in Pakistan?",
+    "options": [
+      "Sultan Ahmed Mosque",
+      "Faisal Mosque",
+      "Badshahi Mosque",
+      "Shah Jahan Mosque"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which government body is responsible for conducting elections in Pakistan?",
+    "options": [
+      "Election Commission of Pakistan",
+      "Supreme Court of Pakistan",
+      "Parliament of Pakistan",
+      "Federal Bureau of Revenue"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the literacy rate in Pakistan according to the latest statistics?",
+    "options": [
+      "60%",
+      "70%",
+      "55%",
+      "45%"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "The Indus Basin Irrigation System is one of the largest in the world. Which system does it mainly consist of?",
+    "options": [
+      "Tanks",
+      "Canals",
+      "Dams",
+      "Ponds"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which festival is celebrated in Pakistan to mark the end of Ramadan?",
+    "options": [
+      "Eid-ul-Fitr",
+      "Eid-ul-Adha",
+      "Makar Sankranti",
+      "Basant"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which city is the judicial capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Quetta"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "What is the role of the Chief Justice of Pakistan?",
+    "options": [
+      "Executive",
+      "Legislative",
+      "Judiciary",
+      "Diplomatic"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which political party is known for its historical significance in the Pakistan Movement?",
+    "options": [
+      "Pakistan Muslim League",
+      "Pakistan People's Party",
+      "Pakistan Tehreek-e-Insaf",
+      "Awami National Party"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "In which year did Pakistan conduct its first nuclear tests?",
+    "options": [
+      "1996",
+      "1998",
+      "2000",
+      "2004"
+    ],
+    "correct": "B",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which is celebrated as Labor Day in Pakistan?",
+    "options": [
+      "May 1",
+      "April 1",
+      "March 23",
+      "June 14"
+    ],
+    "correct": "A",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  },
+  {
+    "question": "Which province is known as the 'Land of Five Rivers'?",
+    "options": [
+      "Sindh",
+      "Balochistan",
+      "Punjab",
+      "Khyber Pakhtunkhwa"
+    ],
+    "correct": "C",
+    "year": 2025,
+    "exam": "CSS",
+    "subject": "Pakistan Affairs",
+    "topic": "General"
+  }
+]

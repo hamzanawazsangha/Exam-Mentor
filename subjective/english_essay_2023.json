@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Instruction in youth is like engraving in stone.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "The one who uses force is afraid of reasoning.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Not all recycling projects are cost effective.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "The fool speaks, and the wise listens.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "A friend walks in when everyone else walks out.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "Online learning is not only convenient but often more effective than traditional classroom instruction.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "To encourage healthy eating, higher taxes should be imposed on soft drinks and junk food.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "People have become overly dependent on technology.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Both parents should assume equal responsibility in raising a child.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Boys will be boys.",
+      "marks": 100
+    }
+  ]
+}

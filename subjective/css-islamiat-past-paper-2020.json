@@ -1,0 +1,41 @@
+{
+  "subject": "Islamic Studies",
+  "year": "2020",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Discuss the status and grade of \u201cTolerance and Forgiveness\u201d in the life of the Holy Prophet (PBUH).",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write a comprehensive note on the bravery and juridical Wisdom of Hazrat Ali (R.A).",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "\u201cThe last Sermon of the Holy Prophet (PBUH) is the basic document for awakening of conscious of mankind for human rights\u201d. Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss in detail the principles and terms & conditions for \u201cJihad\u201d in the light of Quran and Sunnah.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Analyze the Madina Accord as a \u201cSocial Contract\u201d in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "\u201cIslam teaches the lesson of human respect and dignity irrespective of colour, race and creed\u201d. Discuss.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "\u201cIslamic Financial and Economic system is the solution of the human financial problems\u201d. Discuss.",
+      "marks": 20
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Criminology",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Critically analyze the biological theories of criminality.",
+      "marks": 20
+    },
+    {
+      "question_number": "3a",
+      "question_text": "How would you classify criminal behavior?",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "What would be the focus of typology?",
+      "marks": 10
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe various procedures and problems of Criminal Courts in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Define Juvenile probation. Explain the organization and administration of Juvenile probation services.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What are the principles and techniques of interrogation? How far these techniques have potential to clear an accused?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What is the difference between EUROPOL and INTERPOL? How does EUROPOL assist Member states investigation to control terrorist networks in Europe?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Several specific law enforcement strategies fall within the framework of intelligence-led policing. Discuss any four strategies.",
+      "marks": 20
+    },
+    {
+      "question_number": "9a",
+      "question_text": "What is Trade-Based Money Laundering (TBML)? Discuss with examples.",
+      "marks": 10
+    },
+    {
+      "question_number": "9b",
+      "question_text": "Do Cryptocurrencies have a high money laundering risk? Discuss.",
+      "marks": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "English Literature",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Critically analyze whether Emerson's transcendentalist philosophy has enduring value and applicability in addressing current societal and individual concerns.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Investigate O\u2019 Henry's intentions in crafting 'The Gift of the Magi' and how his writing style contributes to the story's impact? What literary devices does he employ to evoke emotions and convey the central message?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explore ecocritical perspectives in 'Tintern Abbey.' How does Wordsworth engage with ecological themes, and what environmental ethics can be discerned in the poem?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Investigate the portrayal of women in 'Hamlet,' focusing on Gertrude and Ophelia. How do gender roles and societal expectations influence their actions and outcomes? Discuss the agency or lack thereof granted to female characters in the play.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "How do Orwell's warnings about authoritarianism, surveillance, and propaganda resonate with contemporary political and social developments? Discuss the enduring significance of '1984' in the 21st century as a cautionary tale.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are the limitations and potential shortcomings of feminist approaches to literature? Evaluate the challenges and criticisms faced by Feminist Criticism as a literary theory.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Examine the thematic exploration of guilt, redemption, and atonement within the context of a judgmental society in Nathaniel Hawthorne's 'The Scarlet Letter.'",
+      "marks": 20
+    }
+  ]
+}

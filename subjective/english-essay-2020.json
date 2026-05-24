@@ -1,0 +1,56 @@
+{
+  "subject": "English Essay",
+  "year": "2020",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Do we really need literature in our lives?",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "Women universities as agents of change.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Pakistan and the future of Kashmir cause.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Polarized politics: the issues and challenges of democracy in Pakistan.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Global power dynamics and Pakistan\u2019s foreign policy.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "Pakistan\u2019s informal economy: the way forward.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Promoting tourism in Pakistan: opportunities and challenges.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "I do not agree with what you have to say, but I\u2019ll defend to the death your right to say it.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Is Pakistan ready for digital revolution?",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "IMF bailouts: roads to stability or recipes for disaster.",
+      "marks": 100
+    }
+  ]
+}

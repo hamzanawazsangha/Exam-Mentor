@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "version": "2.0",
+    "editable_weightage": true,
+    "note": "PPSC recruitment exam pattern (objective-only). Essay treated as optional MCQ-based subject if included."
+  },
+
+  "PPSC": {
+    "paper_pattern": {
+      "type": "objective_only",
+      "total_mcqs": 100,
+      "total_marks": 100,
+      "time_minutes": 90,
+      "negative_marking": false
+    },
+
+    "sections": [
+      {
+        "id": "general_knowledge",
+        "name": "General Knowledge",
+        "mcqs": 25,
+        "topics": [
+          "Current Affairs",
+          "Pakistan Affairs",
+          "Islamic Studies",
+          "Everyday Science"
+        ]
+      },
+      {
+        "id": "english",
+        "name": "English",
+        "mcqs": 20,
+        "topics": [
+          "Vocabulary",
+          "Synonyms/Antonyms",
+          "Grammar",
+          "Sentence Correction",
+          "Comprehension"
+        ]
+      },
+      {
+        "id": "quantitative",
+        "name": "Quantitative & Reasoning",
+        "mcqs": 15,
+        "topics": [
+          "Basic Math",
+          "Arithmetic",
+          "Logical Reasoning",
+          "Analytical Ability"
+        ]
+      },
+      {
+        "id": "computer",
+        "name": "Computer / IT",
+        "mcqs": 10,
+        "topics": [
+          "Basic IT",
+          "MS Office",
+          "Internet",
+          "General Computer Knowledge"
+        ]
+      },
+      {
+        "id": "job_related",
+        "name": "Job-Specific Subject",
+        "mcqs": 30,
+        "topics": [
+          "Based on post syllabus"
+        ]
+      }
+    ],
+
+    "optional_modules": [
+      {
+        "id": "essay_mcq_module",
+        "name": "English Essay (Optional MCQ-Based)",
+        "description": "Not a traditional essay. Concept-based MCQs derived from essay themes.",
+        "mcqs": 10,
+        "topics": [
+          {
+            "name": "Governance & Politics",
+            "weightage": 25
+          },
+          {
+            "name": "Society & Culture",
+            "weightage": 20
+          },
+          {
+            "name": "International Relations",
+            "weightage": 20
+          },
+          {
+            "name": "Economy",
+            "weightage": 20
+          },
+          {
+            "name": "Science/Environment",
+            "weightage": 15
+          }
+        ],
+        "integration": "can_be_merged_into_general_knowledge_or_english_section"
+      }
+    ],
+
+    "generation_rules": {
+      "mcq_distribution": "fixed_sectionwise",
+      "difficulty_distribution": {
+        "easy": 30,
+        "medium": 50,
+        "hard": 20
+      },
+      "repetition_control": {
+        "avoid_last_n_tests": 3,
+        "max_repeat_percentage": 15
+      },
+      "job_specific_priority": true
+    }
+  }
+}

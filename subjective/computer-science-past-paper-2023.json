@@ -1,0 +1,96 @@
+{
+  "subject": "Computer Science",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Write a detailed note on any 03 Super Computing Technologies being used in the world. List key characteristics in each case.",
+      "marks": 8
+    },
+    {
+      "question_number": "2b",
+      "question_text": "What performance metrics are used to analyze the capacity of Super Computers? Discuss.",
+      "marks": 6
+    },
+    {
+      "question_number": "2c",
+      "question_text": "Discuss the role of Web Crawling, Indexing & Searching operations for a Search Engine.",
+      "marks": 6
+    },
+    {
+      "question_number": "3a",
+      "question_text": "How does dynamic memory allocation is managed programmatically in a C++ program? Clarify yours understanding through a viable program.",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write a note on the use of overloaded operators. Discuss with examples.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "What is bit twiddling? Give brief description.",
+      "marks": 6
+    },
+    {
+      "question_number": "5a",
+      "question_text": "For analyzing an Algorithm theoretically & asymptotically, give a detailed note on Input size, unit of time & order of growth. Support your answer with appropriate mathematical equations.",
+      "marks": 8
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Briefly describe the four types of analysis we may perform to evaluate the asymptotic behavior of an algorithm.",
+      "marks": 6
+    },
+    {
+      "question_number": "5c",
+      "question_text": "Evaluate order of growth of the functions given below. Compare & write down which one has higher, same or lower order of growth than the other one:\nI. n(n+1) and 2000n2\nII. 100n2 and 0.01n3\nIII. Log2 n and ln n\nIV. 2n-1 and 2n\nV. (n-1)! and n!",
+      "marks": 6
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Discuss the architecture of aspect-oriented system.",
+      "marks": 8
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Briefly discuss the motivation for aspect-oriented programming.",
+      "marks": 6
+    },
+    {
+      "question_number": "6c",
+      "question_text": "Briefly describe 05 agile software development frameworks.",
+      "marks": 6
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Design and draw a finite automaton to recognize the regular language of all strings that contain the string \u2018001\u2019 as a substring.",
+      "marks": 8
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Consider the following state diagram and extract the standard information, i.e., Q, \u03a3, q0, F and \u03b4.",
+      "marks": 6
+    },
+    {
+      "question_number": "7c",
+      "question_text": "How would you optimize a loop? Describe the techniques briefly.",
+      "marks": 6
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Discuss the role of Syntax Tree in representing formal text structure. Develop a Syntax Tree structure for the following piece of code: while b \u2260 0 if a > b a = a - b; else b = b - a; return a;",
+      "marks": 8
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Describe your understanding on Constant Folding using a brief pseudo code.",
+      "marks": 6
+    },
+    {
+      "question_number": "8c",
+      "question_text": "What is an Optimization problem? What are its 02 general categories? Write down mathematical representation of a standard optimization problem.",
+      "marks": 6
+    }
+  ]
+}

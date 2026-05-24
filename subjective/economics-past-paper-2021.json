@@ -1,0 +1,41 @@
+{
+  "subject": "Economics, Paper-I",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Elaborate the own-price, cross-price and income elasticity theoretically and empirically. Also explain the relationship between own-price elasticity and the total revenue.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "What are the three different approaches to measure the Gross Domestic Product (GDP)? Discuss. Why should the three approaches yield the same result? Do you think one approach can be preferred over the other? Justify your arguments.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What are the functions of the International Monetary Fund (IMF)? What practices IMF adopt in order to assist countries facing financial crisis? Evaluate the IMF lending to the developing countries with reference to Financial Action Task Force (FATF) status.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Explain the macroeconomic outlook of economy of Pakistan and suggest any policy framework for formulation of budget and reducing budget deficit.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Differentiate between the exchange rate systems vis-\u00e0-vis fixed, flexible and managed floating exchange rate system. Which regime is currently being pursued by Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What is the Lewis turning point? How can it be attained? What happens if, within the framework of Two-Sector model, the transfer of labor from subsistence to modern sector continues beyond this point? Elaborate.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "What were the major macroeconomic consequences of COVID-19 Pandemic for the economy of Pakistan? Suggest some realistic measures which can be adopted to tackle the issue.",
+      "marks": 20
+    }
+  ]
+}

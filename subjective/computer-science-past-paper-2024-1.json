@@ -1,0 +1,101 @@
+{
+  "subject": "Computer Science, Paper-I",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2a",
+      "question_text": "Discuss the future of Information Technology (IT) in Pakistan and its huge impact on all our daily lives.",
+      "marks": 6
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Discuss the difference between a computer virus, a trojan, and a worm.",
+      "marks": 6
+    },
+    {
+      "question_number": "2c",
+      "question_text": "Discuss the pros and cons of LaTeX in comparison to other document processors.",
+      "marks": 8
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Write a program that prompts the user to enter a letter grade A, B, C, D, or F and displays its corresponding numeric value 4, 3, 2, 1, or 0.",
+      "marks": 6
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Write pseudocode OR C-language script for the following expression.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Write a version of Breadth First Search (BFS) that finds the distances from the start node to each of the others, rather than the actual paths.",
+      "marks": 8
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Write a program that displays the area and perimeter of a rectangle with the width of 4.5 and height of 7.9 using the formula: area = width * height.",
+      "marks": 6
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Write a program that reads a Celsius degree from the console, then converts it to Fahrenheit and displays the result. The formula for the conversion is as follows: Fahrenheit = (9 / 5) * Celsius + 32.",
+      "marks": 6
+    },
+    {
+      "question_number": "4c",
+      "question_text": "Write a program that prompts the user to enter the month and year and displays the number of days in the month. For example, if the user entered month 2 and year 2024, the program should display that February 2024 had 29 days. If the user entered month 3 and year 2015, the program should display that March 2015 had 31 days.",
+      "marks": 8
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Show the output of the following code?\npublic class Test {\npublic static void main(String[] args) {\n Double x = 3.5;\n System.out.println(x.intValue());\n System.out.println(x.compareTo(4.5));\n }\n}",
+      "marks": 6
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Illustrate the difference between overriding and overloading with a piece of pseudocode or program.",
+      "marks": 6
+    },
+    {
+      "question_number": "5c",
+      "question_text": "How do you prevent a class from being extended? How do you prevent a method from being overridden? Exemplify with a simple piece of code.",
+      "marks": 8
+    },
+    {
+      "question_number": "6a",
+      "question_text": "For the following data sets, which sorting algorithms would work well, and which would not? a. 10 floating-point values b. 1,000 integers c. 1,000 names d. 100,000 integers with values between 0 and 1,000 e. 100,000 integers with values between 0 and 1 billion f. 100,000 names g. 1 million floating-point values h. 1 million names i. 1 million integers with uniform distribution j. 1 million integers with non-uniform distribution",
+      "marks": 8
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Write an algorithm that implements binary search recursively. Does this version have any advantages or disadvantages compared to the non-recursive version?",
+      "marks": 6
+    },
+    {
+      "question_number": "6c",
+      "question_text": "Write an algorithm that deletes a specified cell from a doubly linked list. Draw a picture that shows the process graphically.",
+      "marks": 6
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Discuss the phases of project management including conception and initiation, project planning, project execution, performance/monitoring, and project close.",
+      "marks": 6
+    },
+    {
+      "question_number": "7b",
+      "question_text": "What are the different types of test design techniques? When would you use these types of test design techniques?",
+      "marks": 6
+    },
+    {
+      "question_number": "7c",
+      "question_text": "Exemplify the difference between Quality Assurance, Quality Control, and Testing.",
+      "marks": 8
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write Regular Expression(s) for the following: I. For date Format of standard e.g. (10.03.2024 | 12/30/2023| 01/01/2022) II. Write a Regular Expression that will match URL e.g. (http://example.edu.pk) III. Write a Regular Expression that will match an IP address. e.g. 192.168.0.1 IV. Write a Regular Expression that will match an email address. e.g. (abc@example.com)",
+      "marks": 20
+    }
+  ]
+}

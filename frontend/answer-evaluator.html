@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Answer Evaluator | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="evaluator">
+                <header class="page-header">
+                    <h2><i data-lucide="clipboard-check" class="icon-inline"></i> Professional Answer Evaluator</h2>
+                    <p>Get instant examiner-grade feedback and mark predictions for your subjective drafts.</p>
+                </header>
+                <div class="card glass-card">
+                    <div class="input-col">
+                        <input type="text" id="eval-question" placeholder="Enter the exam question…" autocomplete="off">
+                        <textarea id="eval-answer" rows="8" placeholder="Paste your answer here…"></textarea>
+                        <button onclick="evaluateAnswer()">Evaluate Marks</button>
+                    </div>
+                    <div id="eval-result" class="result-box scrollable">
+                        <p class="placeholder">Detailed feedback and predicted marks will appear here…</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+</body>
+</html>

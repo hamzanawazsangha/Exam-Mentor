@@ -1,0 +1,41 @@
+{
+  "subject": "Gender Studies",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Discuss in detail the multidisciplinary nature of gender studies.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Describe any two Western Schools of thought about Feminism in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Shed light on first wave and third wave of feminism.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "According to your opinion, what are the main issues in women as representatives in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss in detail Feminist movements in Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "What are Capitalistic Perspectives of gender? Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss in detail Gender Critiqued of Structural Adjustment Policies (SAPs).",
+      "marks": 20
+    }
+  ]
+}

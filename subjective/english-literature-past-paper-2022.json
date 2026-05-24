@@ -1,0 +1,41 @@
+{
+  "subject": "English Literature",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Explain how both Bertrand Russell\u2019s The Conquest of Happiness and Ralph Waldo Emerson\u2019s Self-Reliance focus on how the individual must develop and rely on his or her own moral judgement in order to be a respected member of society.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "An ode is a poem of praise. How do John Keats\u2019s \u2018Ode to a Nightingale\u2019 and \u2018Ode to Autumn\u2019 reflect this classical concept?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What major tragic aspects of humanity are incorporated into Thomas Hardy\u2019s Far From the Madding Crowd and D. H. Lawrence\u2019s Sons and Lovers?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Describe and analyze the way in which William Shakespeare\u2019s King Lear depicts familial betrayal and disappointment.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Explain how the theories of Karl Marx are still relevant to literature today.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Contrast the concept of self-love in Somerset Maugham\u2019s \u2018The Lotus Eaters\u2019 with the concept of love for others as reflected in Iris Murdoch\u2019s Under the Net.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "How much of a literary debt does Tennyson\u2019s Ulysses owe to classical Greek and Roman tradition? Comment in detail.",
+      "marks": 20
+    }
+  ]
+}

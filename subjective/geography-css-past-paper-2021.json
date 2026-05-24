@@ -1,0 +1,41 @@
+{
+  "subject": "Geography",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Why the Aeolian landform are mostly located between 15\u00ba to 30\u00ba North and South latitudes? Describe the major characteristics of deserts emphasizing their geographical location and associated landforms.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Discuss the significant movements of ocean water, its causes and impacts on weather and shipping activities.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "\u201cLife on the planet earth is mainly because of the atmospheric shield\u201d. Highlight this statement and bring out the role of atmosphere in sustaining plant, animal and human life on the earth surface.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Environmental risk and hazards are becoming very common during the current century. Discuss the hydro-meteorological hazards with special reference to Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Many conflicts in Africa can be attributed to ethnicity. Enlist major conflicts and suggest mitigative methods for the peaceful resolution of these conflicts in Africa.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Population of the world is unevenly distributed. Describe the physical and historical factors to highlight the existing pattern of population distribution in the world.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "The Middle East plays a pivotal role in global geopolitics and currently a lot of changes have occurred in this region. Write an essay on the impacts of these changes on the Muslim world.",
+      "marks": 20
+    }
+  ]
+}

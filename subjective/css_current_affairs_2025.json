@@ -1,0 +1,41 @@
+{
+  "subject": "Current Affairs",
+  "year": "2025",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What do you know about ethnicity in Pakistan? Do you think its emergence as a serious threat to national integration of Pakistan? Explain your opinion with reference to various scholarly evidences and suggest your recommendations to deal with it.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Discuss the major contours of Nuclear Non-Proliferation Regime and discuss the prospects of their success/failure with reference to India-United States Strategic Partnership.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Discuss the emergence of SCO and BRICS as a challenge to American politico-economic dominance in world politics. What measures can be taken by the US to counter them?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Discuss the prospects of peace in South Asia with reference to Kashmir Conflict and Nuclear Arms-race between India and Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation.",
+      "marks": 20
+    }
+  ]
+}

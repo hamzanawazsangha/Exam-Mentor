@@ -1,0 +1,91 @@
+{
+  "subject": "Applied Mathematics",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "1a",
+      "question_text": "Forces of magnitudes P, 2P, 3P, 4P act respectively along the sides AB, BC, CD, DA of a square ABCD, of side a and forces each of magnitude (8\u221a2)P act along the diagonals BD, AC. Find the magnitude of the resultant force and the distance of its line of action from A.",
+      "marks": 10
+    },
+    {
+      "question_number": "1b",
+      "question_text": "A uniform rod AB of length a and weight W is freely hinged to a vertical wall at A and is maintained in equilibrium by a light string of length a fastened to B and to a point C at a distance b vertically above A. Prove that the reaction at the hinge A is \u221a(a\u00b2 + 2b\u00b2)/2b and find the tension in the string.",
+      "marks": 10
+    },
+    {
+      "question_number": "2a",
+      "question_text": "Use Runge-Kutta method of order two to solve the following differential equation at x=1.2 by taking h=0.1: dy/dx = (3x+y)/(x+2y), y(1) = 1.",
+      "marks": 10
+    },
+    {
+      "question_number": "2b",
+      "question_text": "Find the first and second derivatives of f(x) at x = 3 from the following data using Newton\u2019s forward difference interpolation formula: x = 3, 3.5, 4, 4.5, 5, 5.5; f(x) = 4.1023, 5.1047, 8.1971, 9.1096, 4.1122, 6.1148.",
+      "marks": 10
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Find the angle between the surfaces x\u00b2 + y\u00b2 + z\u00b2 = 9 and z = x\u00b2 + y\u00b2 \u22123 at the point (2, \u22121, 2).",
+      "marks": 8
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Show that \u2207r\u207f = nr\u207f\u207b\u00b2r.",
+      "marks": 6
+    },
+    {
+      "question_number": "3c",
+      "question_text": "Find the total work done in a moving particle in a force field given by F= 3xy i - 5z j + 10x k along the curve x = t\u00b2 + 1, y = 2t\u00b2, z = t\u00b3 from t = 1 to t = 2.",
+      "marks": 6
+    },
+    {
+      "question_number": "4a",
+      "question_text": "A particle P moves in a plane in such a way that at any time t, its distance from a fixed point O is r = a t + b t\u00b2 and the line connecting O and P makes an angle \u03b8 = ct^(3/2) with a fixed line OA. Find the radial and transverse components of the velocity and acceleration of the particle at t = 1.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Solve the following Bernoulli\u2019s equation: x dy/dx + y = 1/y\u00b2.",
+      "marks": 10
+    },
+    {
+      "question_number": "5a",
+      "question_text": "Solve the following differential equation: x dy = (x sin x \u2212 y) dx.",
+      "marks": 10
+    },
+    {
+      "question_number": "5b",
+      "question_text": "Find the general solution of the higher order differential equation: y\u2032\u2032\u2032 + 8y\u2032\u2032 = \u22126x\u00b2 + 9x + 2.",
+      "marks": 10
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Find solution of 4y\u2032\u2032 + y = 0 in the form of power series in x.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Solve the following differential equation by variation of parameters: y\u2032\u2032 \u22124y\u2032 + 4y = (x + 1)e\u00b2\u02e3.",
+      "marks": 10
+    },
+    {
+      "question_number": "7a",
+      "question_text": "Find real root of the equation 2x \u2212 3sin(x) \u2212 5 = 0 up to 4 decimal places by secant method.",
+      "marks": 10
+    },
+    {
+      "question_number": "7b",
+      "question_text": "Solve the following system of equations by Gauss Seidel method. Perform only five iterations. { x\u2081 - x\u2082 - 3x\u2083 = 8, x\u2081 + 2x\u2082 + x\u2083 = 6, 2x\u2081 + 3x\u2082 + 5x\u2083 = 5 }",
+      "marks": 10
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Expand f(x) = sin x, 0 < x < \u03c0, in a Fourier cosine series.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "Use the method of separation of variables to find the solution of the following boundary value problem: \u2207\u00b2u = \u2202\u00b2u/\u2202x\u00b2 + \u2202\u00b2u/\u2202y\u00b2 = 0, 0 \u2264 x \u2264 a, 0 \u2264 y \u2264 b; ux(0, y) = 0, ux(a, y) = 0; uy(x, b) = 0, u(x, 0) = f(x).",
+      "marks": 10
+    }
+  ]
+}

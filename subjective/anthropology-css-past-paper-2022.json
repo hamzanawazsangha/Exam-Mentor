@@ -1,0 +1,41 @@
+{
+  "subject": "Anthropology",
+  "year": "2022",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Anthropology focuses on every aspect of human being through physical anthropology, archaeology, linguistic anthropology and socio-cultural anthropology. Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Distinguish among three major types of food production system i.e. horticulture, intensive agriculture and pastoralism. How agriculture can be developed to bring about economic prosperity in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Explain internal and external conflict theories about the emergence of early state societies. Social stratification is one of the defining qualities of the state. Explain.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Explain theory of structural-functionalism of Radcliffe-Brown in which aspects of culture are viewed in terms of the part they play in maintaining the social structure.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Define ethnocentrism and cultural relativism. Discuss the advantages and disadvantages of ethnocentrism and cultural relativism.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Define patrilineal and matrilineal organizations. How patrilineal organization affect the political organization in Pakistan Society?",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Define social stratification. Differentiate between caste and class societies with reference to examples from South Asia.",
+      "marks": 20
+    }
+  ]
+}

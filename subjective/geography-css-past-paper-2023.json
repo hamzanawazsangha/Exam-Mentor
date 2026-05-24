@@ -1,0 +1,41 @@
+{
+  "subject": "Geography",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Differentiate between global warming and ozone depletion. Briefly describe the causes and effects of ozone depletion and global warming.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Discuss the processes of wind-driven and thermo-haline circulation of oceanic water. How are surface oceanic currents affected by global winds movements?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe the formation of a floodplain. How are alluvial terraces, natural levees, oxbow lakes, and backswamps produced?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "What is subduction zone? How does the theory of plate tectonics explain the formation of the Andes mountain range?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What is commercial farming? Discuss the importance of the steppe grassland region of Russia-Ukraine in producing commercial grain farming and supply of wheat in the global food market.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Describe least cost industrial location theory of Weber. Discuss the affecting factors of industrial location, particularly concerning sugar and cement industries.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Distinguish between material and non-material elements of culture. Discuss cultural traits of nomadic culture and sedentary culture.",
+      "marks": 20
+    }
+  ]
+}

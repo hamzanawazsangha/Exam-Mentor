@@ -1,0 +1,41 @@
+{
+  "subject": "Economics, Paper-I",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Is the slope of an indifference curve at a particular point known as the marginal rate of substitution (MRS)? Justify your answer with a graph. If good 1 is a \u2018neutral\u2019, what is its MRS for good 2?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Define opportunity costs and explain why the economic definition of profit requires that we value all inputs and the outputs at their opportunity cost?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Briefly describe the functions of International Monetary Fund (IMF). How does the IMF help countries trapped in financial issues?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "The central bank in a country is responsible for its monetary policy. What are the objectives and tools of monetary policy? Use diagrams to explain your answer.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "What is the theory of liquidity preferences? How does it explain the downward slope of the aggregate-demand curve? Use the theory of liquidity preference to explain how a decrease in the money supply affects the aggregate-demand curve in a closed economy.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Considering the current economic scenario of our economy, recommend an effective policy framework that can reduce budget deficit and improve the developmental outlook.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write short notes on any FOUR of the following: a. Public Goods, b. Draw self-explanatory functions of: MPC, Aggregate demand, Multiplier, c. Cost minimization by a small firm, d. Two methods of national income accounting, e. Fuel poverty, f. Welfare economics.",
+      "marks": 20
+    }
+  ]
+}

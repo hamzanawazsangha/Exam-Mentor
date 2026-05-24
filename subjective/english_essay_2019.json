@@ -1,0 +1,56 @@
+{
+  "subject": "Essay",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Let there be more light in the corridors of worship places.",
+      "marks": 100
+    },
+    {
+      "question_number": "2",
+      "question_text": "New war fronts lie in economic zones.",
+      "marks": 100
+    },
+    {
+      "question_number": "3",
+      "question_text": "Urdu literature and progressive movement.",
+      "marks": 100
+    },
+    {
+      "question_number": "4",
+      "question_text": "Art for peace.",
+      "marks": 100
+    },
+    {
+      "question_number": "5",
+      "question_text": "Truth is lived not taught.",
+      "marks": 100
+    },
+    {
+      "question_number": "6",
+      "question_text": "New Waves of feminism and our culture.",
+      "marks": 100
+    },
+    {
+      "question_number": "7",
+      "question_text": "Democracy and illiteracy do not move together.",
+      "marks": 100
+    },
+    {
+      "question_number": "8",
+      "question_text": "Sometimes we do not see what we see.",
+      "marks": 100
+    },
+    {
+      "question_number": "9",
+      "question_text": "Expanding information technology: a curse or blessing.",
+      "marks": 100
+    },
+    {
+      "question_number": "10",
+      "question_text": "Classrooms decide the future of the nation.",
+      "marks": 100
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "Islamic Studies",
+  "year": "2019",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "Define Tauheed. What is its impact on individual life and the society? Elaborate.",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Give a general estimate of Holy Prophet's (pbuh) character in the battle fields as a commander.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Describe the rights of women in Islam in the context of the current wave of the feminist movement.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Throw light in detail on the moral value system of Islam as a significant feature of Islamic civilization.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Write a comprehensive note on the Hajj (the pilgrimage) system of Islam and its spiritual, moral, and social impacts.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Is extremism a challenge to Islam? Discuss in the context of contemporary challenges faced by the Muslim Ummah.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Give suggestions to reform Pakistani Politics keeping in view the different aspects of the political system of Islam.",
+      "marks": 20
+    }
+  ]
+}

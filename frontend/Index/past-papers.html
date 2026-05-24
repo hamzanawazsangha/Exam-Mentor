@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Papers Repository | ExamMentor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}?v=1.7">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/landing.css') }}?v=1.7">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .page-hero {
+            background-image: linear-gradient(rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.8)), url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&auto=format&fit=crop&w=1471&q=80');
+        }
+
+        .papers-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+        }
+
+        .paper-card-landing {
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            transition: var(--transition);
+            cursor: pointer;
+        }
+
+        .paper-card-landing:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-md);
+            transform: scale(1.02);
+        }
+
+        .paper-icon-box {
+            width: 55px; height: 55px;
+            background: var(--primary-light);
+            color: var(--primary);
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .lock-banner {
+            background: var(--primary-light);
+            padding: 50px;
+            border-radius: 24px;
+            text-align: center;
+            margin-top: 80px;
+            border: 1px solid rgba(88, 28, 135, 0.15);
+        }
+
+        @media (max-width: 768px) {
+            .search-bar-premium { margin: -30px 10px 40px; flex-direction: column; }
+            .search-bar-premium button { width: 100%; margin-top: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="landing-nav">
+        <a href="/" class="logo" style="text-decoration: none; display: flex; align-items: center; gap: 12px;">
+            <img src="/assets/img/logo12.jpg?v=2" alt="ExamMentor Logo" class="custom-logo-img">
+            <h1 style="font-size: 1.5rem; color: var(--primary); margin: 0;">ExamMentor</h1>
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/past-papers" class="active">Past Papers</a></li>
+        </ul>
+        <div class="nav-actions">
+            <!-- Dynamic Content via landing-auth.js -->
+        </div>
+    </nav>
+
+    <header class="page-hero">
+        <div class="container-wide">
+            <h1>The Archive</h1>
+            <p>Decades of CSS & PPSC examination materials at your fingertips.</p>
+        </div>
+    </header>
+
+    <div class="container-wide">
+        <div class="search-bar-premium" style="display: flex; gap: 10px;">
+            <input type="text" id="paper-search" placeholder="Search by subject or year..." oninput="filterLandingPapers()" style="flex: 1;">
+            <select id="paper-year-filter" onchange="filterLandingPapers()" style="padding: 0 20px; border-radius: 12px; border: none; background: var(--gray-100); outline: none; width: 180px; font-family: 'Inter', sans-serif; font-size: 1rem; cursor: pointer;">
+                <option value="">All Years</option>
+            </select>
+        </div>
+
+        <div class="section-padding" style="padding-top: 0;">
+            <div class="papers-grid" id="landing-papers-grid">
+                <!-- Papers will be loaded here dynamically -->
+                <p style="grid-column: 1 / -1; text-align: center; color: var(--text-muted);">Loading repository...</p>
+            </div>
+
+            <div class="lock-banner">
+                <div class="icon-circle" style="margin: 0 auto 20px;"><i data-lucide="lock"></i></div>
+                <h2 style="font-weight: 800; font-family: 'Outfit';">Unlock 500+ More Solved Papers</h2>
+                <p style="max-width: 600px; margin: 0 auto 30px; color: var(--text-muted);">Registered students get access to our complete AI-explained database of PPSC, PMS, and CSS past papers spanning the last 20 years.</p>
+                <a href="/login?mode=register" class="btn-hero-primary">Create Free Account</a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="landing-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h2>ExamMentor</h2>
+                <p>The premium guidance portal for PPSC, PMS, and CSS preparation. Empowering future civil servants with technology.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/past-papers">Past Papers</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="/login">Login Portal</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Contact Support</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 ExamMentor: PPSC & CSS Preparation Portal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/landing-auth.js') }}"></script>
+    <script>
+        const API = 'http://127.0.0.1:5000/api';
+        let allPastPapers = [];
+
+        async function loadLandingPapers() {
+            const grid = document.getElementById('landing-papers-grid');
+            if(!grid) return;
+            
+            try {
+                const res = await fetch(`${API}/past-papers`);
+                const data = await res.json();
+                allPastPapers = data;
+                
+                // Populate Year Filter
+                const years = [...new Set(data.map(p => p.year))].sort((a,b) => b-a);
+                const yearFilter = document.getElementById('paper-year-filter');
+                if(yearFilter && yearFilter.options.length <= 1) {
+                    years.forEach(y => {
+                        if(y !== "Unknown") {
+                            const opt = document.createElement('option');
+                            opt.value = y;
+                            opt.innerText = y;
+                            yearFilter.appendChild(opt);
+                        }
+                    });
+                }
+                
+                renderLandingGrid(allPastPapers);
+            } catch(e) {
+                grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center; color: var(--error);">Failed to load paper repository.</p>';
+            }
+        }
+
+        function renderLandingGrid(papers) {
+            const grid = document.getElementById('landing-papers-grid');
+            if(papers.length === 0) {
+                grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center; color: var(--text-muted);">No papers found matching your criteria.</p>';
+                return;
+            }
+            
+            // Limit to first 12 papers on landing page to encourage sign up, or show all. 
+            // We'll show all to maintain similar function as the dashboard page.
+            grid.innerHTML = papers.map(p => `
+                <div class="paper-card-landing" onclick="window.open('${API}/past-papers/view/${encodeURIComponent(p.filename)}', '_blank')">
+                    <div class="paper-icon-box"><i data-lucide="file-text"></i></div>
+                    <div>
+                        <h4 style="margin: 0; font-size: 1.05rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">${p.subject}</h4>
+                        <span style="color: var(--text-muted); font-size: 0.85rem;">${p.exam_type || 'CSS'} ${p.year}</span>
+                    </div>
+                </div>
+            `).join('');
+            lucide.createIcons();
+        }
+
+        function filterLandingPapers() {
+            const query = document.getElementById('paper-search').value.toLowerCase();
+            const year = document.getElementById('paper-year-filter').value;
+            
+            const filtered = allPastPapers.filter(p => {
+                const matchesQuery = p.subject.toLowerCase().includes(query) || p.year.toString().includes(query);
+                const matchesYear = year === "" || p.year.toString() === year;
+                return matchesQuery && matchesYear;
+            });
+            
+            renderLandingGrid(filtered);
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadLandingPapers();
+        });
+    </script>
+    <script>lucide.createIcons();</script>
+</body>
+</html>

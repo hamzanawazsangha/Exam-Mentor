@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Tests | ElitePrep AI Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="glass-container" id="main-app">
+        <main class="content">
+            <section id="mocktest">
+                <header class="page-header">
+                    <h2><i data-lucide="pencil-ruler" class="icon-inline"></i> Mock Examination Hall</h2>
+                    <p>Simulate real exam conditions with pattern-compliant papers.</p>
+                </header>
+                
+                <div class="tabs-nav mb-4">
+                    <button class="tab-btn active" onclick="switchMockView('generator', this)">New Paper</button>
+                    <button class="tab-btn" onclick="switchMockView('history', this)">History & Results</button>
+                    <button class="tab-btn" onclick="switchMockView('pending', this)">Pending Evaluation</button>
+                </div>
+
+                <div id="mock-generator-view" class="mock-view">
+                    <div class="card glass-card">
+                        <div class="input-col">
+                            <div class="input-row">
+                                <div style="flex: 2;">
+                                    <label>Select Subject</label>
+                                    <select id="mock-subject">
+                                        <option value="">Loading your subjects...</option>
+                                    </select>
+                                </div>
+                                <div style="flex: 1;">
+                                    <label>Paper Type</label>
+                                    <select id="mock-type">
+                                        <option value="all">Full Paper (Mixed)</option>
+                                        <option value="objective">Objective Only (MCQs)</option>
+                                        <option value="subjective">Subjective Only</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button onclick="generateMockTest()">Generate Exam Paper</button>
+                        </div>
+                        <div id="mock-result" class="result-box scrollable mt-4">
+                            <p class="placeholder">Your generated mock paper will appear here…</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="mock-history-view" class="mock-view hidden">
+                    <div class="card glass-card">
+                        <h3>Mock Test History</h3>
+                        <div id="mock-history-list" class="scrollable" style="max-height: 400px;">
+                            <p class="placeholder">No history found.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="mock-pending-view" class="mock-view hidden">
+                    <div class="card glass-card">
+                        <h3>Pending Subjective Evaluation</h3>
+                        <div id="mock-pending-list" class="scrollable" style="max-height: 400px;">
+                            <p class="placeholder">No pending evaluations.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- AI Evaluation Modal/Overlay -->
+    <div id="evaluation-overlay" class="auth-overlay hidden">
+        <div class="card glass-card" style="width: 800px; max-width: 95vw; max-height: 90vh; overflow-y: auto;">
+            <header class="page-header d-flex justify-content-between">
+                <h3>AI Subjective Evaluation</h3>
+                <button onclick="closeEvaluation()" class="btn-sm logout-btn">Close</button>
+            </header>
+            <div id="evaluation-content">
+                <p class="loading">⏳ AI is analyzing your answers against the official syllabus...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Result Modal Overlay -->
+    <div id="result-overlay" class="overlay hidden">
+        <div class="overlay-content premium-report glass-card" style="max-width: 900px;">
+            <button class="close-overlay" onclick="document.getElementById('result-overlay').classList.add('hidden')">
+                <i data-lucide="x"></i>
+            </button>
+            <div id="result-detail-content"></div>
+        </div>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/script.js?v=5"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof loadMockSubjects === 'function') {
+                loadMockSubjects();
+            }
+        });
+        
+        function switchMockView(view, btn) {
+            document.querySelectorAll('.mock-view').forEach(v => v.classList.add('hidden'));
+            document.getElementById(`mock-${view}-view`).classList.remove('hidden');
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            
+            if(view === 'history') loadMockHistory();
+            if(view === 'pending') loadPendingEvaluations();
+        }
+    </script>
+</body>
+</html>

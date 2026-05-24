@@ -1,0 +1,41 @@
+{
+  "subject": "Constitutional Law",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What is the respective subject matter of laws to be passed by the Parliament and Provincial assemblies in Pakistan?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Discuss the Constitutional and Legal dimensions of the doctrine of Rule of Law under the British Constitution.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "What is the impact of the concept of Judicial Activism for the enforcement of Bill of Rights in American Legal System?",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically evaluate the legal framework of Government of India Act 1935. What is its impact on the constitutional schemes of India and Pakistan? Elaborate.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "The frequent Extra Constitutional arrangement and its judicial validation has weakened the democratic system in Pakistan. Give suggestions for improvement of Judicial Review in the light of Judgments of Superior Courts of Pakistan.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Discuss the mechanism of enforcement of fundamental rights under the Russian Constitution.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Whether the proclamation of emergency declared by the executive in India is subject to Judicial Review. If yes, on what grounds?",
+      "marks": 20
+    }
+  ]
+}

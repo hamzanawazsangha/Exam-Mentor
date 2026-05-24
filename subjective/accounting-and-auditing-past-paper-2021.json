@@ -1,0 +1,61 @@
+{
+  "subject": "Accountancy and Auditing, Paper-I",
+  "year": "2021",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "You are required to prepare Income Statement for the period ending 31st December, 2019.",
+      "marks": 20
+    },
+    {
+      "question_number": "3a",
+      "question_text": "Show the journal entries, if K pays for the goodwill in cash.",
+      "marks": 10
+    },
+    {
+      "question_number": "3b",
+      "question_text": "Show the journal entries, if he is unable to bring the cash for the goodwill.",
+      "marks": 10
+    },
+    {
+      "question_number": "4a",
+      "question_text": "Calculate the annual depreciation expense by applying sum of the year digit method.",
+      "marks": 10
+    },
+    {
+      "question_number": "4b",
+      "question_text": "Pass journal entries and prepare depreciation schedule. Also state the assumptions of this method.",
+      "marks": 10
+    },
+    {
+      "question_number": "5",
+      "question_text": "Prepare job order cost sheet. Calculate sales price of the job, assuming that it has been contracted with a mark-up of 40% of cost.",
+      "marks": 20
+    },
+    {
+      "question_number": "6a",
+      "question_text": "Compute the company\u2019s CM ratio and variable expense ratio.",
+      "marks": 10
+    },
+    {
+      "question_number": "6b",
+      "question_text": "Compute the company\u2019s breakeven point in both units and sales rupees.",
+      "marks": 10
+    },
+    {
+      "question_number": "7",
+      "question_text": "The cost of production report for Department 2 for April.",
+      "marks": 20
+    },
+    {
+      "question_number": "8a",
+      "question_text": "Determine the predetermined overhead rate.",
+      "marks": 10
+    },
+    {
+      "question_number": "8b",
+      "question_text": "What is the overhead applied during the year?",
+      "marks": 10
+    }
+  ]
+}

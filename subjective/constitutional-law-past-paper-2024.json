@@ -1,0 +1,41 @@
+{
+  "subject": "Constitutional Law",
+  "year": "2024",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "How did the Supreme Court's legal reasoning in the Dosso v. Federation of Pakistan case contribute to legitimizing the imposition of martial law, with a focus on its alignment with the Kelsenian theory?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Examine the mechanism of checks and balances within Pakistan's parliamentary system. How does it ensure accountability and prevent abuse of power?",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Compare the federal structures of USA and India, emphasizing the similarities and differences in the division of powers between central and state governments.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "Critically analyze the salient features of the Russian Constitution and explain how they impact the country's laws and politics.",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Comprehensively examine how the system of checks and balances within the U.S. Constitution contributes to the separation of powers and safeguards against potential abuses of authority?",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Compare how the House of Lords and the House of Commons contribute to making laws in the UK. Explain the key differences in their roles and how these differences impact the legislative process.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Critically analyze the historical and foundational aspects of the Objective Resolution 1949. Highlight its specific inclusion in the 1973 constitution, examining its ongoing influence in interpretation in the country's constitutional framework.",
+      "marks": 20
+    }
+  ]
+}

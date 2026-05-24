@@ -1,0 +1,41 @@
+{
+  "subject": "Arabic",
+  "year": "2023",
+  "questions": [
+    {
+      "question_number": "2",
+      "question_text": "What do you know about the poetry of the Seven Mu'allaqat?",
+      "marks": 20
+    },
+    {
+      "question_number": "3",
+      "question_text": "Who is Al-Farazdaq? Write in detail about his life and poetic contributions.",
+      "marks": 20
+    },
+    {
+      "question_number": "4",
+      "question_text": "Discuss the reasons for the flourishing of poetry in the Abbasid era.",
+      "marks": 20
+    },
+    {
+      "question_number": "5",
+      "question_text": "How has the novel evolved in the modern era with reference to the works of Naguib Mahfouz?",
+      "marks": 20
+    },
+    {
+      "question_number": "6",
+      "question_text": "Write about the life of Ahmed Shawqi and his poetic contributions in detail.",
+      "marks": 20
+    },
+    {
+      "question_number": "7",
+      "question_text": "Provide a brief article about Shah Waliullah along with his literary works.",
+      "marks": 20
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write an essay on the following topics: (a) The art of oratory in the Umayyad era (b) Criticism in Arabic literature (c) Diwan Al-Hamasah (d) Quss Ibn Sa'idah",
+      "marks": 20
+    }
+  ]
+}
